@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
  >**OR..**
 
- >**Search: 'Resource Groups' and click that one. It will take you to the same place.**
+ >**Search: 'Resource Groups' and click that one. It will take you to the same place, which is the Resource Groups Default Directory.**
 
 <img width="1511" alt="288E1011-D2F5-4BEA-BE41-76501A70922C" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/aaf74755-636a-4191-935f-29f2f746a1e6"><br>
  >**NOTE: You can make a 'Resource Group' at the same time you create a VM. I just wanted to show you how to do it step-by-step.**
