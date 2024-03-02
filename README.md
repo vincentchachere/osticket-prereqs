@@ -80,9 +80,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3>6. ) Finally, we review and create!</h3>
 
- >**Look over the resource group information**
+ >**Look over the resource group information.**
 
- >**Verify its all correct**
+ >**Verify its all correct.**
 
  >**Click 'Create' to bring alive our first resource group!**
 
@@ -90,11 +90,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2></h2><br>
 
-<h3>🎊CONGRATS!🎉</h3>
+<h3>Congrats! You created you're Resource Group!</h3>
 
-<img width="1509" alt="D85CECB1-2110-411B-822C-33E0AA5D395C" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5e6c3401-9de6-497f-8aff-a1c59a83507c"><br>
+ >**You should see the 'Successfully Ceated Resource Group Notification' in the top ight corner of your screen.**
+ >**Click 'Refresh' if you dont see your Resource Group as depicted in the image below.**
+ >**Click the 'RG-osTicket' resource group you just created to enter into the next phase of this lab.**
 
- >**However, the mission isn't over.
+<img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2981d35-3f56-4b35-a47d-d2dafd1600a6"><br>
+
+ >**NOTE: If you ever a resource group or virtual machine and DO NOT see it in your Azure Portal in its correct location, there's two solutions to this. First, refresh your Resource Group Default Directory Azure Portal, or if thats unsuccessful, just go through the steps again and if it doesn't let you create a resource group with the name 'RG-osTicket' (the name you originally typed in for the resurce group), then that's how you know the Resource Group is created, you just have to wait a little longer and refresh your Resource Group Default Directory in your Azure Portal.**
 
 ________________________________________________________________________________________________________________________<br>
 
