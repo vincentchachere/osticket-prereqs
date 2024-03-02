@@ -34,11 +34,11 @@ ________________________________________________________________________________
 
 <br>
 
-### 1. ) Starting at the 'Home' screen in your Microsoft Azure Portal
+## 1. ) Starting at the 'Home' screen in your Microsoft Azure Portal
 
- >**Click: the 'Resource Groups' icon that's already on your home screen or..**
+- Click: the 'Resource Groups' icon that's already on your home screen or..
 
- >**You can Search: 'Resource Groups' and click that one. It will take you to the same place, which is the 'Resource Groups Default Directory'.**
+- You can Search: 'Resource Groups' and click that one. It will take you to the same place, which is the 'Resource Groups Default Directory'
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d273a110-a34c-4707-8a06-058d12c11cc5"><br>
 
@@ -48,11 +48,11 @@ ________________________________________________________________________________
 
 <br>
  
-### 2. ) Click 'Create' to start your resource group
+## 2. ) Click 'Create' to start your resource group
 
- >**Or..**
+- Or..
 
- >**You can click the blue 'Create' in the middle of the screen as well, and it will take you to the same place.**
+- You can click the blue 'Create' in the middle of the screen as well, and it will take you to the same place.
  
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56fec2c9-0ba3-4e35-8c26-6bc6e7e6313b"><br>
 
@@ -60,15 +60,15 @@ ________________________________________________________________________________
 
 <br>
 
-### 3. ) Next, we'll input the following:</h3>
+## 3. ) Next, we'll input the following:
 
  >**ATTENTION: Double check spelling when creating anything (resource groups, virtual machines, etc.) or you will have to delete it all and start over, because once it's created the information you initially inserted will NOT be able to be edited (name, region, etc.)**
 
- >**Resource Group Name: RG-osTicket**
+- Resource Group Name: RG-osTicket
 
- >**Region: (US) West US 3**
+- Region: (US) West US 3
 
- >***Scroll Down**
+- *Scroll Down*
 
 <img width="1511" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4829d10a-d483-4c28-93a1-64034a6e0cf3"><br>
 
@@ -76,11 +76,11 @@ ________________________________________________________________________________
 
 <br>
 
-### 4. ) Now, let's click 'Review + Create'</h3>
+## 4. ) Now, let's click 'Review + Create'
 
- >**Dont worry about the 'Tags' section, we don't need that part for this lab.**
+- Dont worry about the 'Tags' section, we don't need that part for this lab.
 
- >**The 'Tags' section is used for organizational purposes.**
+- The 'Tags' section is used for organizational purposes.
 
 <img width="1511" alt="F462BC66-31ED-444E-A61B-CD02C75151FD" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/22252a11-ece8-4e38-873c-f6faf00efe29"><br>
 
@@ -90,13 +90,13 @@ ________________________________________________________________________________
 
 <br>
 
-## 5. ) Finally, we review and create!</h3>
+## 5. ) Finally, we review and create!
 
- >**Look over the resource group information.**
+- Look over the resource group information.
 
- >**Verify its all correct.**
+- Verify its all correct.
 
- >**Click 'Create' to bring alive our first resource group!**
+- Click 'Create' to bring alive our first resource group!
 
 <img width="1511" alt="6353AD56-C708-4D3D-ABEB-7C29A8E42E5F" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f2d3265-2f3f-457f-a710-1be04c7d9545"><br>
 
@@ -107,11 +107,11 @@ ________________________________________________________________________________
 ## Congrats!
 ### You're done creating you're Resource Group!
 
- >**You should see the 'Successfully Ceated Resource Group Notification' in the top right corner of your screen.**
+- You should see the 'Successfully Ceated Resource Group Notification' in the top right corner of your screen.
 
- >**Click 'Refresh' if you dont see your Resource Group, then..**
+- Click 'Refresh' if you dont see your Resource Group, then..
 
- >**Click your resource group 'RG-osTicket' to enter into the next part of this lab.**
+- Click your resource group 'RG-osTicket' to enter into the next part of this lab.
 
 <img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2981d35-3f56-4b35-a47d-d2dafd1600a6"><br>
 
@@ -121,12 +121,13 @@ ________________________________________________________________________________
 
 <br>
 
-# 📝 Installation Steps - Part B: Create a 'Resource Group'</h2><br>
+# 📝 Installation Steps - Part B: Create a 'Resource Group'
 
-### 7. ) Now we Refresh and Go inside our newly created Resource Group</h3>
+### 7. ) Now we Refresh and Go inside our newly created Resource Group
 
- >**First, click Refresh then if your resource group doesnt pop up..**
- >**Click 'Refresh' and it should show up.**
+- First, click Refresh then if your resource group doesnt pop up..
+
+- Click 'Refresh' and it should show up.
 
 <img width="1509" alt="D562A5D5-19D6-423B-BB96-A794E4869CCF" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/28151172-7ca9-49ec-823f-14686998d4a6"><br>
 
