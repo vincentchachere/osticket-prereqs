@@ -88,13 +88,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1511" alt="6353AD56-C708-4D3D-ABEB-7C29A8E42E5F" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f2d3265-2f3f-457f-a710-1be04c7d9545"><br>
 
-<h2></h2><br>
+________________________________________________________________________________________________________________________<br>
 
-<h3>Congrats! You created you're Resource Group!</h3>
+## Congrats!
+### You created you're Resource Group!
 
- >**You should see the 'Successfully Ceated Resource Group Notification' in the top ight corner of your screen.**
- >**Click 'Refresh' if you dont see your Resource Group as depicted in the image below.**
- >**Click the 'RG-osTicket' resource group you just created to enter into the next phase of this lab.**
+ >**You should see the 'Successfully Ceated Resource Group Notification' in the top right corner of your screen.**
+
+ >**Click 'Refresh' if you dont see your Resource Group, then..**
+
+ >**Click the 'RG-osTicket' you just created to enter into the next part of this lab.**
 
 <img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2981d35-3f56-4b35-a47d-d2dafd1600a6"><br>
 
