@@ -116,9 +116,11 @@ ________________________________________________________________________________
 
 <img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2981d35-3f56-4b35-a47d-d2dafd1600a6"><br>
 
- >**NOTE: Whenever you create a resource group or virtual machine and DO NOT see it in your Azure Portal in its correct location, there's two solutions to this.**
+ >**NOTE: Whenever you create a resource group or virtual machine and DO NOT see it in your Azure Portal in its correct location, there's two solutions to this:**
 
- >**First, refresh your Resource Group Default Directory Azure Portal, or if thats unsuccessful, just go through the steps again and if it doesn't let you create a resource group with the name 'RG-osTicket' (the name you originally typed in for the resurce group), and that's how you know the Resource Group is created. You just have to wait a little longer and refresh your Resource Group Default Directory in your Azure Portal.**
+ >**First, refresh your Resource Group Default Directory (Search: Resource Group and you'll be in that section), and if that's unsuccessful..**
+
+ >**Go through the steps again in this lab and if it doesn't let you create a resource group with the name 'RG-osTicket' (the name you originally typed in for the resurce group), then that's how you know the Resource Group is created, you will just have to wait a little longer and refresh your Resource Group Default Directory.**
 
 ________________________________________________________________________________________________________________________<br>
 
