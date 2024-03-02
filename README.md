@@ -69,15 +69,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3>4. ) Now, let's click 'Review + Create'</h3>
 
- >**We havent created/finished the resource group yet by clicking this. Microsoft Azure let's you double check (review) the information you input before finalizing your resource group (It also does this for virtual machines).**
-
  >**Dont worry about the 'Tags' section, we don't need that part for this lab.**
 
  >**The 'Tags' section is used for organizational purposes.**
 
 <img width="1511" alt="F462BC66-31ED-444E-A61B-CD02C75151FD" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/22252a11-ece8-4e38-873c-f6faf00efe29"><br>
 
- >**NOTE: Make it a habit to double check the information you type in, so that you dont have to erase everything you just created, because of one wrong letter.**
+ >**NOTE: We have NOT finished creating the resource group yet by clicking 'Review + Create'. Microsoft Azure let's you double check (review) the information you input before finalizing (creating) your resource group. It also does this for virtual machines, so make it a habit to double check the information you type in, so that you don't have to erase everything you end up creating, because of one wrong letter.**
 
 <h2></h2>
 
@@ -96,4 +94,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h3>🎊CONGRATS!🎉</h3>
 
 <img width="1509" alt="D85CECB1-2110-411B-822C-33E0AA5D395C" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5e6c3401-9de6-497f-8aff-a1c59a83507c">
+
+ >**However, the mission isn't over.
 
