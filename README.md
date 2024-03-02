@@ -105,6 +105,7 @@ ________________________________________________________________________________
 <br>
 
 ## Congrats!
+
 ### You're done creating you're Resource Group!
 
 - You should see the 'Successfully Ceated Resource Group Notification' in the top right corner of your screen.
@@ -117,13 +118,13 @@ ________________________________________________________________________________
 
  >**NOTE: Whenever you create a resource group or virtual machine and DO NOT see it in your Azure Portal in its correct location, there's two solutions to this. First, refresh your Resource Group Default Directory Azure Portal, or if thats unsuccessful, just go through the steps again and if it doesn't let you create a resource group with the name 'RG-osTicket' (the name you originally typed in for the resurce group), then that's how you know the Resource Group is created, you just have to wait a little longer and refresh your Resource Group Default Directory in your Azure Portal.**
 
-***
-
-<br>
+________________________________________________________________________________________________________________________<br>
 
 # 📝 Installation Steps - Part B: Create a 'Resource Group'
 
-### 7. ) Now we Refresh and Go inside our newly created Resource Group
+<br>
+
+## 7. ) Now we Refresh and Go inside our newly created Resource Group
 
 - First, click Refresh then if your resource group doesnt pop up..
 
