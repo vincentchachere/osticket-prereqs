@@ -103,11 +103,22 @@ ________________________________________________________________________________
 
 <h2></h2>
 
-<h3> 7. ) </h3>
+<h3> 7. ) Now we Refresh and Go inside our newly created Resource Group</h3>
+
+ >**First, click Refresh then if your resource group doesnt pop up..**
+ >**Click 'Refresh' and it should show up.**
 
 <img width="1509" alt="B524BD7B-7910-4A4D-B3FC-D45AF83EE1A9" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4be215c5-dd5c-4d2d-8fa9-bade2623bea3"><br>
 
-<h2></h2>
+ >**NOTE: If your resource group doesnt show up just go through the steps again, and if it doesn't let you create a resource group with 'RG-osTicket' (the name you originally typed in), then that's how you know it went through and you just have to wait a minute, refresh your 'Resource Groups Default Directory', and let technology do its thing.**
+
+<h2></h2><br>
+
+<h3>8. ) </h3>8. ) 
+
+ >**
+ >**
+
 
 
 
