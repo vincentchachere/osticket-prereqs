@@ -128,7 +128,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 7. ) 
+## 7. ) Refresh your Resource Group Default Directory and click your resource group 'RG-osTicket'
 
 - First, click Refresh then if your resource group doesnt pop up..
 
@@ -152,11 +152,13 @@ ________________________________________________________________________________
 
  >**h**
 
-<img
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a76f18b-8e6b-4012-b3e9-631654f611ab"><br>
 
 ***
 
-## 8. ) 
+<br>
+
+## 9. ) 
 
 - 
 
@@ -166,11 +168,13 @@ ________________________________________________________________________________
 
  >**h**
 
-<img
+<img width="1511" alt="isolated" src="
 
 ***
 
-## 8. ) 
+<br>
+
+## 10. ) 
 
 - 
 
@@ -180,6 +184,11 @@ ________________________________________________________________________________
 
  >**h**
 
-<img
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f814f1b1-2e78-4e62-b2b2-fc9cb4bc8611"><br>
 
 ***
+
+<br> 
+
+## 11. ) 
+
