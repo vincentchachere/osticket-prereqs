@@ -82,10 +82,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h3>6. ) Finally, we review and create!</h3>
 
- >**Look over the resource group information, verify its all correct, and click 'Create' to bring alive our first resource group!**
+ >**Look over the resource group information**
 
- >**Conrgrats!**
+ >**Verify its all correct**
+
+ >**Click 'Create' to bring alive our first resource group!**
 
 <img width="1511" alt="6353AD56-C708-4D3D-ABEB-7C29A8E42E5F" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f2d3265-2f3f-457f-a710-1be04c7d9545"><br>
 
 <h2></h2>
+
+<h3>🎊CONGRATS!🎉</h3>
+
+<img width="1509" alt="D85CECB1-2110-411B-822C-33E0AA5D395C" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5e6c3401-9de6-497f-8aff-a1c59a83507c">
+
