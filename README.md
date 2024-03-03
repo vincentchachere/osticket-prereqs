@@ -190,8 +190,6 @@ ________________________________________________________________________________
 
 - Go ahead and click 'Review and Create'
 
- >**h**
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d25401ce-e384-4511-a592-9747b8bc9be9"><br>
 
 ***
