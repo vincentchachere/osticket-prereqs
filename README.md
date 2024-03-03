@@ -106,7 +106,7 @@ ________________________________________________________________________________
 
 ## Congrats!
 
-### You're done creating you're Resource Group!
+### 6. ) You're done creating you're Resource Group!
 
 - You should see the 'Successfully Ceated Resource Group Notification' in the top right corner of your screen.
 
@@ -124,51 +124,49 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________<br>
 
-# 📝 Installation Steps - Part B: Create a 'Resource Group'
+# 📝 Installation Steps - Part B: Create a 'Virtual Machine'
 
 <br>
 
-## 7. ) 
+## 7. ) Now, for this second part we will create a 'Virtual Machine' inside the resource group we just created.
 
-- First, click Refresh then if your resource group doesnt pop up..
+- So type into the searh bar 'Virtual Machine' and select it to continue.
 
-- Click 'Refresh' and it should show up.
-
-<img width="1509" alt="D562A5D5-19D6-423B-BB96-A794E4869CCF" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/28151172-7ca9-49ec-823f-14686998d4a6"><br>
-
- >**NOTE: If your resource group doesnt show up just go through the steps again, and if it doesn't let you create a resource group with 'RG-osTicket' (the name you originally typed in), then that's how you know it went through and you just have to wait a minute, refresh your 'Resource Groups Default Directory', and let technology do its thing.**
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f81d1869-9805-40b1-b4b9-76aa85c0f751"><br>
 
 ***
 
 <br>
 
-## 8. ) 
+## 8. ) Click one of the 'Create' buttons to start creating your Virtual Machine
 
-- 
+ >**Note: This is called your 'Virtual Machine Default Directory'**
 
-- 
-
-- 
-
- >**h**
-
-<img width="1509" alt="D562A5D5-19D6-423B-BB96-A794E4869CCF" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0e224968-42d7-48f9-8a72-12218cd4f55e"><br>
+<img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d2a8f586-58ac-4bea-99e8-919410d8d839"><br>
 
 ***
 
 <br>
 
-## 9. ) 
+## 9. ) Now we can put in key information for our Virtual Machine
 
-- 
+- Select your subscription
 
-- 
+- Resource Group Name: RG-osTicket (the one you created)
 
-- 
+- Virtual Machine Name:vm-osticket (all lowercase)
 
- >**h**
+- Region: (US) West 3 
 
-image
+- Availability Options: No infrastructure redundancy required
+
+- Security Type: Standard
+
+- Image: Windows 10 Pro, version 22H2 - ×64 Gen2
+
+- Leave the 'VM Architecture' & 'Run with Azure Sport Discount' parts toward the bottom alone.
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0f114991-5378-4dfa-ac2d-cbded1d74006"><br>
 
 ***
 
@@ -184,7 +182,23 @@ image
 
  >**h**
 
-image
+<img width="1511" alt="isolated" src="
+
+***
+
+<br>
+
+## 11. ) 
+
+- 
+
+- 
+
+- 
+
+ >**h**
+
+<img width="1511" alt="isolated" src="
 
 ***
 
