@@ -140,9 +140,9 @@ ________________________________________________________________________________
 
 ## 8. ) Click one of the 'Create' buttons to start creating your Virtual Machine
 
- >**Note: This is called your 'Virtual Machine Default Directory'**
-
 <img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d2a8f586-58ac-4bea-99e8-919410d8d839"><br>
+
+ >**Note: This is called your 'Virtual Machine Default Directory'**
 
 ***
 
@@ -154,7 +154,7 @@ ________________________________________________________________________________
 
 - Resource Group Name: RG-osTicket (the one you created)
 
-- Virtual Machine Name:vm-osticket (all lowercase)
+- Virtual Machine Name: vm-osticket (all lowercase)
 
 - Region: (US) West 3 
 
@@ -166,23 +166,33 @@ ________________________________________________________________________________
 
 - Leave the 'VM Architecture' & 'Run with Azure Sport Discount' parts toward the bottom alone.
 
+- *Scroll Down once completed*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0f114991-5378-4dfa-ac2d-cbded1d74006"><br>
 
 ***
 
 <br>
 
-## 10. ) 
+## 10. ) As before, we will fill in the following:
 
-- 
+- Size: 
 
-- 
+- Username: 
 
-- 
+- Password:
+
+- Public Inbound Ports:
+
+- Select Inbound Ports: 
+
+- *Check the Box*
+
+- Go ahead and click 'Review and Create'
 
  >**h**
 
-<img width="1511" alt="isolated" src="
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d25401ce-e384-4511-a592-9747b8bc9be9"><br>
 
 ***
 
