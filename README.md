@@ -164,9 +164,9 @@ ________________________________________________________________________________
 
 - Image: Windows 10 Pro, version 22H2 - ×64 Gen2
 
-- Leave the 'VM Architecture' & 'Run with Azure Sport Discount' parts toward the bottom alone.
-
 - *Scroll Down once completed*
+
+>**Leave the 'VM Architecture' & 'Run with Azure Sport Discount' parts toward the bottom alone.**
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0f114991-5378-4dfa-ac2d-cbded1d74006"><br>
 
@@ -198,6 +198,44 @@ ________________________________________________________________________________
 
 <br>
 
+## 11. ) Review your Information and Officially Create your Virtual Machine!
+
+<br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bd8c8d4b-ab9f-4c50-98bc-813db9816512"><br>
+
+<img width="1728" alt="7089B374-E68C-4593-A778-2A53F8D60FB4" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f58cd4a0-9004-40c1-9a3a-e7d4a9338641"><br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/64898c62-a446-44ba-8b8f-a49278c26c64"><br>
+
+***
+
+<br>
+
+## 11. ) Wait for your Virtual Machine to load and go to your new resource
+
+<br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/acdefb7f-15ac-48ae-a1d0-3229dfb68a88"><br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1bd4eec6-f4e9-4329-9b97-722ee8a58024"><br>
+
+>**NOTE: You can wait for your VM to be completed on the screen displeyed in the image beloew or *Click* 'Go to Resource' and wait there.**
+
+***
+
+<br>
+
+## 11. ) Now we are inside our Virtual Machine: vm-osticket
+
+- This is where you can navigate all your Virtual Machine's information here.
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d95f8b93-98e5-4448-89c7-a4e263b349b0"><br>
+
+***
+
+<br>
+
 ## 11. ) 
 
 - 
@@ -208,7 +246,39 @@ ________________________________________________________________________________
 
  >**h**
 
-<img width="1511" alt="isolated" src="
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+## 11. ) 
+
+- 
+
+- 
+
+- 
+
+ >**h**
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+## 11. ) 
+
+- 
+
+- 
+
+- 
+
+ >**h**
+
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
