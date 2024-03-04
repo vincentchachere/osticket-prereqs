@@ -224,12 +224,24 @@ ________________________________________________________________________________
 
 <br>
 
-## 11. ) Now we are inside our Virtual Machine: vm-osticket
+## 11. ) Now we are inside our Virtual Machine: vm-osticket and this concludes Part B.
 
 - This is where you can navigate all your Virtual Machine's information here.
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d95f8b93-98e5-4448-89c7-a4e263b349b0"><br>
 
+________________________________________________________________________________________________________________________<br>
+
+# 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
+
+<br>
+
+## 7. ) 
+
+- 
+
+<img width="1728" alt="10F2068D-5B32-46BF-9C62-F498C65B7067" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6b63f037-d4f6-456c-a071-5d97f3541596"><br>
+
 ***
 
 <br>
@@ -244,7 +256,7 @@ ________________________________________________________________________________
 
  >**h**
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1728" alt="400970F0-127F-4C70-9A53-BEDFB17E1F0D" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4f2fcebd-d977-4d34-a96f-1863d5321f99">
 
 ***
 
@@ -260,7 +272,7 @@ ________________________________________________________________________________
 
  >**h**
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1728" alt="E172404D-8790-4F6E-8036-0044048E4ACE" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1b7e4546-3044-4479-8af5-b5f96e716318">
 
 ***
 
