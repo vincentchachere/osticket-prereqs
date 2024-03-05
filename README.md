@@ -210,7 +210,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 11. ) Wait for your Virtual Machine to load and go to your new resource
+## 12. ) Wait for your Virtual Machine to load and go to your new resource
 
 <br>
 
@@ -224,7 +224,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 11. ) Now we are inside our Virtual Machine: vm-osticket and this concludes Part B.
+## 13. ) Now we are inside our Virtual Machine: vm-osticket and this concludes Part B.
 
 - This is where you can navigate all your Virtual Machine's information here.
 
@@ -236,7 +236,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 7. ) 
+## 14. ) 
 
 - 
 
@@ -246,7 +246,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 11. ) 
+## 15. ) 
 
 - 
 
@@ -262,7 +262,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 11. ) 
+## 16. ) 
 
 - 
 
@@ -278,7 +278,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 11. ) 
+## 17. ) 
 
 - 
 
