@@ -176,15 +176,15 @@ ________________________________________________________________________________
 
 ## 10. ) As before, we will fill in the following:
 
-- Size: 
+- Size: Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)
 
-- Username: 
+- Username: vincentchachere
 
-- Password:
+- Password: whatever-you-want (Just remember it!)
 
-- Public Inbound Ports:
+- Public Inbound Ports: Allow Selected Ports
 
-- Select Inbound Ports: 
+- Select Inbound Ports: RDP (3389)
 
 - *Check the Box*
 
@@ -218,7 +218,7 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1bd4eec6-f4e9-4329-9b97-722ee8a58024"><br>
 
->**NOTE: You can wait for your VM to be completed on the screen displeyed in the image beloew or *Click* 'Go to Resource' and wait there.**
+>**NOTE: You can wait for your VM to be completed on the screen displayed in the image below or *Click* 'Go to Resource' and wait there.**
 
 ***
 
