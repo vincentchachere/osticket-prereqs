@@ -3,64 +3,66 @@
 </p>
 
 # osTicket - Prerequisites and Installation
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br/>
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop (macOS)
 - Internet Information Services (IIS)
 
 ## Operating Systems Used
 
-- Windows Windows 10 (21H2)
+- Windows 10</b> (21H2)
 
 ## List of Prerequisites
 
-- Connect to your Virtual Machine with Remote Desktop
-- Install / Enable IIS in Windows
+- Connect Virtual Machine with Remote Desktop
+- Install/Enable IIS in Windows
 - Install Web Platform Installer
 - Install osTicket v1.15.8
-- Download and Install HeidiSQL
-- Created database for "osTicket
-- Clean up 
+- Download & Install HeidiSQL
+- Create a database for 'osTicket'
+- Clean Up Resources
 - Change File Permissions
 
-<br>
+## Installation Files
+
+- https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6  
+
+***
 
 ________________________________________________________________________________________________________________________<br>
 
-# 📝 Installation Steps - Part A: Create a 'Resource Group'
+## 📝 Installation Steps - Part A: Create a 'Resource Group'
 
-<br>
+### 1. ) Starting at the 'Home' screen in your Microsoft Azure Portal
 
-## 1. ) Starting at the 'Home' screen in your Microsoft Azure Portal
+- Click: the 'Resource Groups' icon that's already on your home screen
 
-- Click: the 'Resource Groups' icon that's already on your home screen or..
+- or..
 
-- You can Search: 'Resource Groups' and click that one. It will take you to the same place, which is the 'Resource Groups Default Directory'
+- Search: 'Resource Groups' and click that one (They do the same thing)
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d273a110-a34c-4707-8a06-058d12c11cc5"><br>
-
- >**NOTE: You can make a 'Resource Group' at the same time you create a VM. I just wanted to show you how to do it step-by-step.**
 
 ***
 
 <br>
- 
-## 2. ) Click 'Create' to start your resource group
+
+### 2. ) Click 'Create' to start your resource group
 
 - Or..
 
 - You can click the blue 'Create' in the middle of the screen as well, and it will take you to the same place.
- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56fec2c9-0ba3-4e35-8c26-6bc6e7e6313b"><br>
 
 ***
 
 <br>
 
-## 3. ) Next, we'll input the following:
+### 3. ) Next, we'll input the following:
 
 - Resource Group Name: RG-osTicket
 
@@ -124,11 +126,9 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________<br>
 
-# 📝 Installation Steps - Part B: Create a 'Virtual Machine'
+## 📝 Installation Steps - Part B: Create a 'Virtual Machine'
 
-<br>
-
-## 7. ) Now, for this second part we will create a 'Virtual Machine' inside the resource group we just created.
+### 7. ) Now, for this second part we will create a 'Virtual Machine' inside the resource group we just created.
 
 - So type into the searh bar 'Virtual Machine' and select it to continue.
 
@@ -138,7 +138,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 8. ) Click one of the 'Create' buttons to start creating your Virtual Machine
+### 8. ) Click one of the 'Create' buttons to start creating your Virtual Machine
 
 <img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d2a8f586-58ac-4bea-99e8-919410d8d839"><br>
 
@@ -148,7 +148,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 9. ) Now we can put in key information for our Virtual Machine
+### 9. ) Now we can put in key information for our Virtual Machine
 
 - Select your subscription
 
@@ -174,7 +174,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 10. ) As before, we will fill in the following:
+### 10. ) As before, we will fill in the following:
 
 - Size: Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)
 
@@ -196,7 +196,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 11. ) Review your Information and Officially Create your Virtual Machine!
+### 11. ) Review your Information and Officially Create your Virtual Machine!
 
 <br>
 
@@ -210,7 +210,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 12. ) Wait for your Virtual Machine to load and go to your new resource
+### 12. ) Wait for your Virtual Machine to load and go to your new resource
 
 <br>
 
@@ -224,19 +224,19 @@ ________________________________________________________________________________
 
 <br>
 
-## 13. ) Now we are inside our Virtual Machine: vm-osticket and this concludes Part B.
+### 13. ) Now we are inside our Virtual Machine: vm-osticket
 
-- This is where you can navigate all your Virtual Machine's information here.
+- This is where you can navigate throughout your Virtual Machine's information.
+
+- This concludes Part B!
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d95f8b93-98e5-4448-89c7-a4e263b349b0"><br>
 
 ________________________________________________________________________________________________________________________<br>
 
-# 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
+## 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
 
-<br>
-
-## 14. ) 
+### 14. ) 
 
 - 
 
@@ -246,7 +246,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 15. ) 
+### 15. ) 
 
 - 
 
@@ -262,7 +262,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 16. ) 
+### 16. ) 
 
 - 
 
@@ -278,7 +278,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 17. ) 
+### 17. ) 
 
 - 
 
@@ -293,3 +293,6 @@ ________________________________________________________________________________
 ***
 
 <br>
+
+
+
