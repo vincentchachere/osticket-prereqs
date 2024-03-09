@@ -26,13 +26,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Clean Up Resources
 - Change File Permissions
 
-________________________________________________________________________________________________________________________<br>
+__________________________________________________________________________________________<br>
 
 ## Installation Files
 
 - https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6  
 
-________________________________________________________________________________________________________________________<br>
+__________________________________________________________________________________________<br>
 
 ## 📝 Installation Steps - Part A: Create a 'Resource Group'
 
@@ -124,7 +124,7 @@ ________________________________________________________________________________
 
  >**Go through the steps again in this lab and if it doesn't let you create a resource group with the name 'RG-osTicket' (the name you originally typed in for the resurce group), then that's how you know the Resource Group is created, you will just have to wait a little longer and refresh your Resource Group Default Directory.**
 
-________________________________________________________________________________________________________________________<br>
+__________________________________________________________________________________________<br>
 
 ## 📝 Installation Steps - Part B: Create a `Virtual Machine`
 
@@ -232,7 +232,7 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d95f8b93-98e5-4448-89c7-a4e263b349b0"><br>
 
-________________________________________________________________________________________________________________________<br>
+__________________________________________________________________________________________<br>
 
 ## 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
 
@@ -297,7 +297,9 @@ ________________________________________________________________________________
  
 - Fix any failures in the installation by:
 
-  - Going to Google Drive to <a href="https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">download </a>and install PHP 7.3.8, 'PHP Manager', and..
+  - Going to Google Drive to <a href="https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">download </a> and..
+  - Install: PHP 7.3.8
+  - Install: 'PHP Manager' and..
   - Microsoft Visual C++ 2009 Redistributable Package
 
 ### 20. ) From the downloaded files
@@ -308,8 +310,8 @@ ________________________________________________________________________________
   - Rename “upload” to "osTicket"
 
 <p align="center">
-<img src="https://i.imgur.com/F1wPGL1.png" height="65%" width="65%" alt="exacted osTicket files."/>                                                                        </p>
-
+<img src="https://i.imgur.com/F1wPGL1.png" height="65%" width="65%" alt="exacted osTicket files."/>
+ 
 ### 21. ) Reload IIS
 
 - Open IIS
