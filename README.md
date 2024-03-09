@@ -26,11 +26,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Clean Up Resources
 - Change File Permissions
 
+________________________________________________________________________________________________________________________<br>
+
 ## Installation Files
 
 - https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6  
-
-***
 
 ________________________________________________________________________________________________________________________<br>
 
@@ -218,7 +218,7 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1bd4eec6-f4e9-4329-9b97-722ee8a58024"><br>
 
->**NOTE: You can wait for your VM to be completed on the screen displayed in the image below or *Click* 'Go to Resource' and wait there.**
+>**NOTE: You can wait for your VM to be completed on the screen displayed in the image above or *Click* 'Go to Resource' and wait there.**
 
 ***
 
