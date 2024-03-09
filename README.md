@@ -38,11 +38,11 @@ ________________________________________________________________________________
 
 ### 1. ) Starting at the 'Home' screen in your Microsoft Azure Portal
 
-- Click: the 'Resource Groups' icon that's already on your home screen
+- Click: the `Resource Groups` icon that's already on your home screen
 
 - or..
 
-- Search: 'Resource Groups' and click that one (They do the same thing)
+- Search: `Resource Groups` and click that one (They do the same thing)
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d273a110-a34c-4707-8a06-058d12c11cc5"><br>
 
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 2. ) Click 'Create' to start your resource group
+### 2. ) Click `Create` to start your resource group
 
 - Or..
 
@@ -64,9 +64,9 @@ ________________________________________________________________________________
 
 ### 3. ) Next, we'll input the following:
 
-- Resource Group Name: RG-osTicket
+- Resource Group Name: `RG-osTicket`
 
-- Region: (US) West US 3
+- Region: `(US) West US 3`
 
 - *Scroll Down*
 
@@ -78,7 +78,7 @@ ________________________________________________________________________________
 
 <br>
 
-## 4. ) Now, let's click 'Review + Create'
+## 4. ) Now, let's click `Review + Create`
 
 - Dont worry about the 'Tags' section, we don't need that part for this lab.
 
@@ -94,11 +94,11 @@ ________________________________________________________________________________
 
 ## 5. ) Finally, we review and create!
 
-- Look over the resource group information.
+- Look over the resource rroup rnformation.
 
-- Verify its all correct.
+- `Verify` your `Information`
 
-- Click 'Create' to bring alive our first resource group!
+- Click `Create` to bring alive your first resource group!
 
 <img width="1511" alt="6353AD56-C708-4D3D-ABEB-7C29A8E42E5F" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f2d3265-2f3f-457f-a710-1be04c7d9545"><br>
 
@@ -112,9 +112,9 @@ ________________________________________________________________________________
 
 - You should see the 'Successfully Ceated Resource Group Notification' in the top right corner of your screen.
 
-- Click 'Refresh' if you dont see your Resource Group, then..
+- Click: `Refresh` if you dont see your Resource Group, then..
 
-- Click your resource group 'RG-osTicket' to enter into the next part of this lab.
+- Click your resource group `RG-osTicket` to enter into the next part of this lab.
 
 <img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2981d35-3f56-4b35-a47d-d2dafd1600a6"><br>
 
@@ -126,11 +126,11 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________<br>
 
-## 📝 Installation Steps - Part B: Create a 'Virtual Machine'
+## 📝 Installation Steps - Part B: Create a `Virtual Machine`
 
 ### 7. ) Now, for this second part we will create a 'Virtual Machine' inside the resource group we just created.
 
-- So type into the searh bar 'Virtual Machine' and select it to continue.
+- Searh: `Virtual Machine` and click it to continue.
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f81d1869-9805-40b1-b4b9-76aa85c0f751"><br>
 
@@ -138,7 +138,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 8. ) Click one of the 'Create' buttons to start creating your Virtual Machine
+### 8. ) Click one of the `Create` buttons to start creating your Virtual Machine
 
 <img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d2a8f586-58ac-4bea-99e8-919410d8d839"><br>
 
@@ -152,23 +152,23 @@ ________________________________________________________________________________
 
 - Select your subscription
 
-- Resource Group Name: RG-osTicket (the one you created)
+- Resource Group Name: `RG-osTicket` (the one you created)
 
-- Virtual Machine Name: vm-osticket (all lowercase)
+- Virtual Machine Name: `vm-osticket` (all lowercase)
 
-- Region: (US) West 3 
+- Region: `(US) West 3`
 
-- Availability Options: No infrastructure redundancy required
+- Availability Options: `No infrastructure redundancy required`
 
-- Security Type: Standard
+- Security Type: `Standard`
 
-- Image: Windows 10 Pro, version 22H2 - ×64 Gen2
+- Image: `Windows 10 Pro, version 22H2 - ×64 Gen2`
 
 - *Scroll Down once completed*
 
->**Leave the 'VM Architecture' & 'Run with Azure Sport Discount' parts toward the bottom alone.**
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0f114991-5378-4dfa-ac2d-cbded1d74006"><br>
+
+>**Leave the 'VM Architecture' & 'Run with Azure Sport Discount' parts toward the bottom alone.**
 
 ***
 
@@ -176,19 +176,19 @@ ________________________________________________________________________________
 
 ### 10. ) As before, we will fill in the following:
 
-- Size: Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)
+- Size: `Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
 
-- Username: vincentchachere
+- Username: vincentchachere (this can be whatever your heart desires)
 
 - Password: whatever-you-want (Just remember it!)
 
-- Public Inbound Ports: Allow Selected Ports
+- Public Inbound Ports: `Allow Selected Ports`
 
-- Select Inbound Ports: RDP (3389)
+- Select Inbound Ports: `RDP (3389)`
 
-- *Check the Box*
+- *`Check the Box`*
 
-- Go ahead and click 'Review and Create'
+- Go ahead and click `Review and Create`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d25401ce-e384-4511-a592-9747b8bc9be9"><br>
 
@@ -196,7 +196,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 11. ) Review your Information and Officially Create your Virtual Machine!
+### 11. ) `Review` your Information and Officially `Create` your Virtual Machine!
 
 <br>
 
@@ -236,63 +236,240 @@ ________________________________________________________________________________
 
 ## 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
 
-### 14. ) 
+Once connected and inside your Virtual Machine we'll need to:
 
-- 
+- Install the Web Platform Installer
 
-<img width="1728" alt="10F2068D-5B32-46BF-9C62-F498C65B7067" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6b63f037-d4f6-456c-a071-5d97f3541596"><br>
+- To install the Web Platform Installer
 
-***
+  - Search: Control Panel
+  
+  - Under 'Programs' Select: `Uninstall a Program`.
 
-<br>
+<p align="center">
+<img src="https://i.imgur.com/YlZlw6C.png" height="80%" width="80%" alt="unistall a program"/>
+</p>
+<br />
 
-### 15. ) 
+### After that, we can now Select: `Turn Windows features on or off` 
 
-- 
+- Enable: 'Internet Information Services' (IIS) from the available services.
 
-- 
+<p align="center">
+<img src="https://i.imgur.com/XYQQlpa.png" height="80%" width="80%" alt="enable IIS"/>
+</p>
+<br/>
 
-- 
+### Here, we can download and install Web Platform Installers. 
+ 
+- Web Platform Installers (WebPI) provides a simplified installation workflow for installing common open source web applications and web platform technologies.</p>
 
- >**h**
+<p align="center">
+<img src="https://i.imgur.com/59FS3S4.png" height="65%" width="65%" alt="download WebPI"/>
+<br/>
+ 
+### Once WebPI is installed:
 
-<img width="1728" alt="400970F0-127F-4C70-9A53-BEDFB17E1F0D" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4f2fcebd-d977-4d34-a96f-1863d5321f99">
+- Add MySQL 5.5 database,
+- PHP 5.6.31,
+- and the various verisons of PHP (x86) 7.0 and 7.3.</p>
 
-***
+<p align="center">
+<img src="https://i.imgur.com/SwHYmt7.png" height="650%" width="65%" alt="image of add MySql"/>
+</p>
+</br>
+<p align="center">
+<img src="https://i.imgur.com/DwQqpH8.png" height="65%" width="65%" alt="install PHP"/>
+</p>
+<br/>
 
-<br>
+### MySQL 5.5 will require a name and password
 
-### 16. ) 
+- Root and Password1 respectively when you try to install
+- Remember your username / password !
+>**As you will need it again later on in the installation process**
 
-- 
+<p align="center">
+<img src="https://i.imgur.com/IIFCRPG.png" height="65%" width="65%" alt="password request"/>
+</p>
 
-- 
+### If necessary, fix any failures (download from within lab files:
+ 
+- Fix any failures in the installation by:
 
-- 
+  - Going to Google Drive to <a href="https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">download </a>and install PHP 7.3.8, 'PHP Manager', and..
+  - Microsoft Visual C++ 2009 Redistributable Package
 
- >**h**
+### From the downloaded files
 
-<img width="1728" alt="E172404D-8790-4F6E-8036-0044048E4ACE" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1b7e4546-3044-4479-8af5-b5f96e716318">
+- We can now install and extract the osTicket file
+- Extract and copy the “upload” folder INTO c:\inetpub\wwwroot
+- Within c:\inetpub\wwwroot
+  - Rename “upload” to "osTicket"
 
-***
+<p align="center">
+<img src="https://i.imgur.com/F1wPGL1.png" height="65%" width="65%" alt="exacted osTicket files."/>                                                                        </p>
 
-<br>
+### Reload IIS
 
-### 17. ) 
+- Open IIS
+- Restart the server
+- Go to `sites`
+  - `Default`
+  - `osTicket`
+  - On the right, Click: `Browse *:80`
+ 
+ <p align="center">
+    <img src="https://i.imgur.com/A8LBhGS.png" height="65%" width="65%" alt="IIS restart"/>
+    </p>
+    <p align="center"> 
+<img src="https://i.imgur.com/bbcdcJo.png" height=45% width="45%" alt="browse: 80"/>
+    </p> 
+    </br>
+    
+Once `browse: 80` is selected a browser window will open presenting osTicket installer page along with the recommendation/prerequisites of use.
+    
+ <p align="center">
+    <img src="https://i.imgur.com/wcCxx5C.png" height="45%" width="45%" alt="os ticket installer"/>
+    </p>
+    </br>
+    
+Next we'll go back to IIS, sites -> Default -> 1. `osTicket` 2. Double-click `PHP Manager` 3. Click `Enable or disable an extension` 1. Enable: `php_imap.dll` 2. Enable: `php_intl.dll` 3. Enable: `php_opcache.dll` -
 
-- 
+ <p align="center"<img src="https://i.imgur.com/YVjKOMp.png" height="50%" width="50%" alt="php manager"/>
+ </p>
+ <br/>
+ <p align="center">
+ <img src="https://i.imgur.com/elGuTsd.png" height="45%" width="45%" alt="php extension enabled"/>
+ </p>
+ <br/>
+ <p align="center">
+ <img src="https://i.imgur.com/cMtCuaA.png" height="45%" width="45%" alt="php extension enabled"/>
+ </p>
+ <br/>
+ 
+Refresh the osTicket site in your browser to see what has changed after enabling the PHP extensions  
+<p align="center">
+ <img src="https://i.imgur.com/PPNziV5.png" height="45%" width="45%" alt="refreshed osticket installer"/>
+ </p>
+ <br/>
+ 
+Rename: From: `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` --->	To: `C:\inetpub\wwwroot\osTicket\include\ost-config.php`
+ 
+ <p align="center">
+ <img src="https://i.imgur.com/u0bCrDC.png" height="50%" width="50%" alt="ost-sample image"/>
+ </p>
+<p align="center">
+ <img src="https://i.imgur.com/mkBhToH.png" height="50%" width="50%" alt="ost-config image"/>
+ </p>
+<hr>
 
-- 
+Assign Permissions: ost-config.php 
+ To change the permissions, right-click ost-config --> select '`properties`' --> select the '`Security`' tab at the top --> select the '`Advanced`' button1. Disable inheritance -> Remove All 2. New Permissions -> Everyone -> All
+ 
+ <p align="center">
+ <img src="https://i.imgur.com/Ds8JUvt.png" height="50%" width="50%" alt="properties selection"/>
+ </p>
+ <p align="center">
+ <img src="https://i.imgur.com/rKhcHkW.png" height="50%" width="50%" alt="change permissions"/>
+</p>
+<br/>
+<p align="center">
+<img src="https://i.imgur.com/IxpkEaE.png" height="50%" width="50%" alt="disable inheritance"/>
+ </p>
+<p align="center">
+<img src="https://i.imgur.com/xajjPGK.png" height="50%" width="50%" alt="remove all inherited"/>
+ </p>
+ 
+Then add new permissions for everyone and give Full Control.
 
-- 
+<p align="center">
+ <img src="https://i.imgur.com/Q9XQLXm.png" height="50%" width="50%" alt="add permssions for everyone"/>
+ </p>
+ 
+ After returning to the browser windows with osTicket installer and press '`Continue`', you will now see the below form to complete before continuing.  
+ 
+ <p align="center">
+ <img src="https://i.imgur.com/fjKAgGk.png" height="50%" width="50%" alt="osticket form"/>
+</p>
 
- >**h**
+Download and install HeidiSQL from <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Google Drive</a> using the provided defaults that are available in the install wizard.
+ <hr>
+<p align="center">
+ <img src="https://i.imgur.com/oImw5w0.png" height="50%" width="50%" alt="completion of heidisql install"/>
 
-<img width="1511" alt="isolated" src=""><br>
+Next we will do the following in HeidiSql:
+<ol>
+ <li>Create a new session, username:root/password:Password1</li>
+ <li>Connect to the session</li>
+<li>Create a database called “osTicket”</li>
+ </ol>
+ <p align="center">
+ <img src="https://i.imgur.com/D2QfMEb.png"  height="50%" width="50%" alt="create HeidiSql session"/> 
+ </p>
+ <p align="center">
+ <img src="https://i.imgur.com/3bMHP2K.png" height="50%" width="50%" alt="create database HeidiSql"/> 
+ </p>
+ 
+ Created database for "osTicket":
+ 
+ <p align="center">
+ <img src="https://i.imgur.com/mLg4tOl.png" height="50%" width="50%" alt="create data base osTicket"/> 
+</p>
+<p> After the database is created, we can now enter those details into osTicket Installer 
+<li>MySQL Username: root</li>
+ <li>MySQL Password: Password1</li>
+<li>Click <b><i>“Install Now!”</i></b></li>
+</p>
+<p> Congratulations, hopefully it is installed with no errors!
+</p>
+<p align="center">
+ <img src="https://i.imgur.com/V3GSvvT.png" height="50%" width="50%" alt="congratulations of completion for osTicket"/>
+</p>
 
-***
+Results below are from of choosing for "`Your Staff Control Panel`" or "`Your osTicket URL:`"
+ 
+ <p align="center"><img src="https://i.imgur.com/LhTgI92.png" height="50%" width="50%" alt="available links to choose help desk or admin"/>
+ </p>
+ <p align="center">
+ <img src="https://i.imgur.com/jNkPZNC.jpg" height="65%" width="65%" alt="Admin login for osTicket"/>
+</p>
 
-<br>
+"`Your osTicket URL`" will direct us to the "`End User`" Portal where Users can submit tickets for assistance from the help desk.
+
+ <p align="center">
+  <img src="https://i.imgur.com/ErvbCg6.png" height="65%" width="65%" alt="End user login page to open/check ticket status"/>
+  </p>
+  <p> - <i>Clean up</i>
+    <ol>
+    <li> Delete: C:\inetpub\wwwroot\osTicket\setup</li>
+    <li> Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li> 
+    <li><i>Login to the osTicket Admin Panel</i> ([http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php))
+  </p>
+  <p align="center">
+ <img src="https://i.imgur.com/XGHz3lx.png" height="65%" width="65%" alt="delete setup folder"/>
+ </p>
+ 
+Set Permission to "`Read`" only can be acheived by choosing to right-click on '`ost-config.php`' --> select `properties` --> select the '`Security`' tab near the top --> then click the '`Advanced`' button (not pictured below) --> once `advanced settings` is selected, you can now select the '`Everyone`' principle and now we can select to choose '`Read`' only as the preferred permission(s)
+
+ <p align="center">
+ <img src="https://i.imgur.com/AXCIeQN.png"  height="65%" width="65%" alt="read-only permissions"/>
+ </p>
+ <p align="center">
+ <img src="https://i.imgur.com/R11rIMd.png"  height="65%" width="65%" alt="read-only allow is shown for osticketcong file"/>
+ </p>
+ <br/>
+ 
+ <p align="center"><i><b>💥Well, That's All Folks and Congratulations On The Completion of This Lab! 😁</i></b></p>
+ <p align="center"><i><b>📝 “You don’ have to see the whole staircase. Just take the first step.”📝</p></i></b>
+ 
+ <br />
+ <br />
+ <p align="right"> Next Up <a href="https://github.com/0xbythesecond/post-install-config"> OSTicket Post Install Configuration </a></p>
+
+
+
+                                                                                 
 
 
 
