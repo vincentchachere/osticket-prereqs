@@ -323,38 +323,59 @@ Once connected and inside your Virtual Machine we'll need to:
     <img src="https://i.imgur.com/A8LBhGS.png" height="65%" width="65%" alt="IIS restart"/>
     </p>
     <p align="center"> 
+
 <img src="https://i.imgur.com/bbcdcJo.png" height=45% width="45%" alt="browse: 80"/>
     </p> 
     </br>
     
-Once `browse: 80` is selected a browser window will open presenting osTicket installer page along with the recommendation/prerequisites of use.
+### Once `browse: 80` is selected;
+
+- A browser window will open, presenting osTicket installer page..
+- Along with, the recommendation/prerequisites of use.
     
  <p align="center">
     <img src="https://i.imgur.com/wcCxx5C.png" height="45%" width="45%" alt="os ticket installer"/>
     </p>
     </br>
     
-Next we'll go back to IIS, sites -> Default -> 1. `osTicket` 2. Double-click `PHP Manager` 3. Click `Enable or disable an extension` 1. Enable: `php_imap.dll` 2. Enable: `php_intl.dll` 3. Enable: `php_opcache.dll` -
+### Next we'll go back to IIS
+
+- Select: `sites`
+- Select: `Default`
+- Select: `osTicket`
+- Double-click: `PHP Manager`
+- Click: `Enable or disable an extension`
+- Enable: `php_imap.dll`
+- Enable: `php_intl.dll`
+- Enable: `php_opcache.dll` -
 
  <p align="center"<img src="https://i.imgur.com/YVjKOMp.png" height="50%" width="50%" alt="php manager"/>
  </p>
+ 
  <br/>
+ 
  <p align="center">
  <img src="https://i.imgur.com/elGuTsd.png" height="45%" width="45%" alt="php extension enabled"/>
  </p>
+ 
  <br/>
+ 
  <p align="center">
  <img src="https://i.imgur.com/cMtCuaA.png" height="45%" width="45%" alt="php extension enabled"/>
  </p>
  <br/>
  
-Refresh the osTicket site in your browser to see what has changed after enabling the PHP extensions  
+### `Refresh` the osTicket site in your browser
+
+- This is to see what has changed *after enabling the PHP extensions*
+
 <p align="center">
  <img src="https://i.imgur.com/PPNziV5.png" height="45%" width="45%" alt="refreshed osticket installer"/>
  </p>
  <br/>
  
-Rename: From: `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` --->	To: `C:\inetpub\wwwroot\osTicket\include\ost-config.php`
+- Rename: From: `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php`
+- To: `C:\inetpub\wwwroot\osTicket\include\ost-config.php`
  
  <p align="center">
  <img src="https://i.imgur.com/u0bCrDC.png" height="50%" width="50%" alt="ost-sample image"/>
@@ -364,8 +385,17 @@ Rename: From: `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php` --->	To
  </p>
 <hr>
 
-Assign Permissions: ost-config.php 
- To change the permissions, right-click ost-config --> select '`properties`' --> select the '`Security`' tab at the top --> select the '`Advanced`' button1. Disable inheritance -> Remove All 2. New Permissions -> Everyone -> All
+### Assign Permissions: ost-config.php 
+
+- To change the permissions: `right-click ost-config`
+- Select: `properties`
+- Select: `Security` tab at the top
+- Select: `Advanced` button
+- Click: `Disable inheritance`
+- Click: `Remove All`
+- ADD: `New Permissions`
+- ADD: `Everyone`
+- ADD: `All`
  
  <p align="center">
  <img src="https://i.imgur.com/Ds8JUvt.png" height="50%" width="50%" alt="properties selection"/>
@@ -381,29 +411,33 @@ Assign Permissions: ost-config.php
 <img src="https://i.imgur.com/xajjPGK.png" height="50%" width="50%" alt="remove all inherited"/>
  </p>
  
-Then add new permissions for everyone and give Full Control.
+### Then `Add New Permissions` *for everyone* and `give Full Control`
 
 <p align="center">
  <img src="https://i.imgur.com/Q9XQLXm.png" height="50%" width="50%" alt="add permssions for everyone"/>
  </p>
  
- After returning to the browser windows with osTicket installer and press '`Continue`', you will now see the below form to complete before continuing.  
+### After returning to the browser windows with osTicket installer and press '`Continue`', you will now see the below form to complete before continuing.  
  
  <p align="center">
  <img src="https://i.imgur.com/fjKAgGk.png" height="50%" width="50%" alt="osticket form"/>
 </p>
 
-Download and install HeidiSQL from <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Google Drive</a> using the provided defaults that are available in the install wizard.
+### Download and install HeidiSQL from: 
+
+- <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Google Drive</a>
+  - Using the provided defaults that are available in the install wizard.
+
  <hr>
 <p align="center">
  <img src="https://i.imgur.com/oImw5w0.png" height="50%" width="50%" alt="completion of heidisql install"/>
 
-Next we will do the following in HeidiSql:
-<ol>
- <li>Create a new session, username:root/password:Password1</li>
- <li>Connect to the session</li>
-<li>Create a database called “osTicket”</li>
- </ol>
+### Next we will do the following in HeidiSql:
+
+- Create a new session, username:root/password:Password1
+- Connect to the session
+- Create a database called `osTicket`
+ 
  <p align="center">
  <img src="https://i.imgur.com/D2QfMEb.png"  height="50%" width="50%" alt="create HeidiSql session"/> 
  </p>
@@ -411,23 +445,25 @@ Next we will do the following in HeidiSql:
  <img src="https://i.imgur.com/3bMHP2K.png" height="50%" width="50%" alt="create database HeidiSql"/> 
  </p>
  
- Created database for "osTicket":
+### Created database for `osTicket`:
  
  <p align="center">
  <img src="https://i.imgur.com/mLg4tOl.png" height="50%" width="50%" alt="create data base osTicket"/> 
 </p>
-<p> After the database is created, we can now enter those details into osTicket Installer 
-<li>MySQL Username: root</li>
- <li>MySQL Password: Password1</li>
-<li>Click <b><i>“Install Now!”</i></b></li>
-</p>
-<p> Congratulations, hopefully it is installed with no errors!
-</p>
+
+### After the database is created, we can now enter those details into osTicket Installer 
+
+- MySQL Username: root
+- MySQL Password: Password1
+- Click <b><i>“Install Now!”
+
+### Congratulations, hopefully it is installed with no errors!
+
 <p align="center">
  <img src="https://i.imgur.com/V3GSvvT.png" height="50%" width="50%" alt="congratulations of completion for osTicket"/>
 </p>
 
-Results below are from of choosing for "`Your Staff Control Panel`" or "`Your osTicket URL:`"
+>**Results below are from of choosing for "`Your Staff Control Panel`" or "`Your osTicket URL:`**
  
  <p align="center"><img src="https://i.imgur.com/LhTgI92.png" height="50%" width="50%" alt="available links to choose help desk or admin"/>
  </p>
@@ -435,37 +471,47 @@ Results below are from of choosing for "`Your Staff Control Panel`" or "`Your os
  <img src="https://i.imgur.com/jNkPZNC.jpg" height="65%" width="65%" alt="Admin login for osTicket"/>
 </p>
 
-"`Your osTicket URL`" will direct us to the "`End User`" Portal where Users can submit tickets for assistance from the help desk.
+### `Your osTicket URL` will direct us to the `End User` Portal
+
+- This is where users can submit tickets for assistance from the help desk.
 
  <p align="center">
   <img src="https://i.imgur.com/ErvbCg6.png" height="65%" width="65%" alt="End user login page to open/check ticket status"/>
   </p>
-  <p> - <i>Clean up</i>
-    <ol>
-    <li> Delete: C:\inetpub\wwwroot\osTicket\setup</li>
-    <li> Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li> 
-    <li><i>Login to the osTicket Admin Panel</i> ([http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php))
-  </p>
+
+### Clean Up!
+
+- Delete: C:\inetpub\wwwroot\osTicket\setup</li>
+- Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li> 
+- Login to the osTicket Admin Panel
+- ([http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php)
+
   <p align="center">
  <img src="https://i.imgur.com/XGHz3lx.png" height="65%" width="65%" alt="delete setup folder"/>
  </p>
  
-Set Permission to "`Read`" only can be acheived by choosing to right-click on '`ost-config.php`' --> select `properties` --> select the '`Security`' tab near the top --> then click the '`Advanced`' button (not pictured below) --> once `advanced settings` is selected, you can now select the '`Everyone`' principle and now we can select to choose '`Read`' only as the preferred permission(s)
+## Set Permission to "`Read`" 
+
+- Only can be acheived by right-clicking `ost-config.php`
+- Select: `properties`
+- Select: `Security` tab near the top
+- Then Click: `Advanced` button (not pictured below)
+- Once `advanced settings` is selected..
+- You can now Select: `Everyone` principle
+- Lastly, we can Select: `Read` *only* as the preferred permission(s)
 
  <p align="center">
  <img src="https://i.imgur.com/AXCIeQN.png"  height="65%" width="65%" alt="read-only permissions"/>
  </p>
+ 
  <p align="center">
+  
  <img src="https://i.imgur.com/R11rIMd.png"  height="65%" width="65%" alt="read-only allow is shown for osticketcong file"/>
  </p>
+ 
  <br/>
  
- <p align="center"><i><b>💥Well, That's All Folks and Congratulations On The Completion of This Lab! 😁</i></b></p>
- <p align="center"><i><b>📝 “You don’ have to see the whole staircase. Just take the first step.”📝</p></i></b>
- 
- <br />
- <br />
- <p align="right"> Next Up <a href="https://github.com/0xbythesecond/post-install-config"> OSTicket Post Install Configuration </a></p>
+## Next Up OSTicket Post Install Configuration
 
 
 
