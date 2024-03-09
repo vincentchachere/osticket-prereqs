@@ -236,7 +236,7 @@ ________________________________________________________________________________
 
 ## 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
 
-Once connected and inside your Virtual Machine we'll need to:
+### 14. ) Once connected and inside your Virtual Machine we'll need to:
 
 - Install the Web Platform Installer
 
@@ -251,7 +251,7 @@ Once connected and inside your Virtual Machine we'll need to:
 </p>
 <br />
 
-### After that, we can now Select: `Turn Windows features on or off` 
+### 15. ) After that, we can now Select: `Turn Windows features on or off` 
 
 - Enable: 'Internet Information Services' (IIS) from the available services.
 
@@ -260,7 +260,7 @@ Once connected and inside your Virtual Machine we'll need to:
 </p>
 <br/>
 
-### Here, we can download and install Web Platform Installers. 
+### 16. ) Here, we can download and install Web Platform Installers. 
  
 - Web Platform Installers (WebPI) provides a simplified installation workflow for installing common open source web applications and web platform technologies.</p>
 
@@ -268,7 +268,7 @@ Once connected and inside your Virtual Machine we'll need to:
 <img src="https://i.imgur.com/59FS3S4.png" height="65%" width="65%" alt="download WebPI"/>
 <br/>
  
-### Once WebPI is installed:
+### 17. ) Once WebPI is installed:
 
 - Add MySQL 5.5 database,
 - PHP 5.6.31,
@@ -283,7 +283,7 @@ Once connected and inside your Virtual Machine we'll need to:
 </p>
 <br/>
 
-### MySQL 5.5 will require a name and password
+### 18. ) MySQL 5.5 will require a name and password
 
 - Root and Password1 respectively when you try to install
 - Remember your username / password !
@@ -293,14 +293,14 @@ Once connected and inside your Virtual Machine we'll need to:
 <img src="https://i.imgur.com/IIFCRPG.png" height="65%" width="65%" alt="password request"/>
 </p>
 
-### If necessary, fix any failures (download from within lab files:
+### 19. ) If necessary, fix any failures (download from within lab files:
  
 - Fix any failures in the installation by:
 
   - Going to Google Drive to <a href="https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">download </a>and install PHP 7.3.8, 'PHP Manager', and..
   - Microsoft Visual C++ 2009 Redistributable Package
 
-### From the downloaded files
+### 20. ) From the downloaded files
 
 - We can now install and extract the osTicket file
 - Extract and copy the “upload” folder INTO c:\inetpub\wwwroot
@@ -310,7 +310,7 @@ Once connected and inside your Virtual Machine we'll need to:
 <p align="center">
 <img src="https://i.imgur.com/F1wPGL1.png" height="65%" width="65%" alt="exacted osTicket files."/>                                                                        </p>
 
-### Reload IIS
+### 21. ) Reload IIS
 
 - Open IIS
 - Restart the server
@@ -328,7 +328,7 @@ Once connected and inside your Virtual Machine we'll need to:
     </p> 
     </br>
     
-### Once `browse: 80` is selected;
+### 22. ) Once `browse: 80` is selected;
 
 - A browser window will open, presenting osTicket installer page..
 - Along with, the recommendation/prerequisites of use.
@@ -338,7 +338,7 @@ Once connected and inside your Virtual Machine we'll need to:
     </p>
     </br>
     
-### Next we'll go back to IIS
+### 23. ) Next we'll go back to IIS
 
 - Select: `sites`
 - Select: `Default`
@@ -365,7 +365,7 @@ Once connected and inside your Virtual Machine we'll need to:
  </p>
  <br/>
  
-### `Refresh` the osTicket site in your browser
+### 24. ) `Refresh` the osTicket site in your browser
 
 - This is to see what has changed *after enabling the PHP extensions*
 
@@ -385,7 +385,7 @@ Once connected and inside your Virtual Machine we'll need to:
  </p>
 <hr>
 
-### Assign Permissions: ost-config.php 
+### 25. ) Assign Permissions: ost-config.php 
 
 - To change the permissions: `right-click ost-config`
 - Select: `properties`
@@ -411,19 +411,19 @@ Once connected and inside your Virtual Machine we'll need to:
 <img src="https://i.imgur.com/xajjPGK.png" height="50%" width="50%" alt="remove all inherited"/>
  </p>
  
-### Then `Add New Permissions` *for everyone* and `give Full Control`
+### 26. ) Then `Add New Permissions` *for everyone* and `give Full Control`
 
 <p align="center">
  <img src="https://i.imgur.com/Q9XQLXm.png" height="50%" width="50%" alt="add permssions for everyone"/>
  </p>
  
-### After returning to the browser windows with osTicket installer and press '`Continue`', you will now see the below form to complete before continuing.  
+### 27. ) After returning to the browser windows with osTicket installer and press '`Continue`', you will now see the below form to complete before continuing.  
  
  <p align="center">
  <img src="https://i.imgur.com/fjKAgGk.png" height="50%" width="50%" alt="osticket form"/>
 </p>
 
-### Download and install HeidiSQL from: 
+### 28. ) Download and install HeidiSQL from: 
 
 - <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Google Drive</a>
   - Using the provided defaults that are available in the install wizard.
@@ -432,7 +432,7 @@ Once connected and inside your Virtual Machine we'll need to:
 <p align="center">
  <img src="https://i.imgur.com/oImw5w0.png" height="50%" width="50%" alt="completion of heidisql install"/>
 
-### Next we will do the following in HeidiSql:
+### 29. ) Next we will do the following in HeidiSql:
 
 - Create a new session, username:root/password:Password1
 - Connect to the session
@@ -445,19 +445,19 @@ Once connected and inside your Virtual Machine we'll need to:
  <img src="https://i.imgur.com/3bMHP2K.png" height="50%" width="50%" alt="create database HeidiSql"/> 
  </p>
  
-### Created database for `osTicket`:
+### 30. ) Created database for `osTicket`:
  
  <p align="center">
  <img src="https://i.imgur.com/mLg4tOl.png" height="50%" width="50%" alt="create data base osTicket"/> 
 </p>
 
-### After the database is created, we can now enter those details into osTicket Installer 
+### 31. ) After the database is created, we can now enter those details into osTicket Installer 
 
 - MySQL Username: root
 - MySQL Password: Password1
 - Click <b><i>“Install Now!”
 
-### Congratulations, hopefully it is installed with no errors!
+### 32. ) Congratulations, hopefully it is installed with no errors!
 
 <p align="center">
  <img src="https://i.imgur.com/V3GSvvT.png" height="50%" width="50%" alt="congratulations of completion for osTicket"/>
@@ -471,7 +471,7 @@ Once connected and inside your Virtual Machine we'll need to:
  <img src="https://i.imgur.com/jNkPZNC.jpg" height="65%" width="65%" alt="Admin login for osTicket"/>
 </p>
 
-### `Your osTicket URL` will direct us to the `End User` Portal
+### 33. ) `Your osTicket URL` will direct us to the `End User` Portal
 
 - This is where users can submit tickets for assistance from the help desk.
 
@@ -479,7 +479,7 @@ Once connected and inside your Virtual Machine we'll need to:
   <img src="https://i.imgur.com/ErvbCg6.png" height="65%" width="65%" alt="End user login page to open/check ticket status"/>
   </p>
 
-### Clean Up!
+### 34. ) Clean Up!
 
 - Delete: C:\inetpub\wwwroot\osTicket\setup</li>
 - Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li> 
@@ -490,7 +490,7 @@ Once connected and inside your Virtual Machine we'll need to:
  <img src="https://i.imgur.com/XGHz3lx.png" height="65%" width="65%" alt="delete setup folder"/>
  </p>
  
-## Set Permission to "`Read`" 
+### 35. ) Set Permission to "`Read`" 
 
 - Only can be acheived by right-clicking `ost-config.php`
 - Select: `properties`
@@ -511,7 +511,7 @@ Once connected and inside your Virtual Machine we'll need to:
  
  <br/>
  
-## Next Up OSTicket Post Install Configuration
+## Next Up osTicket Post Install Configuration (Link Coming Soon..)
 
 
 
