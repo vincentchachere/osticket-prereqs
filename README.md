@@ -322,19 +322,31 @@ ________________________________________________________________________________
 
 <br>
 
+- Click: `Programs`
 - Click: `Turn Windows Features On or Off`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1539ac76-1c89-48db-b5a4-3c6ba329dc05"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4681b035-50c5-4d6c-92d1-348a05252dbd"><br>
 
 ***
 
 <br>
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/afe2ecb5-2278-45e0-94f3-d013e8f5190c"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9df9fab4-a98c-4163-b863-4a844660e08a"><br>
 
 ***
 
 <br>
+
+- Enable the Following:
+
+  - Enable: Internet Information Services (IIS)
+  - Open & Enable: `World Wide Web Services`
+    - `Check All Boxes` within this feature's folder
+  - Now, while still inside the *World wide Web Service* feature folder enable: `CGI`
+    - *Collapse World Wide Web Service feature folder*
+  - Enable: Common HTTP Features and..
+    - `Check All Boxes` within this feature's folder
+  - Click: 'Ok'
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e9f3b9d5-04a0-42c5-8150-90e8c1b47079"><br>
 
