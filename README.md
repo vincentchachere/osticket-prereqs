@@ -344,25 +344,27 @@ ________________________________________________________________________________
   - Open & Enable: `World Wide Web Services`
     - `Check All Boxes` within this feature's folder
    
-  - Now, while still inside the *World wide Web Service* feature folder enable: `CGI`
-    - *Collapse World Wide Web Service feature folder*
-   
-  - Enable: Common HTTP Features and..
-    - `Check All Boxes` within this feature's folder
-   
-  - Click: 'Ok'
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8f66567f-2ab1-4ffe-a2b3-949d5d06bc35"><br>
 
 ***
 
 <br>
 
+- Now, while still inside the *World wide Web Service*:
+- Open the `Application Development Features` folder
+   - Enable: `CGI`
+    - *Collapse World Wide Web Service feature folder*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf191a8d-3aef-4a00-8076-63c39a010ef7"><br>
 
 ***
 
 <br>
+
+ - Enable: Common HTTP Features and..
+    - `Check All Boxes` within this feature's folder
+   
+  - Click: 'Ok'
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f815d194-ed55-4989-9663-638c95091f25"><br>
 
