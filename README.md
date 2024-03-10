@@ -222,9 +222,9 @@ ________________________________________________________________________________
 
 <br>
 
-### 13. ) Now we are inside our Virtual Machine: `vm-osticket`
+### 13. ) Now we are in our Virtual Machine 'overview page' that's in our Azure Portal (we are not inside VM yet)
 
-- This is where you can navigate throughout your Virtual Machine's information.
+- This is where you can navigate your VM's information.
 
 - This concludes Part B!
 
