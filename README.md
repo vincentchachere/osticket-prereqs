@@ -306,8 +306,6 @@ ________________________________________________________________________________
 
 - Right-Click: `Start` in the bottom left of your screen
 - Select: `Run`
-- Type In: `Control`
-- Press: `Enter` or Click: `Ok`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d0a45cc6-d839-4c06-95f2-32ae350ce719"><br>
 
@@ -315,11 +313,16 @@ ________________________________________________________________________________
 
 <br>
 
+- Type In: `Control`
+- Press: `Enter` or Click: `Ok`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a55cb772-6e1e-406e-b6cf-e92c24bb8742"><br>
 
 ***
 
 <br>
+
+- Click: `Turn Windows Features On or Off`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1539ac76-1c89-48db-b5a4-3c6ba329dc05"><br>
 
@@ -339,25 +342,25 @@ ________________________________________________________________________________
 
 <br>
 
-<img width="1511" alt="isolated" src="
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
 <br>
 
-<img width="1511" alt="isolated" src="
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
 <br>
 
-<img width="1511" alt="isolated" src="
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
 <br>
 
-<img width="1511" alt="isolated" src="
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -367,18 +370,7 @@ ________________________________________________________________________________
 
 - Enable: 'Internet Information Services' (IIS) from the available services.
 
-<p align="center">
-<img src="https://i.imgur.com/XYQQlpa.png" height="80%" width="80%" alt="enable IIS"/>
-</p>
-<br/>
-
-### 17. ) Here, we can download and install Web Platform Installers. 
- 
-- Web Platform Installers (WebPI) provides a simplified installation workflow for installing common open source web applications and web platform technologies.</p>
-
-<p align="center">
-<img src="https://i.imgur.com/59FS3S4.png" height="65%" width="65%" alt="download WebPI"/>
-<br/>
+<img width="1511" alt="isolated" src=""><br>
  
 ### 18. ) Once WebPI is installed:
 
