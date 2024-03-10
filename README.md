@@ -294,7 +294,7 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
 
 - *`Uncheck all` the `boxes` (we dont need any of them)*
-  - Click: `Accept`
+- Click: `Accept`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
 
