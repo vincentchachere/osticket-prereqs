@@ -269,6 +269,7 @@ ________________________________________________________________________________
 <br>
 
 - Paste: `vm-osticket's Public IP Address`
+- Click: `Add`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f413fc93-dfe3-4b73-8de2-6d820675a1d1"><br>
 
@@ -290,6 +291,8 @@ ________________________________________________________________________________
   - `Password:` Password321 (whatever you typed in st the beginnning of Part B.9)
   - *`Uncheck all` the `boxes` (we dont need any of them)*
   - Click: `Accept`
+ 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d44a30a2-d841-4074-9493-862b5bf57686"><br>
 
