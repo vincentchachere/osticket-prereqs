@@ -290,12 +290,11 @@ ________________________________________________________________________________
 - Login
   - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B.9)
   - `Password:` Password321 (whatever you typed in st the beginnning of Part B.9)
-  - *`Uncheck all` the `boxes` (we dont need any of them)*
-  - Click: `Accept`
  
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d44a30a2-d841-4074-9493-862b5bf57686"><br>
+- *`Uncheck all` the `boxes` (we dont need any of them)*
+  - Click: `Accept`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
 
