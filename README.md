@@ -238,6 +238,7 @@ ________________________________________________________________________________
 ### 14. ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
 - `Copy` vm-osticket Public IP Address
+- `Verify` sure your `VM is running` before continuing
 - *Scroll down in between images for the next few instructions*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c4aa663f-dba3-47cf-8239-255404bd541c"><br>
@@ -249,12 +250,23 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84202fbf-d46c-43f7-a126-837f4b32e1fa"><br>
 
 - Click: `Add PC` and then..
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/013afe59-3d68-4628-b0f3-723c0fc36ad2"><br>
+
 - Paste: `vm-osticket Public IP Adddress`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d41dd110-146c-4933-bfc5-fe5af203b170"><br>
+
 - Login
   - `Username:` vincentchachere (whatever you typed in st the beginnning)
   - `Password:` Password321 (whatever you typed in st the beginnning)
+- Righ-Click: your Remote Desktop Account
+- Click: `Connect`
+- Type In: `vm-osticket Public IP Address`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/013afe59-3d68-4628-b0f3-723c0fc36ad2"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f413fc93-dfe3-4b73-8de2-6d820675a1d1"><br>
+
+
 
 ***
 
