@@ -30,7 +30,8 @@ ________________________________________________________________________________
 
 ## Installation Files
 
-- https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6  
+- https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+  - Open link in seperate tab to save for later use in this lab.
 
 __________________________________________________________________________________________<br>
 
@@ -282,18 +283,52 @@ ________________________________________________________________________________
 
 ### 15. ) Once connected and inside your Virtual Machine we'll need to:
 
-- Install the Web Platform Installer
+- Right-Click: `Start` in the bottom left of your screen
+- Select: `Run`
+- Type In: `Control`
+- Press: `Enter` or Click: `Ok`
 
-- To install the Web Platform Installer;
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d0a45cc6-d839-4c06-95f2-32ae350ce719"><br>
 
-  - Search: `Control Panel`
-  
-  - Under 'Programs' Select: `Uninstall a Program`
 
-<p align="center">
-<img src="https://i.imgur.com/YlZlw6C.png" height="80%" width="80%" alt="unistall a program"/>
-</p>
-<br />
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a55cb772-6e1e-406e-b6cf-e92c24bb8742"><br>
+
+
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1539ac76-1c89-48db-b5a4-3c6ba329dc05"><br>
+
+
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/afe2ecb5-2278-45e0-94f3-d013e8f5190c"><br>
+
+
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e9f3b9d5-04a0-42c5-8150-90e8c1b47079"><br>
+
+
+
+<img width="1511" alt="isolated" src="
+
+
+
+<img width="1511" alt="isolated" src="
+
+
+
+<img width="1511" alt="isolated" src="
+
+
+
+<img width="1511" alt="isolated" src="
+
+
+
+
+
+***
+
+<br>
 
 ### 16. ) After that, we can now Select: `Turn Windows features on or off` 
 
