@@ -378,17 +378,41 @@ ________________________________________________________________________________
 
 <br>
 
+### When that's done go to your internet browser in Microsoft Edge
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b360cb70-7b73-4879-bb17-614ac2dd9db8"><br>
 
 ***
 
 <br>
 
-When that's done go to your internet browser in Microsoft Edge
+### Skip all the Pop-Ups & Uncheck all the boxes
 
-- Skip all the 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ea858b1f-37ad-43d0-985e-0a8dd73e1fd8"><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
+
+<br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6528279d-d330-419b-980b-9175825edb33"><br>
+
+***
+
+<br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/344afc0a-86c7-4f84-89a1-e0af3e282cb1"><br>
+
+***
+
+<br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1d583dcd-b755-4aa0-b1cd-2f02970189c9"><br>
+
+***
+
+<br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b20ecb45-f3df-49b4-9a6e-34c254557dde"><br>
 
 ***
 
