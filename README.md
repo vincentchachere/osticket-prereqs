@@ -340,12 +340,16 @@ ________________________________________________________________________________
 - Enable the Following:
 
   - Enable: Internet Information Services (IIS)
+ 
   - Open & Enable: `World Wide Web Services`
     - `Check All Boxes` within this feature's folder
+   
   - Now, while still inside the *World wide Web Service* feature folder enable: `CGI`
     - *Collapse World Wide Web Service feature folder*
+   
   - Enable: Common HTTP Features and..
     - `Check All Boxes` within this feature's folder
+   
   - Click: 'Ok'
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e9f3b9d5-04a0-42c5-8150-90e8c1b47079"><br>
