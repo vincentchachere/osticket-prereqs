@@ -215,7 +215,7 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/acdefb7f-15ac-48ae-a1d0-3229dfb68a88"><br>
 
->**NOTE: You can wait for your VM to be completed on the screen displayed in the image below or *Click* 'Go to Resource' and wait there.**
+>**NOTE: You can wait for your VM to be completed on the screen displayed in the image below or `Click: Go to Resource` and wait there.**
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1bd4eec6-f4e9-4329-9b97-722ee8a58024"><br>
 
@@ -223,7 +223,9 @@ ________________________________________________________________________________
 
 <br>
 
-### 13. ) Now we are in our Virtual Machine 'overview page' that's in our Azure Portal (we are not inside VM yet)
+### 13. ) Now we are at our Virtual Machine's 'Overview Page' that is inside our Azure Portal
+
+- (we are not inside the VM yet)
 
 - This is where you can navigate your VM's information.
 
@@ -238,11 +240,15 @@ ________________________________________________________________________________
 
 ### 14. ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
-- `Copy` vm-osticket Public IP Address
-- `Verify` sure your `VM is running` before continuing
+- `Copy` your VM's (vm-osticket) Public IP Address
+- `Verify` your `VM is running` before continuing
 - *Scroll down in between images for the next few instructions*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c4aa663f-dba3-47cf-8239-255404bd541c"><br>
+
+***
+
+<br>
 
 - Press: `Command + Space Bar` at the same time to open up the Spotlight Search, then..
 - Type In: `Remote Desktop`
@@ -250,18 +256,34 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84202fbf-d46c-43f7-a126-837f4b32e1fa"><br>
 
+***
+
+<br>
+
 - Click: `Add PC` and then..
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/013afe59-3d68-4628-b0f3-723c0fc36ad2"><br>
 
-- Paste: `vm-osticket Public IP Address`
+***
+
+<br>
+
+- Paste: `vm-osticket's Public IP Address`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f413fc93-dfe3-4b73-8de2-6d820675a1d1"><br>
+
+***
+
+<br>
 
 - Righ-Click: Remote Desktop Account
 - Click: `Connect`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d41dd110-146c-4933-bfc5-fe5af203b170"><br>
+
+***
+
+<br>
 
 - Login
   - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B.9)
@@ -272,10 +294,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d44a30a2-d841-4074-9493-862b5bf57686"><br>
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
-
-- Now you are actually inside of your Virtual Machine
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7da5f9ae-233d-47e4-ac9e-225345d4b339"><br>
 
 ***
 
@@ -290,41 +308,53 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d0a45cc6-d839-4c06-95f2-32ae350ce719"><br>
 
+***
 
+<br>
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a55cb772-6e1e-406e-b6cf-e92c24bb8742"><br>
 
+***
 
+<br>
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1539ac76-1c89-48db-b5a4-3c6ba329dc05"><br>
 
+***
 
+<br>
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/afe2ecb5-2278-45e0-94f3-d013e8f5190c"><br>
 
+***
 
+<br>
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e9f3b9d5-04a0-42c5-8150-90e8c1b47079"><br>
 
+***
 
-
-<img width="1511" alt="isolated" src="
-
-
+<br>
 
 <img width="1511" alt="isolated" src="
 
+***
 
-
-<img width="1511" alt="isolated" src="
-
-
+<br>
 
 <img width="1511" alt="isolated" src="
 
+***
 
+<br>
 
+<img width="1511" alt="isolated" src="
 
+***
+
+<br>
+
+<img width="1511" alt="isolated" src="
 
 ***
 
