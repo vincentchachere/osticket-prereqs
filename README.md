@@ -126,7 +126,7 @@ ________________________________________________________________________________
 
  >**Go through the steps again in this lab and if it doesn't let you create a resource group with the name 'RG-osTicket' (the name you originally typed in for the resurce group), then that's how you know the Resource Group is created, you will just have to wait a little longer and refresh your Resource Group Default Directory.**
 
-__________________________________________________________________________________________<br>
+_____________________________________________________________________________________________________________<br>
 
 ## 📝 Installation Steps - Part B: Create a `Virtual Machine`
 
