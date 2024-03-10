@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Clean Up Resources
 - Change File Permissions
 
-__________________________________________________________________________________________<br>
+__________________________________________________________________________________________________<br>
 
 ## Installation Files
 
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
   - Open link in seperate tab to save for later use in this lab.
 
-__________________________________________________________________________________________<br>
+__________________________________________________________________________________________________<br>
 
 ## 📝 Installation Steps - Part A: Create a 'Resource Group'
 
@@ -234,7 +234,7 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d95f8b93-98e5-4448-89c7-a4e263b349b0"><br>
 
-__________________________________________________________________________________________<br>
+__________________________________________________________________________________________________<br>
 
 ## 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
 
