@@ -352,17 +352,39 @@ ________________________________________________________________________________
    
   - Click: 'Ok'
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e9f3b9d5-04a0-42c5-8150-90e8c1b47079"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8f66567f-2ab1-4ffe-a2b3-949d5d06bc35"><br>
 
 ***
 
 <br>
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf191a8d-3aef-4a00-8076-63c39a010ef7"><br>
 
 ***
 
 <br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f815d194-ed55-4989-9663-638c95091f25"><br>
+
+***
+
+<br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94763f83-0b52-491c-927e-5f27e77a41c5"><br>
+
+***
+
+<br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b360cb70-7b73-4879-bb17-614ac2dd9db8"><br>
+
+***
+
+<br>
+
+When that's done go to your internet browser in Microsoft Edge
+
+- Skip all the 
 
 <img width="1511" alt="isolated" src=""><br>
 
