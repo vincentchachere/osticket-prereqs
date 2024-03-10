@@ -288,8 +288,8 @@ ________________________________________________________________________________
 <br>
 
 - Login
-  - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B.9)
-  - `Password:` Password321 (whatever you typed in st the beginnning of Part B.9)
+  - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B: Step 9)
+  - `Password:` MyPassword (whatever you typed in st the beginnning of Part B: Step 9)
  
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
 
