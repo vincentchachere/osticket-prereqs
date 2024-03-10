@@ -272,7 +272,7 @@ ________________________________________________________________________________
 - Paste: `vm-osticket's Public IP Address`
 - Click: `Add`
 
-<img width="1511" alt="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e86b149-9600-4237-8eb8-9fbed507411b"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e86b149-9600-4237-8eb8-9fbed507411b"><br>
 
 ***
 
