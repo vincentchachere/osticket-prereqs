@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 2. ) Click `Create` to start your resource group
+### 2. ) Click `Create` to start your Resource Group
 
 - Or..
 
@@ -210,21 +210,19 @@ ________________________________________________________________________________
 
 <br>
 
-### 12. ) Wait for your Virtual Machine to load and go to your new resource
-
-<br>
+### 12. ) Wait for your Virtual Machine to load and go to your new Resource group
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/acdefb7f-15ac-48ae-a1d0-3229dfb68a88"><br>
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1bd4eec6-f4e9-4329-9b97-722ee8a58024"><br>
+>**NOTE: You can wait for your VM to be completed on the screen displayed in the image below or *Click* 'Go to Resource' and wait there.**
 
->**NOTE: You can wait for your VM to be completed on the screen displayed in the image above or *Click* 'Go to Resource' and wait there.**
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1bd4eec6-f4e9-4329-9b97-722ee8a58024"><br>
 
 ***
 
 <br>
 
-### 13. ) Now we are inside our Virtual Machine: vm-osticket
+### 13. ) Now we are inside our Virtual Machine: `vm-osticket`
 
 - This is where you can navigate throughout your Virtual Machine's information.
 
@@ -236,15 +234,37 @@ ________________________________________________________________________________
 
 ## 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
 
+
+### 14. ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
+
+- `Copy` VM Public IP Address
+- `Paste` VM Public IP Address into Remote Desktop as seen below
+*Scroll down in between images for further instructions*
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c4aa663f-dba3-47cf-8239-255404bd541c"><br>
+
+- Press: `Command + Space Bar` at the same time to open up the Spotlight Search, then..
+- Type In: `Remote Desktop`
+- Now Click: `Microsoft Remote Desktop`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84202fbf-d46c-43f7-a126-837f4b32e1fa"><br>
+
+
+
+***
+
+<br>
+
+
 ### 14. ) Once connected and inside your Virtual Machine we'll need to:
 
 - Install the Web Platform Installer
 
-- To install the Web Platform Installer
+- To install the Web Platform Installer;
 
-  - Search: Control Panel
+  - Search: `Control Panel`
   
-  - Under 'Programs' Select: `Uninstall a Program`.
+  - Under 'Programs' Select: `Uninstall a Program`
 
 <p align="center">
 <img src="https://i.imgur.com/YlZlw6C.png" height="80%" width="80%" alt="unistall a program"/>
