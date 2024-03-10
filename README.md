@@ -265,7 +265,7 @@ ________________________________________________________________________________
 - Login
   - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B.9)
   - `Password:` Password321 (whatever you typed in st the beginnning of Part B.9)
- 
+
 ***
 
 <br>
@@ -331,10 +331,10 @@ ________________________________________________________________________________
  
 - Fix any failures in the installation by:
 
-  - Going to Google Drive to <a href="https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">download </a> and..
-  - Install: PHP 7.3.8
+  - Going to `Google Drive` to <a href="https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">download </a> and..
+  - Install: `PHP 7.3.8`
   - Install: 'PHP Manager' and..
-  - Microsoft Visual C++ 2009 Redistributable Package
+  - Install : `Microsoft Visual C++ 2009 Redistributable Package`
 
 ### 20. ) From the downloaded files
 
