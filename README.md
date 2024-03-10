@@ -271,7 +271,7 @@ ________________________________________________________________________________
 - Paste: `vm-osticket's Public IP Address`
 - Click: `Add`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f413fc93-dfe3-4b73-8de2-6d820675a1d1"><br>
+<img width="1511" alt="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e86b149-9600-4237-8eb8-9fbed507411b"><br>
 
 ***
 
@@ -280,7 +280,7 @@ ________________________________________________________________________________
 - Righ-Click: Remote Desktop Account
 - Click: `Connect`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d41dd110-146c-4933-bfc5-fe5af203b170"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf3e054f-aa7f-496a-8152-f1159710c834"><br>
 
 ***
 
