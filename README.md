@@ -253,25 +253,22 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/013afe59-3d68-4628-b0f3-723c0fc36ad2"><br>
 
-- Paste: `vm-osticket Public IP Adddress`
+- Paste: `vm-osticket Public IP Address`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f413fc93-dfe3-4b73-8de2-6d820675a1d1"><br>
+
+- Righ-Click: Remote Desktop Account
+- Click: `Connect`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d41dd110-146c-4933-bfc5-fe5af203b170"><br>
 
 - Login
-  - `Username:` vincentchachere (whatever you typed in st the beginnning)
-  - `Password:` Password321 (whatever you typed in st the beginnning)
-- Righ-Click: your Remote Desktop Account
-- Click: `Connect`
-- Type In: `vm-osticket Public IP Address`
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f413fc93-dfe3-4b73-8de2-6d820675a1d1"><br>
-
-
-
+  - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B.9)
+  - `Password:` Password321 (whatever you typed in st the beginnning of Part B.9)
+ 
 ***
 
 <br>
-
 
 ### 14. ) Once connected and inside your Virtual Machine we'll need to:
 
