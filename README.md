@@ -402,7 +402,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 20. ) When that's done Click: `Close` and go to your Internet Browser in Microsoft Edge
+### 20. ) When that's done Click: `Close` and Go To: your `Internet Browser in Microsoft Edge`
 
 - Skip all the Pop-Ups & Uncheck all the boxes
 
@@ -446,7 +446,6 @@ ________________________________________________________________________________
 
 - If you dont see the image displayed below then try uninstalling and reinstalling IIS
 
-
  >**NOTE: All you're doing when uninstalling and reinstalling IIS is undoing everything we just did in Part C: #16**
 
 >**- To Uninstall and Reinstall IIS do the following:**
@@ -471,7 +470,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 23. ) Doanload Rewrite Module
+### 23. ) Download Rewrite Module
 
 >**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
 
