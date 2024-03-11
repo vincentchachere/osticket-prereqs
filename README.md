@@ -259,23 +259,23 @@ ________________________________________________________________________________
 
 - Now Click: `Microsoft Remote Desktop`
 
+- Click: `Add PC` and then..
+
+- Paste: `vm-osticket's Public IP Address`
+
+- Click: `Add`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84202fbf-d46c-43f7-a126-837f4b32e1fa"><br>
 
 ***
 
 <br>
 
-- Click: `Add PC` and then..
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/013afe59-3d68-4628-b0f3-723c0fc36ad2"><br>
 
 ***
 
 <br>
-
-- Paste: `vm-osticket's Public IP Address`
-
-- Click: `Add`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e86b149-9600-4237-8eb8-9fbed507411b"><br>
 
