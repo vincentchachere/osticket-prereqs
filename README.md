@@ -408,11 +408,15 @@ ________________________________________________________________________________
 
 <br>
 
+- Click: `Start without your data`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ea858b1f-37ad-43d0-985e-0a8dd73e1fd8"><br>
 
 ***
 
 <br>
+
+- Uncheck the Box
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6528279d-d330-419b-980b-9175825edb33"><br>
 
@@ -420,11 +424,15 @@ ________________________________________________________________________________
 
 <br>
 
+- Continue without this data
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/344afc0a-86c7-4f84-89a1-e0af3e282cb1"><br>
 
 ***
 
 <br>
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1d583dcd-b755-4aa0-b1cd-2f02970189c9"><br>
 
