@@ -132,7 +132,9 @@ ________________________________________________________________________________
 
 ### 7. ) Now, for this second part we will create a 'Virtual Machine' inside the resource group we just created.
 
-- Searh: `Virtual Machine` and click it to continue.
+- `Search:` Virtual Machine
+
+- `Click:` Virtual Machine
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f81d1869-9805-40b1-b4b9-76aa85c0f751"><br>
 
@@ -180,9 +182,9 @@ ________________________________________________________________________________
 
 - Size: `Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
 
-- Username: vincentchachere (this can be whatever your heart desires)
+- `Username:` vincentchachere (this can be whatever your heart desires)
 
-- Password: whatever-you-want (Just remember it!)
+- `Password:` whatever-you-want (Just remember it!)
 
 - Public Inbound Ports: `Allow Selected Ports`
 
@@ -190,7 +192,7 @@ ________________________________________________________________________________
 
 - *`Check the Box`*
 
-- Go ahead and click `Review and Create`
+- Click: `Review and Create`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d25401ce-e384-4511-a592-9747b8bc9be9"><br>
 
@@ -198,7 +200,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 11. ) `Review` your Information and Officially `Create` your Virtual Machine!
+### 11. ) `Review` and `Create` your Virtual Machine!
 
 <br>
 
@@ -220,7 +222,7 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/acdefb7f-15ac-48ae-a1d0-3229dfb68a88"><br>
 
->**NOTE: You can wait for your VM to be completed on the screen displayed in the image below or `Click: Go to Resource` and wait there.**
+>**NOTE: Wait for your Virtual Machine to be completed on the screen displayed in the image above or Click: `Go to Resource` and wait there.**
 
 ***
 
