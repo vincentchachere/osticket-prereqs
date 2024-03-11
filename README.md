@@ -664,7 +664,9 @@ ________________________________________________________________________________
 
 <br>
 
-### 38. ) 
+### 38. ) End Users osTicket URL:
+
+- http://localhost/osTicket/ 
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -672,9 +674,22 @@ ________________________________________________________________________________
 
 <br>
 
-### 39. ) 
+### 39. ) Clean Up
+
+- Delete: c:\inept\wwwroot\osTicket\`*setup*`
+
+  - ONLY DELETE the `setup` part, NOT the whole thing.
+ 
+- Delete: C:\inetpub\wwwroot\osTicket\setup
+
+- Set Permissions to “Read” only for:
+
+  - C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 <img width="1511" alt="isolated" src=""><br>
+
+>**NOTE: Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+End Users osTicket URL: http://localhost/osTicket/**
 
 ***
 
