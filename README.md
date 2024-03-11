@@ -554,7 +554,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 29. ) Inside PHP Manager
+### 29. ) Inside IIS
 
 - Go to: `sites` > `Default` > `osTicket`
 - On the Right, Click: `Browse*: 80`
@@ -565,7 +565,17 @@ ________________________________________________________________________________
 
 <br>
 
-### 30. ) 
+### 30. ) Inside IIS
+
+- Go to: `sites` > `Default` > `osTicket` > Double Click: `PHP Manager`
+
+- Click: "Enable or Disable" an extenstion
+
+  - Enable: imap.dll
+  - Enable: intel.dll
+  - Enable: opcache.dll
+
+- Refresh/Restart the osTicket browser & observe the changes
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -573,7 +583,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 31. ) 
+### 31. ) Rename: *ost-sample*config.php to ost-config.php
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -581,7 +591,15 @@ ________________________________________________________________________________
 
 <br>
 
-### 32. ) 
+### 32. ) Assign Permissions: ost-config.php
+
+- Right-Click: `ost-config.php`
+- Click: `Porperties`
+- Click: `Security`
+- Click: `Advanced`
+- Select: `Disable Inheritance` > `Remove All`
+- `New Permission` > `Everyone` > `All`
+- Click: `Ok`
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -589,7 +607,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 33. ) 
+### 33. ) Refresh PHP Manager (IIS)
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -597,7 +615,11 @@ ________________________________________________________________________________
 
 <br>
 
-### 34. ) 
+### 34. ) Continue Setting Up osTicket in browser
+
+- Click: `Continue`
+- Name: `Helpdesk`
+- `Default Email` (recieves emails from customers)
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -605,7 +627,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 35. ) 
+### 35. ) Go To: [
 
 
 
