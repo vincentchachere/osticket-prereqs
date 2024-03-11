@@ -627,8 +627,91 @@ ________________________________________________________________________________
 
 <br>
 
-### 35. ) Go To: [
+### 35. ) Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
+- Install: HiediSQL
+- Open: HiediSQL
+- Create a *New Session*: `username/Password`
+- Connect to Session
+- Create a database called `osTicket`
 
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 36. ) Continue Setting Up osTicket in Browser
+
+- MySQL Database: `osTicket`
+- MySQL Username: `vincentchachere`
+- MySQL Password: `*Your Password*`
+- Click: `INSTALL NOW`
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 37. ) Congrats! Hopefully No Errors!
+
+- Browse to your Helpdesk Login: http://localhost/osTicket/scp/login.php
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 38. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 39. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 40. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 41. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 42. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 43. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 44. ) 
 
 
