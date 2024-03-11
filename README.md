@@ -242,7 +242,9 @@ ________________________________________________________________________________
 ### 14. ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
 - `Copy` your VM's (vm-osticket) Public IP Address
+
 - `Verify` your `VM is running` before continuing
+
 - *Scroll down in between images for the next few instructions*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c4aa663f-dba3-47cf-8239-255404bd541c"><br>
@@ -252,7 +254,9 @@ ________________________________________________________________________________
 <br>
 
 - Press: `Command + Space Bar` at the same time to open up the Spotlight Search, then..
+
 - Type In: `Remote Desktop`
+
 - Now Click: `Microsoft Remote Desktop`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84202fbf-d46c-43f7-a126-837f4b32e1fa"><br>
@@ -270,6 +274,7 @@ ________________________________________________________________________________
 <br>
 
 - Paste: `vm-osticket's Public IP Address`
+
 - Click: `Add`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e86b149-9600-4237-8eb8-9fbed507411b"><br>
@@ -279,6 +284,7 @@ ________________________________________________________________________________
 <br>
 
 - Righ-Click: Remote Desktop Account
+
 - Click: `Connect`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf3e054f-aa7f-496a-8152-f1159710c834"><br>
@@ -288,12 +294,15 @@ ________________________________________________________________________________
 <br>
 
 - Login
+
   - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B: Step 9)
+
   - `Password:` MyPassword (whatever you typed in st the beginnning of Part B: Step 9)
  
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
 
 - *`Uncheck all` the `boxes` (we dont need any of them)*
+
 - Click: `Accept`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
@@ -305,6 +314,7 @@ ________________________________________________________________________________
 ### 15. ) Once connected and inside your Virtual Machine we'll need to:
 
 - Right-Click: `Start` in the bottom left of your screen
+
 - Select: `Run`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d0a45cc6-d839-4c06-95f2-32ae350ce719"><br>
@@ -314,6 +324,7 @@ ________________________________________________________________________________
 <br>
 
 - Type In: `Control`
+
 - Press: `Enter` or Click: `Ok`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a55cb772-6e1e-406e-b6cf-e92c24bb8742"><br>
@@ -323,6 +334,7 @@ ________________________________________________________________________________
 <br>
 
 - Click: `Programs`
+
 - Click: `Turn Windows Features On or Off`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4681b035-50c5-4d6c-92d1-348a05252dbd"><br>
@@ -355,9 +367,12 @@ ________________________________________________________________________________
 <br>
 
 - Now, while still inside the *World wide Web Service*:
-- Open the `Application Development Features` folder
-   - Enable: `CGI`
-    - *Collapse World Wide Web Service feature folder*
+
+  - Open the `Application Development Features` folder
+
+  - Enable: `CGI`
+
+- *Collapse World Wide Web Service feature folder*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf191a8d-3aef-4a00-8076-63c39a010ef7"><br>
 
@@ -366,6 +381,7 @@ ________________________________________________________________________________
 <br>
 
  - Enable: Common HTTP Features and..
+
     - `Check All Boxes` within this feature's folder
    
   - Click: 'Ok'
@@ -425,7 +441,7 @@ ________________________________________________________________________________
 
 >**- To Uninstall and Reinstall IIS do the following:**
 
-  >**Right-Click: `start` > click: `Run` > Type In: `Control` > Click: `Programs` > Click: `Turn Windows on or off` > *Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` > *Uncheck:* `Application Development Features` (Inside World Wide Web Services) > *Uncheck:* `CGI` (Application Development Features) > *Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) > *Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) > *Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
+  >**right-click: `start` > click: `Run` > Type In: `Control` > Click: `Programs` > Click: `Turn Windows on or off` > *Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` > *Uncheck:* `Application Development Features` (Inside World Wide Web Services) > *Uncheck:* `CGI` (Application Development Features) > *Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) > *Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) > *Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b20ecb45-f3df-49b4-9a6e-34c254557dde"><br>
 
@@ -488,8 +504,11 @@ ________________________________________________________________________________
 ### 23. ) Download MySQL 5.5.62
 
 - Typical Setup
+
 - Launch Configuration (After you download MySQL 5.5.62)
+
 - Standard Confirguration
+
 - Type In: *Your Password (The password you crearted when creating your VM (vm-osticket))*
 
 >**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
@@ -535,7 +554,9 @@ ________________________________________________________________________________
 ### 27. ) Install osTicket v1.15.8
 
 - Download osTicekt from Installation File Folder
+
 - Extract & Copy: the `upload` folder to c:\inept\wwwroot\include
+
 - Within `c:\inept\wwwroot\include` Rename: `upload` to `osTicket` 
 
 <img width="1511" alt="isolated" src=""><br>
@@ -572,7 +593,9 @@ ________________________________________________________________________________
 - Click: "Enable or Disable" an extenstion
 
   - Enable: imap.dll
+
   - Enable: intel.dll
+
   - Enable: opcache.dll
 
 - Refresh/Restart the osTicket browser & observe the changes
@@ -594,11 +617,17 @@ ________________________________________________________________________________
 ### 32. ) Assign Permissions: ost-config.php
 
 - Right-Click: `ost-config.php`
+
 - Click: `Porperties`
+
 - Click: `Security`
+
 - Click: `Advanced`
+
 - Select: `Disable Inheritance` > `Remove All`
+
 - `New Permission` > `Everyone` > `All`
+
 - Click: `Ok`
 
 <img width="1511" alt="isolated" src=""><br>
@@ -618,7 +647,9 @@ ________________________________________________________________________________
 ### 34. ) Continue Setting Up osTicket in browser
 
 - Click: `Continue`
+
 - Name: `Helpdesk`
+
 - `Default Email` (recieves emails from customers)
 
 <img width="1511" alt="isolated" src=""><br>
@@ -630,9 +661,13 @@ ________________________________________________________________________________
 ### 35. ) Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 - Install: HiediSQL
+
 - Open: HiediSQL
+
 - Create a *New Session*: `username/Password`
+
 - Connect to Session
+
 - Create a database called `osTicket`
 
 <img width="1511" alt="isolated" src=""><br>
@@ -644,8 +679,11 @@ ________________________________________________________________________________
 ### 36. ) Continue Setting Up osTicket in Browser
 
 - MySQL Database: `osTicket`
+
 - MySQL Username: `vincentchachere`
+
 - MySQL Password: `*Your Password*`
+
 - Click: `INSTALL NOW`
 
 <img width="1511" alt="isolated" src=""><br>
