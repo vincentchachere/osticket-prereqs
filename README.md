@@ -293,6 +293,8 @@ ________________________________________________________________________________
 
 <br>
 
+### 15. ) 
+
 - Login
 
   - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B: Step 9)
@@ -311,7 +313,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 15. ) Once connected and inside your Virtual Machine we'll need to:
+### 16. ) Once connected and inside your Virtual Machine we'll need to:
 
 - Right-Click: `Start` in the bottom left of your screen
 
@@ -349,7 +351,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 16. ) After that, we can now Select: `Turn Windows features on or off` 
+### 17. ) After that, we can now Select: `Turn Windows features on or off` 
                               
 - Enable the Following:
 
@@ -366,7 +368,7 @@ ________________________________________________________________________________
 
 <br>
 
-- Now, while still inside the *World wide Web Service*:
+### 18. ) Now, while still inside the *World wide Web Service*:
 
   - Open the `Application Development Features` folder
 
@@ -380,7 +382,7 @@ ________________________________________________________________________________
 
 <br>
 
- - Enable: Common HTTP Features and..
+### 19. ) Enable: Common HTTP Features and..
 
     - `Check All Boxes` within this feature's folder
    
@@ -392,15 +394,23 @@ ________________________________________________________________________________
 
 <br>
 
+### Wait for it to load...
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94763f83-0b52-491c-927e-5f27e77a41c5"><br>
 
 ***
 
 <br>
 
-### 17. ) When that's done go to your internet browser in Microsoft Edge
+### 20. ) When that's done Click: `Close` and go to your Internet Browser in Microsoft Edge
 
 - Skip all the Pop-Ups & Uncheck all the boxes
+
+- Click: `Start without your data`
+
+- Uncheck the Box
+
+- Continue without this data
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b360cb70-7b73-4879-bb17-614ac2dd9db8"><br>
 
@@ -408,15 +418,11 @@ ________________________________________________________________________________
 
 <br>
 
-- Click: `Start without your data`
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ea858b1f-37ad-43d0-985e-0a8dd73e1fd8"><br>
 
 ***
 
 <br>
-
-- Uncheck the Box
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6528279d-d330-419b-980b-9175825edb33"><br>
 
@@ -424,15 +430,11 @@ ________________________________________________________________________________
 
 <br>
 
-- Continue without this data
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/344afc0a-86c7-4f84-89a1-e0af3e282cb1"><br>
 
 ***
 
 <br>
-
-- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1d583dcd-b755-4aa0-b1cd-2f02970189c9"><br>
 
@@ -440,7 +442,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 17. ) Type in 127.0.0.1 into your web browser to test that IIS works before continuing to the next step
+### 21. ) Type in 127.0.0.1 into your web browser to test that IIS works before continuing to the next step
 
 - If you dont see the image displayed below then try uninstalling and reinstalling IIS
 
@@ -457,7 +459,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 18. ) Download PHP Manager for IIS
+### 22. ) Download PHP Manager for IIS
 
 - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to down load PHP Manager
 
@@ -469,7 +471,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 19. ) Doanload Rewrite Module
+### 23. ) Doanload Rewrite Module
 
 >**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
 
@@ -479,7 +481,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 20. ) Create Directory C:\PHP
+### 24. ) Create Directory C:\PHP
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -487,7 +489,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 21. ) Download PHP 7.3.8
+### 23. ) Download PHP 7.3.8
 
 - Unzip into the Directory (C:\PHP) you just created
 
@@ -499,7 +501,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 22. ) Download VC_redist.x86.exe
+### 24. ) Download VC_redist.x86.exe
 
 >**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
 
@@ -509,7 +511,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 23. ) Download MySQL 5.5.62
+### 25. ) Download MySQL 5.5.62
 
 - Typical Setup
 
@@ -527,7 +529,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 24. ) Open IIS as an Administrator
+### 26. ) Open IIS as an Administrator
 
 - 
 
@@ -541,7 +543,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 25. ) Register PHP from within IIS
+### 27. ) Register PHP from within IIS
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -549,7 +551,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 26. ) Refresh/Restart IIS
+### 28. ) Refresh/Restart IIS
 
 - or Start/Stop
 
@@ -559,7 +561,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 27. ) Install osTicket v1.15.8
+### 29. ) Install osTicket v1.15.8
 
 - Download osTicekt from Installation File Folder
 
@@ -573,7 +575,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 28. ) Refresh/Restart IIS
+### 30. ) Refresh/Restart IIS
 
 - Or Stop/Start
 
@@ -583,7 +585,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 29. ) Inside IIS
+### 31. ) Inside IIS
 
 - Go to: `sites` > `Default` > `osTicket`
 - On the Right, Click: `Browse*: 80`
