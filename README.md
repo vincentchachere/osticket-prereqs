@@ -241,7 +241,7 @@ ________________________________________________________________________________
 
 ### 14. ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
-- `Copy` your VM's (vm-osticket) Public IP Address
+- `Copy` your `VM`'s (vm-osticket) `Public IP Address`
 
 - `Verify` your `VM is running` before continuing
 
@@ -259,7 +259,7 @@ ________________________________________________________________________________
 
 - Now Click: `Microsoft Remote Desktop`
 
-- Click: `Add PC` and then..
+- Click: `Add PC`
 
 - Paste: `vm-osticket's Public IP Address`
 
@@ -283,31 +283,29 @@ ________________________________________________________________________________
 
 <br>
 
+### 15. ) Login
+
 - Righ-Click: Remote Desktop Account
 
 - Click: `Connect`
+
+- `Username:` vincentchachere (whatever you typed in st the beginnning of Part B: Step 9)
+
+- `Password:` MyPassword (whatever you typed in st the beginnning of Part B: Step 9)
+ 
+- Click: `Continue`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf3e054f-aa7f-496a-8152-f1159710c834"><br>
 
 ***
 
 <br>
-
-### 15. ) 
-
-- Login
-
-  - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B: Step 9)
-
-  - `Password:` MyPassword (whatever you typed in st the beginnning of Part B: Step 9)
- 
-  - Click: `Continue`
  
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
 
-- *`Uncheck all` the `boxes` (we dont need any of them)*
+- *Uncheck: `All Boxes`*
 
-- Click: `Accept`
+- *Click: `Accept`*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
 
