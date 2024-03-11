@@ -301,6 +301,8 @@ ________________________________________________________________________________
 
   - `Password:` MyPassword (whatever you typed in st the beginnning of Part B: Step 9)
  
+  - Click: `Continue`
+ 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
 
 - *`Uncheck all` the `boxes` (we dont need any of them)*
@@ -319,25 +321,25 @@ ________________________________________________________________________________
 
 - Select: `Run`
 
+- Type In: `Control`
+
+- Press: `Enter` or Click: `Ok`
+
+- Click: `Programs`
+
+- Click: `Turn Windows Features On or Off`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d0a45cc6-d839-4c06-95f2-32ae350ce719"><br>
 
 ***
 
 <br>
 
-- Type In: `Control`
-
-- Press: `Enter` or Click: `Ok`
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a55cb772-6e1e-406e-b6cf-e92c24bb8742"><br>
 
 ***
 
 <br>
-
-- Click: `Programs`
-
-- Click: `Turn Windows Features On or Off`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4681b035-50c5-4d6c-92d1-348a05252dbd"><br>
 
