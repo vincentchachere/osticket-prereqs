@@ -425,7 +425,7 @@ ________________________________________________________________________________
 
 >**- To Uninstall and Reinstall IIS do the following:**
 
-  >**right-click: `start` > click: `Run` > Type In: `Control` > Click: `Programs`> Click: `Turn Windows on or off` > *Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` > *Uncheck:* `Application Development Features` (Inside World Wide Web Services) > *Uncheck:* `CGI` (Application Development Features) > *Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) > *Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) > *Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
+  >**right-click: `start` > click: `Run` > Type In: `Control` > Click: `Programs` > Click: `Turn Windows on or off` > *Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` > *Uncheck:* `Application Development Features` (Inside World Wide Web Services) > *Uncheck:* `CGI` (Application Development Features) > *Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) > *Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) > *Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b20ecb45-f3df-49b4-9a6e-34c254557dde"><br>
 
@@ -433,19 +433,180 @@ ________________________________________________________________________________
 
 <br>
 
+### 18. ) Download PHP Manager for IIS
+
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to down load PHP Manager
+
+- Keep the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) in its own tab, so that you can easily access them throught out this lab, if you haven't already.
+
 <img width="1511" alt="isolated" src=""><br>
 
 ***
 
 <br>
 
+### 19. ) Doanload Rewrite Module
+
+>**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
+
 <img width="1511" alt="isolated" src=""><br>
 
 ***
 
 <br>
 
-###                                                    
+### 20. ) Create Directory C:\PHP
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 21. ) Download PHP 7.3.8
+
+- Unzip into the Directory (C:\PHP) you just created
+
+>**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 22. ) Download VC_redist.x86.exe
+
+>**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 23. ) Download MySQL 5.5.62
+
+- Typical Setup
+- Launch Configuration (After you download MySQL 5.5.62)
+- Standard Confirguration
+- Type In: *Your Password (The password you crearted when creating your VM (vm-osticket))*
+
+>**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 24. ) Open IIS as an Administrator
+
+- 
+
+- 
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 25. ) Register PHP from within IIS
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 26. ) Refresh/Restart IIS
+
+- or Start/Stop
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 27. ) Install osTicket v1.15.8
+
+- Download osTicekt from Installation File Folder
+- Extract & Copy: the `upload` folder to c:\inept\wwwroot\include
+- Within `c:\inept\wwwroot\include` Rename: `upload` to `osTicket` 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 28. ) Refresh/Restart IIS
+
+- Or Stop/Start
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 29. ) Inside PHP Manager
+
+- Go to: `sites` > `Default` > `osTicket`
+- On the Right, Click: `Browse*: 80`
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 30. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 31. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 32. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 33. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 34. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 35. ) 
+
 
 
 
