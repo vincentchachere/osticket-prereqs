@@ -345,6 +345,8 @@ ________________________________________________________________________________
  
   - Open & Enable: `World Wide Web Services`
     - `Check All Boxes` within this feature's folder
+
+- *scroll down in between images for further instruction*
    
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8f66567f-2ab1-4ffe-a2b3-949d5d06bc35"><br>
 
@@ -380,15 +382,15 @@ ________________________________________________________________________________
 
 <br>
 
-### When that's done go to your internet browser in Microsoft Edge
+### 17. ) When that's done go to your internet browser in Microsoft Edge
+
+- Skip all the Pop-Ups & Uncheck all the boxes
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b360cb70-7b73-4879-bb17-614ac2dd9db8"><br>
 
 ***
 
 <br>
-
-### Skip all the Pop-Ups & Uncheck all the boxes
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ea858b1f-37ad-43d0-985e-0a8dd73e1fd8"><br>
 
@@ -413,6 +415,14 @@ ________________________________________________________________________________
 ***
 
 <br>
+
+### 17. ) Type in 127.0.0.1 into your web browser to test that IIS works before continuing to the next step
+
+- If you dont see the image displayed below then try uninstalling and reinstalling IIS
+
+  - To Uninstall and Reinstall IIS do the following:
+
+  - right-click: `start` > click: `Run` > Type In: `Control` > Click: `Programs`>Click: `Turn Windows on or off` > *Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` > *Uncheck:* `Application Development Features` (Inside World Wide Web Services) > *Uncheck:* `CGI` (Application Development Features) > *Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) > *Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) > *Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b20ecb45-f3df-49b4-9a6e-34c254557dde"><br>
 
