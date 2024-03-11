@@ -337,6 +337,8 @@ ________________________________________________________________________________
 
 <br>
 
+### 16. ) After that, we can now Select: `Turn Windows features on or off` 
+                              
 - Enable the Following:
 
   - Enable: Internet Information Services (IIS)
@@ -430,19 +432,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 16. ) After that, we can now Select: `Turn Windows features on or off` 
-
-- Enable: 'Internet Information Services' (IIS) from the available services.
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
-### 17. ) 
-
-                                                                                 
+###                                                    
 
 
 
