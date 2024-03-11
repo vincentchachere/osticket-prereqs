@@ -311,6 +311,8 @@ ________________________________________________________________________________
  
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
 
+***
+
 - *Uncheck: `All Boxes`*
 
 - *Click: `Accept`*
@@ -361,8 +363,6 @@ ________________________________________________________________________________
 
 ### 17. ) After that, we can now Select: `Turn Windows features on or off` 
                               
-- Enable the Following:
-
   - Enable: Internet Information Services (IIS)
  
   - Open & Enable: `World Wide Web Services`
@@ -392,9 +392,9 @@ ________________________________________________________________________________
 
 ### 19. ) Enable: Common HTTP Features and..
 
-    - `Check All Boxes` within this feature's folder
+- Check: `All Boxes` *(within this feature's folder)*
    
-  - Click: 'Ok'
+- Click: 'Ok'
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f815d194-ed55-4989-9663-638c95091f25"><br>
 
@@ -412,13 +412,13 @@ ________________________________________________________________________________
 
 ### 20. ) When that's done Click: `Close` and Go To: your `Internet Browser in Microsoft Edge`
 
-- Skip all the Pop-Ups & Uncheck all the boxes
+- Skip All the Pop-Ups & Uncheck All the Boxes
 
 - Click: `Start without your data`
 
-- Uncheck the Box
+- `Uncheck the Box`
 
-- Continue without this data
+- Click: `Continue without this data`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b360cb70-7b73-4879-bb17-614ac2dd9db8"><br>
 
@@ -450,17 +450,17 @@ ________________________________________________________________________________
 
 <br>
 
-### 21. ) Type in 127.0.0.1 into your web browser to test that IIS works before continuing to the next step
+### 21. ) Type: `127.0.0.1` into your Web Browser to Test that IIS Works Before Continuing to the Next Step
 
 - If you dont see the image displayed below then try uninstalling and reinstalling IIS
 
- >**NOTE: All you're doing when uninstalling and reinstalling IIS is undoing everything we just did in Part C: #16**
-
->**- To Uninstall and Reinstall IIS do the following:**
-
-  >**right-click: `start` > click: `Run` > Type In: `Control` > Click: `Programs` > Click: `Turn Windows on or off` > *Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` > *Uncheck:* `Application Development Features` (Inside World Wide Web Services) > *Uncheck:* `CGI` (Application Development Features) > *Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) > *Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) > *Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b20ecb45-f3df-49b4-9a6e-34c254557dde"><br>
+
+>**NOTE: All you're doing when uninstalling and reinstalling IIS is undoing everything we just did in Part C: #16**
+
+>**To Uninstall and Reinstall IIS do the following:**
+
+>**Right-Click: `start` > Click: `Run` > Type In: `Control` > Click: `Programs` > Click: `Turn Windows on or off` > *Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` > *Uncheck:* `Application Development Features` (Inside World Wide Web Services) > *Uncheck:* `CGI` (Application Development Features) > *Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) > *Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) > *Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
 
 ***
 
@@ -468,9 +468,9 @@ ________________________________________________________________________________
 
 ### 22. ) Download PHP Manager for IIS
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to down load PHP Manager
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download PHP Manager
 
-- Keep the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) in its own tab, so that you can easily access them throught out this lab, if you haven't already.
+- Keep the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) in a seperate tab, so that you can easily access them throught out this lab, if you haven't already.
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -480,7 +480,7 @@ ________________________________________________________________________________
 
 ### 23. ) Download Rewrite Module
 
->**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -500,7 +500,7 @@ ________________________________________________________________________________
 
 - Unzip into the Directory (C:\PHP) you just created
 
->**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -510,7 +510,7 @@ ________________________________________________________________________________
 
 ### 24. ) Download VC_redist.x86.exe
 
->**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -526,7 +526,7 @@ ________________________________________________________________________________
 
 - Standard Confirguration
 
-- Type In: *Your Password (The password you crearted when creating your VM (vm-osticket))*
+- Type In: *Your Password* (The password you crearted when creating your VM (vm-osticket)
 
 >**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
 
