@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________<br>
 
-## 📝 Installation Steps - Part A: Create a 'Resource Group'
+## 📝 Installation Steps - Part A: Create a Resource Group
 
 ### 1. ) Starting at the 'Home' screen in your Microsoft Azure Portal
 
