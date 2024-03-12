@@ -633,10 +633,6 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9511f234-d3cf-43c8-8a57-dfd70193d3da"><br>
-
-***
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/47254910-dc0e-4774-bf13-fef72551c905"><br>
 
 ***
@@ -678,10 +674,6 @@ ________________________________________________________________________________
 ***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/70a583da-dc05-4d27-ab42-c29feaecaf31"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/53ce1fff-6b52-42e8-b753-f1e8c9244746"><br>
 
 ***
 
@@ -731,21 +723,19 @@ ________________________________________________________________________________
 
 ***
 
-### 28. ) Refresh/Restart IIS
+### 28. ) Refresh/Restart IIS and Install osTicket v1.15.8
 
 - or Start/Stop
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/15204f46-5aac-480d-b6ec-026dc246b636"><br>
-
-***
-
-### 29. ) Install osTicket v1.15.8
 
 - Download: `osTicket` from [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 - Extract & Copy: the `upload` folder to c:\inept\wwwroot\include
 
 - Within `c:\inept\wwwroot\include` > Rename: `upload` to `osTicket` (Right-Click on 'upload')
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/15204f46-5aac-480d-b6ec-026dc246b636"><br>
+
+***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2a16ac5-77b2-4f6c-99ea-12f9d921d874"><br>
 
@@ -816,30 +806,15 @@ ________________________________________________________________________________
 
 - Or Stop/Start
 
+- Go to: `sites` > `Default` > `osTicket`
+
+- On the Right, Click: `Browse*: 80`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7cb6e7c6-877d-4cbe-b92f-9f22092437df"><br>
 
 ***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/085d2c71-60cb-48ff-a816-acf9553a9d6f"><br>
-
-***
-
-<br>
-
-### 31. ) Inside IIS
-
-- Go to: `sites` > `Default` > `osTicket`
-- On the Right, Click: `Browse*: 80`
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
 
 ***
 
