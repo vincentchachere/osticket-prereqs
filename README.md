@@ -474,27 +474,29 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f57f0c7-69cc-4497-b21c-64e7668b48e7"><br>
 
+***
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7df5eb6e-dd1b-4269-920b-30c215b6a9cc"><br>
+
+***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c96e4e2a-37a3-4f90-aa29-118c9d8a468a"><br>
 
+***
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/12297f27-1fa5-4997-83f4-5667955c62e7"><br>
+
+***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ccdfcdd2-6a67-453d-bfc1-fb05da1fff5f"><br>
 
+***
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/80a9a97e-28f0-4100-a02e-4542c4c4aa38"><br>
 
+***
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9132b29d-2fde-4197-b823-40e6d9a09235"><br>
-
-### 23. ) 
-
-<img width="1511" alt="isolated" src=""><br>
-
-<img width="1511" alt="isolated" src=""><br>
-
-<img width="1511" alt="isolated" src=""><br>
-
-<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -502,13 +504,17 @@ ________________________________________________________________________________
 
 ### 23. ) Download Rewrite Module
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5b94ee25-946f-4489-965d-a95b0ba87de9"><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
 
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -520,11 +526,19 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
+***
+
 <img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -536,13 +550,17 @@ ________________________________________________________________________________
 
 - Unzip into the Directory (C:\PHP) you just created
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62
+<img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
 
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -552,13 +570,17 @@ ________________________________________________________________________________
 
 ### 24. ) Download VC_redist.x86.exe
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62
+<img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
 
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -580,9 +602,15 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
 
 <img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -600,7 +628,11 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+***
+
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -612,7 +644,11 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+***
+
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -626,7 +662,11 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+***
+
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -644,7 +684,11 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+***
+
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -658,7 +702,11 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+***
+
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -673,7 +721,11 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+***
+
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
