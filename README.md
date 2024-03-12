@@ -313,10 +313,6 @@ ________________________________________________________________________________
 
 ***
 
-- *Uncheck: `All Boxes`*
-
-- *Click: `Accept`*
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
 
 ***
@@ -324,6 +320,10 @@ ________________________________________________________________________________
 <br>
 
 ### 16. ) Once connected and inside your Virtual Machine we'll need to:
+
+- *Uncheck: `All Boxes`*
+
+- *Click: `Accept`*
 
 - Right-Click: `Start` in the bottom left of your screen
 
@@ -382,7 +382,7 @@ ________________________________________________________________________________
 
   - Enable: `CGI`
 
-- *Collapse World Wide Web Service feature folder*
+- *Collapse Application Development Features folder*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf191a8d-3aef-4a00-8076-63c39a010ef7"><br>
 
