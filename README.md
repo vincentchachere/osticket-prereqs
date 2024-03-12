@@ -580,19 +580,28 @@ ________________________________________________________________________________
 
 ### 24. ) Download VC_redist.x86.exe
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/83610349-7629-4a4e-82da-e7dcc0bb8b9b"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4b0241c0-8e19-4c18-9557-9336a290c95c"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84a6b411-962c-44a4-b1be-1b63fc59bd06"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/09e62100-5297-47de-80da-45eee0e145e0"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5ec96900-768b-453e-b488-f1b94f83cf2b"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b96dbd82-60af-4e75-ac96-da2fb3f84ad7"><br>
 
 ***
 
@@ -608,19 +617,67 @@ ________________________________________________________________________________
 
 - Type In: *Your Password* (The password you crearted when creating your VM (vm-osticket)
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/167620db-0e92-4d0f-bb82-9a7af9297aeb"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/dbd21992-4554-4d11-8010-bcc8e2d35961"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9511f234-d3cf-43c8-8a57-dfd70193d3da"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/47254910-dc0e-4774-bf13-fef72551c905"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e67c700b-0098-44bd-b90a-8f6698eb24e0"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/59367782-74b6-4408-bf3f-ebe28a2c302b"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/aed0ccff-df67-4e94-9c7a-a98c86162d04"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a137fe1-f0da-47a2-a339-693b5bfeb138"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/dbdb61d6-ea10-4370-8ed3-bdd01ed79710"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/43db12f6-5b9d-4517-85be-f7aacc72a83e"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f8a6ce64-5cf1-49bb-96c4-51180aa3b021"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3e6dabfa-9096-4f60-aac9-18eedb587d86"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9d10e55d-15db-4439-bfea-061093afc753"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/70a583da-dc05-4d27-ab42-c29feaecaf31"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/53ce1fff-6b52-42e8-b753-f1e8c9244746"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2505f9a5-604c-4197-9f4c-e87b6ae36097"><br>
 
 ***
 
