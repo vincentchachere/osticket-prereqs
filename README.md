@@ -564,6 +564,14 @@ ________________________________________________________________________________
 
 ***
 
+### 24. ) Check to see the php 7.3.8 made it into the PHP Directory
+
+- 
+
+- 
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6c31a26-a342-4526-b778-a82f217e0036"><br>
 
 ***
@@ -578,7 +586,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 24. ) Download VC_redist.x86.exe
+### 25. ) Download VC_redist.x86.exe
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/83610349-7629-4a4e-82da-e7dcc0bb8b9b"><br>
 
@@ -691,6 +699,46 @@ ________________________________________________________________________________
 
 - 
 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d41680a0-721e-4b3c-96ce-5310df21da38"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/eb75fbaa-0d3c-45f1-b064-d965ecc36fd9"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b91fd8b3-f3d3-4aa4-b651-ddefd79c1200"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/32617b59-6a83-42d1-bf09-d4ffe0bdb7f7"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/595705b3-fb62-4838-bfa2-a017cf9e3587"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/de874438-082d-4249-8aec-b33890da7f7a"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7b3dff50-a9bc-4a8f-a42e-a06219848b34"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/15204f46-5aac-480d-b6ec-026dc246b636"><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
 <img width="1511" alt="isolated" src=""><br>
 
 ***
@@ -746,6 +794,22 @@ ________________________________________________________________________________
 - Extract & Copy: the `upload` folder to c:\inept\wwwroot\include
 
 - Within `c:\inept\wwwroot\include` Rename: `upload` to `osTicket` 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2a16ac5-77b2-4f6c-99ea-12f9d921d874"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3c98359f-f192-43c1-8ff8-605efe91501b"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4143b4-446c-4245-a6b4-88d45c239fc9"><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
