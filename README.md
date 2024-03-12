@@ -703,6 +703,10 @@ ________________________________________________________________________________
 
 ***
 
+<br>
+
+### 27. ) Register PHP from within IIS
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/eb75fbaa-0d3c-45f1-b064-d965ecc36fd9"><br>
 
 ***
@@ -727,73 +731,49 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/15204f46-5aac-480d-b6ec-026dc246b636"><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
-### 27. ) Register PHP from within IIS
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
 ### 28. ) Refresh/Restart IIS
 
 - or Start/Stop
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/15204f46-5aac-480d-b6ec-026dc246b636"><br>
 
 ***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
 
 ### 29. ) Install osTicket v1.15.8
 
-- Download osTicekt from Installation File Folder
+- Download: `osTicket` from [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 - Extract & Copy: the `upload` folder to c:\inept\wwwroot\include
 
-- Within `c:\inept\wwwroot\include` Rename: `upload` to `osTicket` 
+- Within `c:\inept\wwwroot\include` > Rename: `upload` to `osTicket` (Right-Click on 'upload')
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2a16ac5-77b2-4f6c-99ea-12f9d921d874"><br>
 
