@@ -508,15 +508,15 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/721490cc-e27f-4d47-a85b-97de8dc643c6"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c71aa5ef-fc0f-4550-a18b-23afcd989151"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6860d598-dcb0-4656-adc5-599cebc5d521"><br>
 
 ***
 
@@ -524,19 +524,15 @@ ________________________________________________________________________________
 
 ### 24. ) Create Directory C:\PHP
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b5e48dce-2671-4b95-af09-fb3ea60cf82a"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/20c4cc4d-c381-48b9-bebc-cb61f5cbea52"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/166f8e04-71ff-44ef-b2cf-3b9acf3160ea"><br>
 
 ***
 
@@ -597,8 +593,6 @@ ________________________________________________________________________________
 - Standard Confirguration
 
 - Type In: *Your Password* (The password you crearted when creating your VM (vm-osticket)
-
->**Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62**
 
 <img width="1511" alt="isolated" src=""><br>
 
