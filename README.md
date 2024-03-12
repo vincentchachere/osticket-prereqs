@@ -544,22 +544,6 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/249f5bd3-7438-4453-b9e5-39c7499ff3ab"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/734809ed-22e1-4d53-bfbd-d48bd4a2af8a"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6c31420-7a0b-4523-9c2e-5cbcad0fdfd4"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f04df417-d514-4a04-892a-f0bc999589cb"><br>
-
-***
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56e6545a-48d5-45df-b861-fd6624203d5b"><br>
 
 ***
