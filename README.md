@@ -600,11 +600,6 @@ ________________________________________________________________________________
 
 ***
 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/09e62100-5297-47de-80da-45eee0e145e0"><br>
-
-***
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5ec96900-768b-453e-b488-f1b94f83cf2b"><br>
 
 ***
@@ -617,13 +612,13 @@ ________________________________________________________________________________
 
 ### 25. ) Download MySQL 5.5.62
 
-- Typical Setup
+- Select: Typical Setup
 
-- Launch Configuration (After you download MySQL 5.5.62)
+- Selet: Launch Configuration (After you download MySQL 5.5.62)
 
-- Standard Confirguration
+- Select: Standard Confirguration
 
-- Type In: *Your Password* (The password you crearted when creating your VM (vm-osticket)
+- Type In: *Your Password* (The password you created when creating your VM (vm-osticket)
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/167620db-0e92-4d0f-bb82-9a7af9297aeb"><br>
 
@@ -634,10 +629,6 @@ ________________________________________________________________________________
 ***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/47254910-dc0e-4774-bf13-fef72551c905"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e67c700b-0098-44bd-b90a-8f6698eb24e0"><br>
 
 ***
 
@@ -683,21 +674,23 @@ ________________________________________________________________________________
 
 <br>
 
-### 26. ) Open IIS as an Administrator
+### 26. )  Open IIS as an Administrator and Register PHP from within IIS
 
-- 
+- Type: `IIS` into search bar at bottom left of your screen
 
-- 
+- Right-Click: `IIS` and Select: `Run as Administrator`
 
-- 
+- Double-Click: `PHP Manager`
+
+- Click: `Register vew PHP version`
+
+- Click: the `...` `Box` (three dots box) that is next to the search bar
+
+- Go To: `This PC` > `Windows (C:)` > `PHP` > 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d41680a0-721e-4b3c-96ce-5310df21da38"><br>
 
 ***
-
-<br>
-
-### 27. ) Register PHP from within IIS
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/eb75fbaa-0d3c-45f1-b064-d965ecc36fd9"><br>
 
@@ -731,7 +724,8 @@ ________________________________________________________________________________
 
 - Extract & Copy: the `upload` folder to c:\inept\wwwroot\include
 
-- Within `c:\inept\wwwroot\include` > Rename: `upload` to `osTicket` (Right-Click on 'upload')
+- Within `c:\inept\wwwroot\include` and Rename: `upload` to `osTicket`
+  - Right-Click: 'upload` and Click: `Rename`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/15204f46-5aac-480d-b6ec-026dc246b636"><br>
 
@@ -742,10 +736,6 @@ ________________________________________________________________________________
 ***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3c98359f-f192-43c1-8ff8-605efe91501b"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4143b4-446c-4245-a6b4-88d45c239fc9"><br>
 
 ***
 
@@ -761,42 +751,31 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/668c83c4-8101-444a-bf68-4b52413d01f0"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f6e5d2e2-5733-4263-b6ab-17fd1ce9cc09"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a6a8e6c4-a67f-451f-8402-641e831526b2"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/179ec09e-6bda-4dc7-a6d6-97fef8c1cc71"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f05bcd68-e16f-49d6-b847-d619cb891175"><br>
-
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9a69765c-34b1-4202-833e-9cd620b72286"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/37178cb1-3c0c-43b9-8463-82757f3af06a"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/370d960e-0a48-4248-a625-5ad35d8f5b59"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/03b8de40-f45d-41bd-9a27-00d9068e561c"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/acc63670-6e25-419a-a0d8-2903ca2a258c"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -847,10 +826,6 @@ ________________________________________________________________________________
 ***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a0dfb7d0-f851-4657-b3b7-49414e5cd872"><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
 
 ***
 
