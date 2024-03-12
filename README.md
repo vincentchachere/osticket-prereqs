@@ -476,10 +476,6 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7df5eb6e-dd1b-4269-920b-30c215b6a9cc"><br>
-
-***
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c96e4e2a-37a3-4f90-aa29-118c9d8a468a"><br>
 
 ***
@@ -516,10 +512,6 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6860d598-dcb0-4656-adc5-599cebc5d521"><br>
-
-***
-
 ### 24. ) Create Directory C:\PHP
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b5e48dce-2671-4b95-af09-fb3ea60cf82a"><br>
@@ -534,21 +526,17 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c4010c5-b21c-43a4-97e2-1f4dcd78e624"><br>
-
-***
-
 <br>
 
 ### 23. ) Download PHP 7.3.8
 
 - Unzip into the Directory (C:\PHP) you just created
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/243565ac-e227-44e9-b340-d7d9b0eb8648"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c4010c5-b21c-43a4-97e2-1f4dcd78e624"><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/16a11a07-236b-4ef8-bf4b-43357d8fbc44"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/243565ac-e227-44e9-b340-d7d9b0eb8648"><br>
 
 ***
 
