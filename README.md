@@ -472,8 +472,6 @@ ________________________________________________________________________________
 
 - Keep the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) in a seperate tab, so that you can easily access them throught out this lab, if you haven't already.
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7d11c385-540c-47b8-9c57-8f764ba4070f"><br>
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f57f0c7-69cc-4497-b21c-64e7668b48e7"><br>
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7df5eb6e-dd1b-4269-920b-30c215b6a9cc"><br>
@@ -488,11 +486,15 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9132b29d-2fde-4197-b823-40e6d9a09235"><br>
 
+### 23. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
 <img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
-<img width="1511" alt="isolated" src="
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -504,11 +506,25 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
 
 ### 24. ) Create Directory C:\PHP
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -524,6 +540,12 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
@@ -531,6 +553,12 @@ ________________________________________________________________________________
 ### 24. ) Download VC_redist.x86.exe
 
 - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download MySQL 5.5.62
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -552,6 +580,12 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
@@ -566,11 +600,19 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
 
 ### 27. ) Register PHP from within IIS
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -581,6 +623,10 @@ ________________________________________________________________________________
 ### 28. ) Refresh/Restart IIS
 
 - or Start/Stop
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -598,6 +644,10 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
@@ -605,6 +655,10 @@ ________________________________________________________________________________
 ### 30. ) Refresh/Restart IIS
 
 - Or Stop/Start
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -616,6 +670,10 @@ ________________________________________________________________________________
 
 - Go to: `sites` > `Default` > `osTicket`
 - On the Right, Click: `Browse*: 80`
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -639,11 +697,19 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
 
 ### 31. ) Rename: *ost-sample*config.php to ost-config.php
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -669,11 +735,19 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
 
 ### 33. ) Refresh PHP Manager (IIS)
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -688,6 +762,10 @@ ________________________________________________________________________________
 - Name: `Helpdesk`
 
 - `Default Email` (recieves emails from customers)
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -709,6 +787,10 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
@@ -725,6 +807,10 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
@@ -735,6 +821,10 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
+
 ***
 
 <br>
@@ -742,6 +832,10 @@ ________________________________________________________________________________
 ### 38. ) End Users osTicket URL:
 
 - http://localhost/osTicket/ 
+
+<img width="1511" alt="isolated" src=""><br>
+
+<img width="1511" alt="isolated" src=""><br>
 
 <img width="1511" alt="isolated" src=""><br>
 
