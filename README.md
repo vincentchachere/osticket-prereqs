@@ -520,8 +520,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 24. ) Create Directory C:\PHP
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b5e48dce-2671-4b95-af09-fb3ea60cf82a"><br>
@@ -536,7 +534,7 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c4010c5-b21c-43a4-97e2-1f4dcd78e624"><br>
 
 ***
 
@@ -546,19 +544,63 @@ ________________________________________________________________________________
 
 - Unzip into the Directory (C:\PHP) you just created
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/243565ac-e227-44e9-b340-d7d9b0eb8648"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/16a11a07-236b-4ef8-bf4b-43357d8fbc44"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/64200858-d6a0-40a8-85af-7b0e4f1fb000"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/249f5bd3-7438-4453-b9e5-39c7499ff3ab"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/734809ed-22e1-4d53-bfbd-d48bd4a2af8a"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6c31420-7a0b-4523-9c2e-5cbcad0fdfd4"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f04df417-d514-4a04-892a-f0bc999589cb"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56e6545a-48d5-45df-b861-fd6624203d5b"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4653e904-d198-4b43-b88e-01d3c322a9f0"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/26564e01-7ad7-44d5-a27e-32877be87ab4"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e8cf932-6f8d-4dd0-ae01-e7b746292449"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/101abf72-f1e0-4f47-aec7-70d9b13fcc0f"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6c31a26-a342-4526-b778-a82f217e0036"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f16a0e69-05ab-4d29-a9f1-792d6725f540"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c1a99257-42a0-4c01-b687-102532db493a"><br>
 
 ***
 
