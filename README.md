@@ -834,9 +834,21 @@ ________________________________________________________________________________
 
 - Refresh/Restart the osTicket browser & observe the changes
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8792b4c8-4d5d-40d3-bcf1-096ffe2e3585"><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5964d218-5281-469a-bce0-983fa3e80e44"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ef7eb88-65af-441d-a857-f97e5140f00e"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a0dfb7d0-f851-4657-b3b7-49414e5cd872"><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
