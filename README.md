@@ -684,7 +684,7 @@ ________________________________________________________________________________
 
 - Click: `Register vew PHP version`
 
-- Click: the `...` `Box` (three dots box) that is next to the search bar
+- Click: the `'...' Box` (three dots box) that is next to the search bar
 
 - Go To: `This PC` > `Windows (C:)` > `PHP` > `php-cgi` > `Open` > `Ok`
 
@@ -766,6 +766,14 @@ ________________________________________________________________________________
 ***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a7b4e18-ff5a-4411-8d9d-52867b6d6ad8"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fd509b80-2ba9-42c7-84ff-9bbe50c588c7"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a8019a98-735c-423c-9fcc-d30cac5c56bb"><br>
 
 ***
 
