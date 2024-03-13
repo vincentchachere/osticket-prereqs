@@ -791,9 +791,15 @@ ________________________________________________________________________________
 
 - Or Stop/Start
 
+- Open: `IIS` *as an Administrator*
+
 - Go to: `sites` > `Default` > `osTicket`
 
 - On the Right, Click: `Browse*: 80`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6f65cdff-c286-44e0-91fe-6d788c6fc734"><br>
+
+***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7cb6e7c6-877d-4cbe-b92f-9f22092437df"><br>
 
@@ -805,7 +811,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 32. ) Inside IIS
+### 32. ) Inside IIS:
 
 - Go to: `sites` > `Default` > `osTicket` > Double Click: `PHP Manager`
 
@@ -831,15 +837,33 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a0dfb7d0-f851-4657-b3b7-49414e5cd872"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be29bc9a-8461-4ce6-b416-d2432a44cd32"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/61e1cc32-dd4c-4b7a-8ca0-bbb9d544276d"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/88ad8699-a4c7-45ad-9778-87750a539a6b"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/08708793-3055-43c7-b954-ba4a1465faba"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/872ff45a-cc14-430a-ad25-d158b90bf4ef"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/21ebff0a-9f55-4a96-9ffe-f51eae7aec71"><br>
 
 ***
 
 <br>
 
-### 33. ) Rename: *ost-sample*config.php to ost-config.php
-
-<img width="1511" alt="isolated" src=""><br>
+### 33. ) Rename: *ost-'sample'*config.php to ost-config.php
 
 <img width="1511" alt="isolated" src=""><br>
 
