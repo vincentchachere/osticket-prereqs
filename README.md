@@ -686,7 +686,9 @@ ________________________________________________________________________________
 
 - Click: the `...` `Box` (three dots box) that is next to the search bar
 
-- Go To: `This PC` > `Windows (C:)` > `PHP` > 
+- Go To: `This PC` > `Windows (C:)` > `PHP` > `php-cgi` > `Open` > `Ok`
+
+- Go To `Home` screen of PHP Manager and `Refresh` PHP Manager
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d41680a0-721e-4b3c-96ce-5310df21da38"><br>
 
@@ -747,7 +749,7 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5083a9ca-a4aa-4e99-a3da-b4cdb6b79e79"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
