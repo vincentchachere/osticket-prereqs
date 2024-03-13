@@ -528,7 +528,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 23. ) Download PHP 7.3.8
+### 25. ) Download PHP 7.3.8
 
 - Unzip into the Directory (C:\PHP) you just created
 
@@ -564,7 +564,7 @@ ________________________________________________________________________________
 
 ***
 
-### 24. ) Check to see the php 7.3.8 made it into the PHP Directory
+### 26. ) Check to see the php 7.3.8 made it into the PHP Directory
 
 - 
 
@@ -586,7 +586,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 25. ) Download VC_redist.x86.exe
+### 27. ) Download VC_redist.x86.exe
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/83610349-7629-4a4e-82da-e7dcc0bb8b9b"><br>
 
@@ -610,7 +610,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 25. ) Download MySQL 5.5.62
+### 28. ) Download MySQL 5.5.62
 
 - Select: Typical Setup
 
@@ -674,7 +674,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 26. )  Open IIS as an Administrator and Register PHP from within IIS
+### 29. )  Open IIS as an Administrator and Register PHP from within IIS
 
 - Type: `IIS` into search bar at bottom left of your screen
 
@@ -718,7 +718,7 @@ ________________________________________________________________________________
 
 ***
 
-### 28. ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 30. ) Refresh/Restart IIS and Install osTicket v1.15.8
 
 - or Start/Stop
 
@@ -779,7 +779,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 30. ) Refresh/Restart IIS
+### 31. ) Refresh/Restart IIS
 
 - Or Stop/Start
 
@@ -797,7 +797,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 30. ) Inside IIS
+### 32. ) Inside IIS
 
 - Go to: `sites` > `Default` > `osTicket` > Double Click: `PHP Manager`
 
@@ -829,7 +829,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 31. ) Rename: *ost-sample*config.php to ost-config.php
+### 33. ) Rename: *ost-sample*config.php to ost-config.php
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -841,7 +841,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 32. ) Assign Permissions: ost-config.php
+### 34. ) Assign Permissions: ost-config.php
 
 - Right-Click: `ost-config.php`
 
@@ -867,7 +867,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 33. ) Refresh PHP Manager (IIS)
+### 35. ) Refresh PHP Manager (IIS)
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -879,7 +879,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 34. ) Continue Setting Up osTicket in browser
+### 36. ) Continue Setting Up osTicket in browser
 
 - Click: `Continue`
 
@@ -897,7 +897,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 35. ) Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+### 37. ) Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 - Install: HiediSQL
 
@@ -919,7 +919,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 36. ) Continue Setting Up osTicket in Browser
+### 38. ) Continue Setting Up osTicket in Browser
 
 - MySQL Database: `osTicket`
 
@@ -939,7 +939,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 37. ) Congrats! Hopefully No Errors!
+### 39. ) Congrats! Hopefully No Errors!
 
 - Browse to your Helpdesk Login: http://localhost/osTicket/scp/login.php
 
@@ -953,7 +953,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 38. ) End Users osTicket URL:
+### 40. ) End Users osTicket URL:
 
 - http://localhost/osTicket/ 
 
@@ -967,7 +967,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 39. ) Clean Up
+### 41. ) Clean Up
 
 - Delete: c:\inept\wwwroot\osTicket\`*setup*`
 
@@ -983,22 +983,6 @@ ________________________________________________________________________________
 
 >**NOTE: Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
 End Users osTicket URL: http://localhost/osTicket/**
-
-***
-
-<br>
-
-### 40. ) 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
-### 41. ) 
-
-<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -1021,5 +1005,21 @@ End Users osTicket URL: http://localhost/osTicket/**
 <br>
 
 ### 44. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 45. ) 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<br>
+
+### 46. ) 
 
 
