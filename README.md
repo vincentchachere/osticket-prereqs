@@ -995,11 +995,52 @@ ________________________________________________________________________________
 
 ***
 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ea34d25c-a02b-4d21-8f2c-5316b344bfe7"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/939d0fda-cca3-46d6-ac98-f183d56fcc9a"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8e13a12e-d14e-42bf-b3c9-cc0479194a26"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/12cd0142-0e16-4073-903a-d0e209f4bbab"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/89aaecb0-f7a3-4e38-9aa6-0b220e7e9e9b"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/50393481-ec35-40ad-a719-486a90ce6355"><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+
 <br>
 
 ### 38. ) Continue Setting Up osTicket in Browser
 
-- MySQL Database: `osTicket`
+- HiediSQL Database: `osTicket`
 
 - MySQL Username: `vincentchachere`
 
