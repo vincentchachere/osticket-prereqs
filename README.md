@@ -1019,22 +1019,25 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4cdcb8e8-bd1a-4e5f-829d-dce605c8ee98"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4e0da616-805c-4acb-a332-642c6e29438d"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/efd049eb-1d1d-4600-a58b-f59c33f908f1"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/62806062-5451-4ae7-a22c-9154a62e0af6"><br>
 
 ***
 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6554b822-d257-49e1-8c35-bd0c8e09c3e0"><br>
+
+***
 
 <br>
 
@@ -1048,11 +1051,11 @@ ________________________________________________________________________________
 
 - Click: `INSTALL NOW`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/753262e2-49d9-47a9-a380-fb31e9067a68)"><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bbd64de0-cdab-4757-8662-75e2ab0c7ea3"><br>
 
 ***
 
@@ -1064,7 +1067,11 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+***
+
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
