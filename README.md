@@ -1061,17 +1061,49 @@ ________________________________________________________________________________
 
 <br>
 
-### 39. ) Congrats! Hopefully No Errors!
+### 39. ) Congrats! Hopefully No Errors! Before logging in we need to Delete: c:\inept\wwwroot\osTicket\`*setup*`:
 
-- Browse to your Helpdesk Login: http://localhost/osTicket/scp/login.php
+- ONLY DELETE the `setup` part, NOT the whole thing.
 
-<img width="1511" alt="isolated" src=""><br>
+- Set Permissions to “Read” only for:
+
+  - C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/665d900d-6f13-4172-b25b-6dc8dfe33469"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a6d7d37-7227-4742-8fd4-aa0022645f1a"><br>
 
 ***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6235eb2e-e4d5-4168-ae0f-ac1a7942b52a"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d1aca000-1239-4203-b9a3-8b932107092d"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a3c0a350-06ee-48ea-aabb-5fd680ba811c"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1c58635f-de50-42d3-8cf6-755f0e2ed9c0"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9977c4a4-0c10-4463-bc7b-99a123edc19f"><br>
+
+***
+
+<br>
+
+### 40. ) Login: http://localhost/osTicket/scp/login.php
+
+- 
 
 <img width="1511" alt="isolated" src=""><br>
 
@@ -1079,7 +1111,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 40. ) End Users osTicket URL:
+### 41. ) End Users osTicket URL:
 
 - http://localhost/osTicket/ 
 
@@ -1092,60 +1124,3 @@ ________________________________________________________________________________
 ***
 
 <br>
-
-### 41. ) Clean Up
-
-- Delete: c:\inept\wwwroot\osTicket\`*setup*`
-
-  - ONLY DELETE the `setup` part, NOT the whole thing.
- 
-- Delete: C:\inetpub\wwwroot\osTicket\setup
-
-- Set Permissions to “Read” only for:
-
-  - C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
-<img width="1511" alt="isolated" src=""><br>
-
->**NOTE: Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
-End Users osTicket URL: http://localhost/osTicket/**
-
-***
-
-<br>
-
-### 42. ) 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
-### 43. ) 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
-### 44. ) 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
-### 45. ) 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
-### 46. ) 
-
-
