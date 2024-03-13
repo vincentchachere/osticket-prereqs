@@ -865,9 +865,27 @@ ________________________________________________________________________________
 
 ### 33. ) Rename: *ost-'sample'*config.php to ost-config.php
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/205d5e8c-8f7d-42b1-a522-453d3ffda950"><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1373c747-7943-48bb-baf9-a929be1c464f"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0667aff0-f52c-42e1-979c-6572067f84bb"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5d37d24b-8a5e-4934-a6a6-0567e2146189"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/eb15d6f7-0f73-468b-94d1-20f0e961cf25"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ab42e0bf-dc39-405e-a2f3-01497e683ed5"><br>
 
 ***
 
@@ -889,29 +907,49 @@ ________________________________________________________________________________
 
 - Click: `Ok`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e74adb11-a3ee-4901-8242-50fd7a6250f3"><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/cbaf1c4b-b0e6-4928-b5de-aa56cd41a6fc"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/935cda62-1d67-45e0-93c4-39ebf92011cf"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/14d20aec-b1c2-4839-ba3b-7e744b85ec95"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ad0b0008-da6d-4124-87a2-83826defb878"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/adad3db8-a4ec-473f-9c71-3a37215ec688"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/97a32d06-3517-452e-8ab0-87675667232d"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be008f3d-012a-4b11-a918-c3c22c0497e1"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fe2dfed6-11e7-46da-8038-9e136385df3d"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/269eb513-a0b4-41bd-a369-c2b1e00cf068"><br>
 
 ***
 
 <br>
 
-### 35. ) Refresh PHP Manager (IIS)
-
-<img width="1511" alt="isolated" src=""><br>
-
-<img width="1511" alt="isolated" src=""><br>
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
-### 36. ) Continue Setting Up osTicket in browser
+### 35. ) Refresh PHP Manager (IIS) and Continue Setting Up osTicket in browser
 
 - Click: `Continue`
 
@@ -919,11 +957,11 @@ ________________________________________________________________________________
 
 - `Default Email` (recieves emails from customers)
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1a924ff1-9f1f-435c-bec5-a3b9188ecc5d"><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2ea73b73-8377-4c7d-ad18-3c0e2b82192d"><br>
 
 ***
 
@@ -941,11 +979,19 @@ ________________________________________________________________________________
 
 - Create a database called `osTicket`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fade480e-0976-45d5-ae0c-8b14f56d1f3a"><br>
 
-<img width="1511" alt="isolated" src=""><br>
+***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/caf744e4-2bdc-4147-9465-5518fa048245"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0bd0bce1-8dcb-44d1-aee2-a4d48dd776d1"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/081856d4-ef5d-4ec7-a59b-22e8855aeca9"><br>
 
 ***
 
