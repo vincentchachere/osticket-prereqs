@@ -749,35 +749,31 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/249763f2-b28c-4e7c-b949-cdcd4a199609"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d5ba6cb1-a802-47cb-84d0-f60fe106393d"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4ce05297-1303-43fc-8e9e-d81ddfecf459"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/949a96ad-f61d-4e54-ab36-be7032f5ccdc"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a7b4e18-ff5a-4411-8d9d-52867b6d6ad8"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be3d5cd8-919a-453f-9c26-2c3d9a828dd7"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c3984adf-8bd8-4d43-a40b-29c8c72c8dab"><br>
 
 ***
 
