@@ -458,13 +458,19 @@ ________________________________________________________________________________
 
 ***
 
+### 17.B ) Test IIS by doing the following:
+
+- Uncheck the Box
+
+- Click: `Continue and Conirm`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6528279d-d330-419b-980b-9175825edb33"><br>
 
 ***
 
 <br>
 
-### 17.B ) Test IIS by doing the following:
+### 17.C ) Test IIS by doing the following:
 
 - Click: `Continue without this data`
 
@@ -474,7 +480,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 17.C )Test IIS by doing the following:
+### 17.D )Test IIS by doing the following:
 
 - Uncheck the Box
 
@@ -486,11 +492,13 @@ ________________________________________________________________________________
 
 <br>
 
-### 17.C )Test IIS by doing the following:
+### 17.E ) Now finally, Test IIS by doing the following:
 
-- If you dont see the image displayed below then try uninstalling and reinstalling IIS
+- Type: 127.0.0.1 into the browser
 
-  - *The 'How To Uninstall and Reinstall Instructions' are below the image below.* 
+  - If you do not see the image displayed below then try uninstalling and reinstalling IIS
+
+  - *The 'How To Uninstall and Reinstall Instructions' are directly underneath the image below.* 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b20ecb45-f3df-49b4-9a6e-34c254557dde"><br>
 
@@ -518,7 +526,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 22. ) Download PHP Manager for IIS
+### 18.A ) Download PHP Manager for IIS
 
 - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download PHP Manager
 
