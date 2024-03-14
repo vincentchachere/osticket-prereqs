@@ -640,7 +640,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 21.A ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+### 21.A ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
 - Double-Click: `PHP 7.3.8`
 
@@ -648,7 +648,7 @@ ________________________________________________________________________________
 
 ***
 
-### 21.B ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+### 21.B ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
 - Click : The Download (&darr;) Arrow in the upper right corner
 
@@ -656,7 +656,7 @@ ________________________________________________________________________________
 
 ***
 
-### 21.C ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+### 21.C ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
 - Click: `Download anyway`
 
@@ -666,7 +666,7 @@ ________________________________________________________________________________
 
 ***
 
-### 21.D ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+### 21.D ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
 - Right-Click: `php.7.3.8`
 
@@ -676,7 +676,7 @@ ________________________________________________________________________________
 
 ***
 
-### 21.E ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+### 21.E ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
 - Click: `Browse`
 
@@ -684,7 +684,7 @@ ________________________________________________________________________________
 
 ***
 
-### 21.F ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+### 21.F ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
 - Go To: `This PC` > `Windows (C:)` > `PHP`
 
@@ -692,7 +692,7 @@ ________________________________________________________________________________
 
 ***
 
-### 21.G ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+### 21.G ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
 - Click: `select Folder` (*PHP*)
 
@@ -700,7 +700,7 @@ ________________________________________________________________________________
 
 ***
 
-### 21.H ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+### 21.H ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
 - Click: `Extract`
 
@@ -708,19 +708,11 @@ ________________________________________________________________________________
 
 ***
 
-### 22.A ) Check to see the php 7.3.8 made it into the PHP Directory
+### 22.A ) Check to see the php-7.3.8 made it into the PHP Directory
 
 - Go Back To: `This PC` > `Windows (C:)` > `PHP`
 
-  - *Now you will see the php.7.3.8 file inside the PHP directory, as seen in the image below.*
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6c31a26-a342-4526-b778-a82f217e0036"><br>
-
-***
-
-### 22.B ) Check to see the php 7.3.8 made it into the PHP Directory
-
-- 
+- Double-Click: `PHP`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f16a0e69-05ab-4d29-a9f1-792d6725f540"><br>
 
@@ -728,7 +720,7 @@ ________________________________________________________________________________
 
 ### 22.C ) Check to see the php 7.3.8 made it into the PHP Directory
 
-- 
+- Now you will see the php.7.3.8 file inside the PHP directory, as seen in the image below.
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c1a99257-42a0-4c01-b687-102532db493a"><br>
 
