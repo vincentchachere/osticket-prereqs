@@ -32,8 +32,6 @@ ________________________________________________________________________________
 
 - https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
-  - Open link in seperate tab to save for later use in this lab.
-
 __________________________________________________________________________________________________<br>
 
 ## 📝 Installation Steps - Part A: Create a Resource Group
@@ -528,9 +526,9 @@ ________________________________________________________________________________
 
 ### 18.A ) Download PHP Manager for IIS
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) to download PHP Manager
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download PHP Manager
 
-- Keep the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) in a seperate tab, so that you can easily access them throught out this lab, if you haven't already.
+  - Keep the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) in a seperate tab, so that you can easily access them throught out this lab.
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f57f0c7-69cc-4497-b21c-64e7668b48e7"><br>
 
