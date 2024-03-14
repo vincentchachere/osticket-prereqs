@@ -247,19 +247,21 @@ ________________________________________________________________________________
 ## 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
 
 
-### 14. ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
+### 14.A ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
-- `Copy` your `VM`'s (vm-osticket) `Public IP Address`
+- `Copy` your VM's (vm-osticket) `Public IP Address`
 
 - `Verify` your `VM is running` before continuing
 
-- *Scroll down in between images for the next few instructions*
+- *Scroll down in between images for the next few instructions for Step 14*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c4aa663f-dba3-47cf-8239-255404bd541c"><br>
 
 ***
 
 <br>
+
+### 14.B ) Continue Connecting your Virtual Machine to Remote Desktop by doing the follwing:
 
 - Press: `Command + Space Bar` at the same time to open up the Spotlight Search, then..
 
