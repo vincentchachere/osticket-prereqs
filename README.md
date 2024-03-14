@@ -492,13 +492,21 @@ ________________________________________________________________________________
 >**To Uninstall and Reinstall IIS do the following:**
 
 >**Right-Click: `start` > Click: `Run` >**
+
 >**Type In: `Control` > Click: `Programs` >**
+
 >**Click: `Turn Windows on or off` >**
+
 >***Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` >**
+
 >***Uncheck:* `Application Development Features` (Inside World Wide Web Services) >**
+
 >***Uncheck:* `CGI` (Application Development Features) >**
+
 >***Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) >**
+
 >***Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) >**
+
 >***Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
 
 ***
