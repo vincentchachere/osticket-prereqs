@@ -293,13 +293,13 @@ ________________________________________________________________________________
 
 ### 15. ) Login
 
-- Righ-Click: Remote Desktop Account
+- Righ-Click: Your Remote Desktop Account
 
 - Click: `Connect`
 
 - `Username:` vincentchachere (whatever you typed in st the beginnning of Part B: Step 9)
 
-- `Password:` MyPassword (whatever you typed in st the beginnning of Part B: Step 9)
+- `Password:` *YourPassword* (whatever you typed in st the beginnning of Part B: Step 9)
  
 - Click: `Continue`
 
