@@ -1095,7 +1095,7 @@ ________________________________________________________________________________
 
 ### 40. ) Login: http://localhost/osTicket/scp/login.php
 
-- Username: vincentchachere (The username created in
+- Username: vincentchachere
 
 - Password: *YourPassword*
 
