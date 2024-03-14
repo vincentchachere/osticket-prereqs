@@ -588,25 +588,51 @@ ________________________________________________________________________________
 
 ### 19.A ) Download Rewrite Module
 
-- 
+- Double-Click: `rewrite_amd64_en-US.msi`
+
+- Open: The `rewrite_amd64_en-US.msi` file when it pops up
+
+- Check: The Box *'I accpet the terms in the License Agreement'*
+
+- Click: `Install`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/721490cc-e27f-4d47-a85b-97de8dc643c6"><br>
 
 ***
 
+### 19.B ) Download Rewrite Module
+
+- Click: `Finish`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c71aa5ef-fc0f-4550-a18b-23afcd989151"><br>
 
 ***
 
-### 24. ) Create Directory C:\PHP
+### 20.A ) Create Directory C:\PHP
+
+- Go To: `File Explorer` > `This PC` > `Windows (C:)` > 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b5e48dce-2671-4b95-af09-fb3ea60cf82a"><br>
 
 ***
 
+### 20.B ) Create Directory C:\PHP
+
+- Right-Click: The `empty space under the files`
+
+- Go To: `New` and.. &darr;
+
+- Click: `Folder`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/20c4cc4d-c381-48b9-bebc-cb61f5cbea52"><br>
 
 ***
+
+### 20.B ) Create Directory C:\PHP
+
+- Type In: PHP
+
+- Press: `Enter`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/166f8e04-71ff-44ef-b2cf-3b9acf3160ea"><br>
 
