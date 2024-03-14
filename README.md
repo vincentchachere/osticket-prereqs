@@ -620,7 +620,7 @@ ________________________________________________________________________________
 
 - Right-Click: The `empty space under the files`
 
-- Go To: `New` and.. &darr;
+- Go To: `New`
 
 - Click: `Folder`
 
@@ -640,7 +640,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 25. ) Download PHP 7.3.8
+### 21.A ) Download PHP 7.3.8
 
 - Unzip into the Directory (C:\PHP) you just created
 
@@ -648,49 +648,82 @@ ________________________________________________________________________________
 
 ***
 
+### 21.B ) Download PHP 7.3.8
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/243565ac-e227-44e9-b340-d7d9b0eb8648"><br>
 
 ***
+
+### 21.C ) Download PHP 7.3.8
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/64200858-d6a0-40a8-85af-7b0e4f1fb000"><br>
 
 ***
 
+### 21.D ) Download PHP 7.3.8
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56e6545a-48d5-45df-b861-fd6624203d5b"><br>
 
 ***
+
+### 21.E ) Download PHP 7.3.8
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4653e904-d198-4b43-b88e-01d3c322a9f0"><br>
 
 ***
 
+### 21.F ) Download PHP 7.3.8
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/26564e01-7ad7-44d5-a27e-32877be87ab4"><br>
 
 ***
+
+### 21.G ) Download PHP 7.3.8
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e8cf932-6f8d-4dd0-ae01-e7b746292449"><br>
 
 ***
 
+### 21.H ) Download PHP 7.3.8
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/101abf72-f1e0-4f47-aec7-70d9b13fcc0f"><br>
 
 ***
 
-### 26. ) Check to see the php 7.3.8 made it into the PHP Directory
+### 22.A ) Check to see the php 7.3.8 made it into the PHP Directory
 
 - 
 
-- 
-
-- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6c31a26-a342-4526-b778-a82f217e0036"><br>
 
 ***
 
+### 22.B ) Check to see the php 7.3.8 made it into the PHP Directory
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f16a0e69-05ab-4d29-a9f1-792d6725f540"><br>
 
 ***
+
+### 22.C ) Check to see the php 7.3.8 made it into the PHP Directory
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c1a99257-42a0-4c01-b687-102532db493a"><br>
 
@@ -698,23 +731,41 @@ ________________________________________________________________________________
 
 <br>
 
-### 27. ) Download VC_redist.x86.exe
+### 23.A ) Download VC_redist.x86.exe
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/83610349-7629-4a4e-82da-e7dcc0bb8b9b"><br>
 
 ***
 
+### 23.B ) Download VC_redist.x86.exe
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4b0241c0-8e19-4c18-9557-9336a290c95c"><br>
 
 ***
+
+### 23.C ) Download VC_redist.x86.exe
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84a6b411-962c-44a4-b1be-1b63fc59bd06"><br>
 
 ***
 
+### 23.D ) Download VC_redist.x86.exe
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5ec96900-768b-453e-b488-f1b94f83cf2b"><br>
 
 ***
+
+### 23.E ) Download VC_redist.x86.exe
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b96dbd82-60af-4e75-ac96-da2fb3f84ad7"><br>
 
@@ -722,7 +773,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 28. ) Download MySQL 5.5.62
+### 24.A ) Download MySQL 5.5.62
 
 - Select: Typical Setup
 
