@@ -492,11 +492,11 @@ ________________________________________________________________________________
 
 ### 17.E ) Now finally, Test IIS by doing the following:
 
-- Type: 127.0.0.1 into the browser
+- Type: `127.0.0.1` into the browser
 
   - If you do not see the image displayed below then try uninstalling and reinstalling IIS
 
-  - *The 'How To Uninstall and Reinstall Instructions' are directly underneath the image below.* 
+  - *The `How To Uninstall and Reinstall Instructions` are directly underneath the image below.* 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b20ecb45-f3df-49b4-9a6e-34c254557dde"><br>
 
