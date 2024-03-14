@@ -969,15 +969,15 @@ ________________________________________________________________________________
 
 ### 37. ) Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-- Install: HiediSQL
+- Install: `HiediSQL`
 
-- Open: HiediSQL
+- Open: `HiediSQL`
 
 - Create a *New Session*: `username/Password`
 
-- Connect to Session
+- `Connect to Session`
 
-- Create a database called `osTicket`
+- Create a database called: `osTicket`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fade480e-0976-45d5-ae0c-8b14f56d1f3a"><br>
 
@@ -1061,15 +1061,15 @@ ________________________________________________________________________________
 
 <br>
 
-### 39. ) Congrats! Hopefully No Errors! Before logging in we need to Delete: c:\inept\wwwroot\osTicket\`*setup*`:
+### 39. ) Congrats! Hopefully No Errors! Before logging in we need to do 2 Things:
 
-- ONLY DELETE the `setup` part, NOT the whole thing.
+#### <ins>1st Thing</ins>
+- Delete: `c:\inept\wwwroot\osTicket\`*setup*``
+  - ONLY DELETE THE `setup` PART NOT THE WHOLE THING
 
+#### <ins>2nd Thing</ins>
 - Set Permissions to “Read” only for:
-
-  - C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
-***
+  - C:\inetpub\wwwroot\osTicket\include\`*ost-config.php*`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/665d900d-6f13-4172-b25b-6dc8dfe33469"><br>
 
@@ -1091,21 +1091,19 @@ ________________________________________________________________________________
 
 ***
 
+<br>
+
+### 40. ) Login: http://localhost/osTicket/scp/login.php
+
+- Username: vincentchachere (The username created in
+
+- Password: *YourPassword*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1c58635f-de50-42d3-8cf6-755f0e2ed9c0"><br>
 
 ***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9977c4a4-0c10-4463-bc7b-99a123edc19f"><br>
-
-***
-
-<br>
-
-### 40. ) Login: http://localhost/osTicket/scp/login.php
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -1117,7 +1115,11 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src=""><br>
 
+***
+
 <img width="1511" alt="isolated" src=""><br>
+
+***
 
 <img width="1511" alt="isolated" src=""><br>
 
