@@ -526,15 +526,13 @@ ________________________________________________________________________________
 
 ### 18.A ) Download PHP Manager for IIS
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download PHP Manager
+- Open: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) into a seperate tab, so that you can easily access them throught out this lab.
 
-  - Keep the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) in a seperate tab, so that you can easily access them throught out this lab.
+  - Double-Click: `PHP Manager`
 
-- Double-Click: `PHP Manager`
+  - Click: The `...` Dots in the upper right of your screen next to the `Share` button
 
-- Click: The `...` Dots in the upper right of your screen next to the `Share` button
-
-- Click: `Open in new window`
+  - Click: `Open in new window`
 
   - *Downloading it this way is the only way I've found where it does not take so long, and it downloads the first time instead of multiple attempts.* 
 
@@ -543,6 +541,8 @@ ________________________________________________________________________________
 ***
 
 ### 18.B ) Download PHP Manager for IIS
+
+- Click: `Download anyway`
 
 - Click: The `...` Dots in the upper left corner of your screen
 
