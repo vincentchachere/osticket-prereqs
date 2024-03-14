@@ -530,25 +530,49 @@ ________________________________________________________________________________
 
   - Keep the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) in a seperate tab, so that you can easily access them throught out this lab.
 
+- Double-Click: `PHP Manager`
+
+- Click: The `...` Dots in the upper right of your screen next to the `Share` button
+
+- Click: `Open in new window`
+
+  - *Downloading it this way is the only way I've found where it does not take so long, and it downloads the first time instead of multiple attempts.* 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f57f0c7-69cc-4497-b21c-64e7668b48e7"><br>
 
 ***
+
+### 18.B ) Download PHP Manager for IIS
+
+- Click: The `...` Dots in the upper left corner of your screen
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c96e4e2a-37a3-4f90-aa29-118c9d8a468a"><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/12297f27-1fa5-4997-83f4-5667955c62e7"><br>
+### 18.C ) Download PHP Manager for IIS
 
-***
+- Select: `Download`
+
+- Open: `PHP Manager` File 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ccdfcdd2-6a67-453d-bfc1-fb05da1fff5f"><br>
 
 ***
 
+### 18.D ) Download PHP Manager for IIS
+
+- Select: `I Agree`
+
+- Click: `Next`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/80a9a97e-28f0-4100-a02e-4542c4c4aa38"><br>
 
 ***
+
+### 18.E ) Download PHP Manager for IIS
+
+- Click: `Close`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9132b29d-2fde-4197-b823-40e6d9a09235"><br>
 
@@ -556,7 +580,9 @@ ________________________________________________________________________________
 
 <br>
 
-### 23. ) Download Rewrite Module
+### 19.A ) Download Rewrite Module
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5b94ee25-946f-4489-965d-a95b0ba87de9"><br>
 
