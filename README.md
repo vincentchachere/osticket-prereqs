@@ -1064,12 +1064,14 @@ ________________________________________________________________________________
 ### 39. ) Congrats! Hopefully No Errors! Before logging in we need to do 2 Things:
 
 #### <ins>1st Thing</ins>
-- Delete: `c:\inept\wwwroot\osTicket\`*setup*``
+- Delete: c:\inept\wwwroot\osTicket\\*`setup`*
+
   - ONLY DELETE THE `setup` PART NOT THE WHOLE THING
 
 #### <ins>2nd Thing</ins>
-- Set Permissions to “Read” only for:
-  - C:\inetpub\wwwroot\osTicket\include\`*ost-config.php*`
+- Set Permissions to '`Read` only' for:
+
+  - C:\inetpub\wwwroot\osTicket\include\\*`ost-config.php`*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/665d900d-6f13-4172-b25b-6dc8dfe33469"><br>
 
