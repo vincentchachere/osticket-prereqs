@@ -1095,9 +1095,9 @@ ________________________________________________________________________________
 
 ### 40. ) Login: http://localhost/osTicket/scp/login.php
 
-- Username: vincentchachere
+- Username: vincentchachere 
 
-- Password: *YourPassword*
+- Password: *YourPassword* 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1c58635f-de50-42d3-8cf6-755f0e2ed9c0"><br>
 
@@ -1113,15 +1113,7 @@ ________________________________________________________________________________
 
 - http://localhost/osTicket/ 
 
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db3d50dd-5604-4f7e-a5d1-fe0e7b797677"><br>
 
 ***
 
