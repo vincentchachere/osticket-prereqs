@@ -1045,9 +1045,9 @@ ________________________________________________________________________________
 
 - HiediSQL Database: `osTicket`
 
-- MySQL Username: `vincentchachere`
+- MySQL Username: `vincentchachere` (put whatever you want just remember it)
 
-- MySQL Password: `*Your Password*`
+- MySQL Password: `*Your Password*` (put whatever you want just remember it)
 
 - Click: `INSTALL NOW`
 
@@ -1095,9 +1095,9 @@ ________________________________________________________________________________
 
 ### 40. ) Login: http://localhost/osTicket/scp/login.php
 
-- Username: vincentchachere 
+- Username: vincentchachere (The username you made at #38)
 
-- Password: *YourPassword* 
+- Password: *YourPassword* (The password you made at #38)
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1c58635f-de50-42d3-8cf6-755f0e2ed9c0"><br>
 
