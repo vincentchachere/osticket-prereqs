@@ -218,13 +218,17 @@ ________________________________________________________________________________
 
 <br>
 
-### 12. ) Wait for your Virtual Machine to load and go to your new Resource group
+### 12. ) Wait for your Virtual Machine to Load and Go to your New Resource group
+
+- You can wait here or..
+
+- Click: 'Go to Resource' and wait there
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/acdefb7f-15ac-48ae-a1d0-3229dfb68a88"><br>
 
->**NOTE: Wait for your Virtual Machine to be completed on the screen displayed in the image above or Click: `Go to Resource` and wait there.**
-
 ***
+
+>**Click: Go to Resource**
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1bd4eec6-f4e9-4329-9b97-722ee8a58024"><br>
 
@@ -269,17 +273,15 @@ ________________________________________________________________________________
 
 - Now Click: `Microsoft Remote Desktop`
 
-- Click: `Add PC`
-
-- Paste: `vm-osticket's Public IP Address`
-
-- Click: `Add`
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84202fbf-d46c-43f7-a126-837f4b32e1fa"><br>
 
 ***
 
 <br>
+
+### 14.C ) Continue Connecting your Virtual Machine to Remote Desktop by doing the follwing:
+
+- Click: `Add PC`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/013afe59-3d68-4628-b0f3-723c0fc36ad2"><br>
 
@@ -287,33 +289,47 @@ ________________________________________________________________________________
 
 <br>
 
+### 14.D ) Continue Connecting your Virtual Machine to Remote Desktop by doing the follwing:
+
+- Paste: `vm-osticket's Public IP Address`
+
+- Click: `Add`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e86b149-9600-4237-8eb8-9fbed507411b"><br>
 
 ***
 
 <br>
 
-### 15. ) Login
+### 15.A ) Login into Virtual Machine
 
 - Righ-Click: Your Remote Desktop Account
 
 - Click: `Connect`
-
-- `Username:` vincentchachere (whatever you typed in st the beginnning of Part B: Step 9)
-
-- `Password:` *YourPassword* (whatever you typed in st the beginnning of Part B: Step 9)
- 
-- Click: `Continue`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf3e054f-aa7f-496a-8152-f1159710c834"><br>
 
 ***
 
 <br>
+
+### 15.B ) Login into Virtual Machine
+
+- `Username:` vincentchachere (whatever you typed in st the beginnning of Part B: Step 9)
+
+- `Password:` *YourPassword* (whatever you typed in st the beginnning of Part B: Step 9)
+
+- Click: `Continue`
  
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
 
 ***
+
+### 15.C ) Login into Virtual Machine
+
+- *Uncheck: `All Boxes`*
+
+- *Click: `Accept`*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
 
@@ -321,23 +337,13 @@ ________________________________________________________________________________
 
 <br>
 
-### 16. ) Once connected and inside your Virtual Machine we'll need to:
+### 16.A ) Install IIS
 
-- *Uncheck: `All Boxes`*
+- Once connected and inside your Virtual Machine we'll need to install IIS by doing the following:
 
-- *Click: `Accept`*
+  - Right-Click: `Start` in the bottom left of your screen
 
-- Right-Click: `Start` in the bottom left of your screen
-
-- Select: `Run`
-
-- Type In: `Control`
-
-- Press: `Enter` or Click: `Ok`
-
-- Click: `Programs`
-
-- Click: `Turn Windows Features On or Off`
+  - Select: `Run`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d0a45cc6-d839-4c06-95f2-32ae350ce719"><br>
 
@@ -345,11 +351,21 @@ ________________________________________________________________________________
 
 <br>
 
+### 16.B ) Install IIS
+
+- Type In: `Control`
+
+- Press: `Enter` or Click: `Ok`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a55cb772-6e1e-406e-b6cf-e92c24bb8742"><br>
 
 ***
 
 <br>
+
+### 16.C ) Install IIS
+
+  - Click: `Programs`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4681b035-50c5-4d6c-92d1-348a05252dbd"><br>
 
@@ -357,13 +373,17 @@ ________________________________________________________________________________
 
 <br>
 
+### 16.D ) Install IIS
+
+  - Click: `Turn Windows Features On or Off`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9df9fab4-a98c-4163-b863-4a844660e08a"><br>
 
 ***
 
 <br>
 
-### 17. ) After that, we can now Select: `Turn Windows features on or off` 
+### 16.E ) Install IIS
                               
   - Enable: Internet Information Services (IIS)
  
@@ -378,7 +398,9 @@ ________________________________________________________________________________
 
 <br>
 
-### 18. ) Now, while still inside the *World wide Web Service*:
+### 16.F ) Install IIS
+
+-  While still inside the *World wide Web Service*:
 
   - Open the `Application Development Features` folder
 
