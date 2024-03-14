@@ -548,7 +548,11 @@ ________________________________________________________________________________
 
   - Wait for it to pop up when its done loading or.. &darr;
 
-  - Click: The `...` Dots in the upper left corner of your screen
+  - Click: The `...` Dots in the upper left corner of your screen and Click: `Downloads`
+
+>**Sometimes when the file downloads it does not pop up, so I wanted to show you both ways.**
+
+>**You can also simply go to your `File Explorer` > `Downaloads` > `Double-Click: `PHPManagerforIIS_V1.5.0`**
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c96e4e2a-37a3-4f90-aa29-118c9d8a468a"><br>
 
@@ -556,9 +560,7 @@ ________________________________________________________________________________
 
 ### 18.C ) Download PHP Manager for IIS
 
-- Select: `Download`
-
-- Open: `PHP Manager` File 
+- Click :`Next`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ccdfcdd2-6a67-453d-bfc1-fb05da1fff5f"><br>
 
@@ -587,10 +589,6 @@ ________________________________________________________________________________
 ### 19.A ) Download Rewrite Module
 
 - 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5b94ee25-946f-4489-965d-a95b0ba87de9"><br>
-
-***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/721490cc-e27f-4d47-a85b-97de8dc643c6"><br>
 
