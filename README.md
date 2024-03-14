@@ -630,7 +630,7 @@ ________________________________________________________________________________
 
 ### 20.B ) Create Directory C:\PHP
 
-- Type In: PHP
+- Type In: `PHP`
 
 - Press: `Enter`
 
@@ -640,65 +640,69 @@ ________________________________________________________________________________
 
 <br>
 
-### 21.A ) Download PHP 7.3.8
+### 21.A ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- Unzip into the Directory (C:\PHP) you just created
+- Double-Click: `PHP 7.3.8`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c4010c5-b21c-43a4-97e2-1f4dcd78e624"><br>
 
 ***
 
-### 21.B ) Download PHP 7.3.8
+### 21.B ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- 
+- Click : The Download (&darr;) Arrow in the upper right corner
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/243565ac-e227-44e9-b340-d7d9b0eb8648"><br>
 
 ***
 
-### 21.C ) Download PHP 7.3.8
+### 21.C ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- 
+- Click: `Download anyway`
+
+- Open: `php.7.3.8`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/64200858-d6a0-40a8-85af-7b0e4f1fb000"><br>
 
 ***
 
-### 21.D ) Download PHP 7.3.8
+### 21.D ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- 
+- Right-Click: `php.7.3.8`
+
+- Click: `Extract All`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56e6545a-48d5-45df-b861-fd6624203d5b"><br>
 
 ***
 
-### 21.E ) Download PHP 7.3.8
+### 21.E ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- 
+- Click: `Browse`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4653e904-d198-4b43-b88e-01d3c322a9f0"><br>
 
 ***
 
-### 21.F ) Download PHP 7.3.8
+### 21.F ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- 
+- Go To: `This PC` > `Windows (C:)` > `PHP`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/26564e01-7ad7-44d5-a27e-32877be87ab4"><br>
 
 ***
 
-### 21.G ) Download PHP 7.3.8
+### 21.G ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- 
+- Click: `select Folder` (*PHP*)
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e8cf932-6f8d-4dd0-ae01-e7b746292449"><br>
 
 ***
 
-### 21.H ) Download PHP 7.3.8
+### 21.H ) Download PHP 7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- 
+- Click: `Extract`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/101abf72-f1e0-4f47-aec7-70d9b13fcc0f"><br>
 
@@ -706,8 +710,9 @@ ________________________________________________________________________________
 
 ### 22.A ) Check to see the php 7.3.8 made it into the PHP Directory
 
-- 
+- Go Back To: `This PC` > `Windows (C:)` > `PHP`
 
+  - *Now you will see the php.7.3.8 file inside the PHP directory, as seen in the image below.*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6c31a26-a342-4526-b778-a82f217e0036"><br>
 
