@@ -730,39 +730,23 @@ ________________________________________________________________________________
 
 ### 23.A ) Download VC_redist.x86.exe
 
-- 
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/83610349-7629-4a4e-82da-e7dcc0bb8b9b"><br>
+  - *I will not break down the downloading steps anymore. Check the previous steps if you need help (You got this! I believe in you!😁)*
 
-***
+- Check: The `I agree to the license terms and conditions` Box
 
-### 23.B ) Download VC_redist.x86.exe
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4b0241c0-8e19-4c18-9557-9336a290c95c"><br>
-
-***
-
-### 23.C ) Download VC_redist.x86.exe
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84a6b411-962c-44a4-b1be-1b63fc59bd06"><br>
-
-***
-
-### 23.D ) Download VC_redist.x86.exe
-
-- 
+- Click: `Install`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5ec96900-768b-453e-b488-f1b94f83cf2b"><br>
 
 ***
 
-### 23.E ) Download VC_redist.x86.exe
+<br>
 
-- 
+### 23.B ) Download VC_redist.x86.exe
+
+- Click: `Close` when it is done installing
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b96dbd82-60af-4e75-ac96-da2fb3f84ad7"><br>
 
