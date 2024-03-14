@@ -530,11 +530,11 @@ ________________________________________________________________________________
 
   - Double-Click: `PHP Manager`
 
-  - Click: The `...` Dots in the upper right of your screen next to the `Share` button
+  - Click: The `...` Dots in the upper right of your screen next to the 'Share' button
 
   - Click: `Open in new window`
 
-  - *Downloading it this way is the only way I've found where it does not take so long, and it downloads the first time instead of multiple attempts.* 
+  - *Downloading it this way is the only way I've found where it does not take so long, and it downloads the first time instead of having to do multiple attempts.* 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f57f0c7-69cc-4497-b21c-64e7668b48e7"><br>
 
@@ -544,7 +544,11 @@ ________________________________________________________________________________
 
 - Click: `Download anyway`
 
-- Click: The `...` Dots in the upper left corner of your screen
+- <ins>Now you can Either:</ins>
+
+  - Wait for it to pop up when its done loading or.. &darr;
+
+  - Click: The `...` Dots in the upper left corner of your screen
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c96e4e2a-37a3-4f90-aa29-118c9d8a468a"><br>
 
