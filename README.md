@@ -452,7 +452,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 17.A ) Test IIS by:
+### 17.A ) Test IIS by doing the following:
 
 - Open: `Microsoft Edge` Internet Browser
 
@@ -462,11 +462,19 @@ ________________________________________________________________________________
 
 <br>
 
+### 17.B ) Test IIS by doing the following:
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/344afc0a-86c7-4f84-89a1-e0af3e282cb1"><br>
 
 ***
 
 <br>
+
+### 17.C )Test IIS by doing the following:
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1d583dcd-b755-4aa0-b1cd-2f02970189c9"><br>
 
@@ -474,17 +482,24 @@ ________________________________________________________________________________
 
 <br>
 
-### 21. ) Type: `127.0.0.1` into your Web Browser to Test that IIS Works Before Continuing to the Next Step
+### 17.C )Test IIS by doing the following:
 
 - If you dont see the image displayed below then try uninstalling and reinstalling IIS
+  - *The 'How To Uninstall and Reinstall Instructions' are below the image below.* 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b20ecb45-f3df-49b4-9a6e-34c254557dde"><br>
 
->**NOTE: All you're doing when uninstalling and reinstalling IIS is undoing everything we just did in Part C: #16**
-
 >**To Uninstall and Reinstall IIS do the following:**
 
->**Right-Click: `start` > Click: `Run` > Type In: `Control` > Click: `Programs` > Click: `Turn Windows on or off` > *Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` > *Uncheck:* `Application Development Features` (Inside World Wide Web Services) > *Uncheck:* `CGI` (Application Development Features) > *Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) > *Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) > *Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
+>**Right-Click: `start` > Click: `Run` >**
+>**Type In: `Control` > Click: `Programs` >**
+>**Click: `Turn Windows on or off` >**
+>***Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` >**
+>***Uncheck:* `Application Development Features` (Inside World Wide Web Services) >**
+>***Uncheck:* `CGI` (Application Development Features) >**
+>***Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) >**
+>***Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) >**
+>***Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
 
 ***
 
