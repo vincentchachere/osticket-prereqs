@@ -265,7 +265,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 14.B ) Continue Connecting your Virtual Machine to Remote Desktop by doing the follwing:
+### 14.B ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
 - Press: `Command + Space Bar` at the same time to open up the Spotlight Search, then..
 
@@ -279,7 +279,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 14.C ) Continue Connecting your Virtual Machine to Remote Desktop by doing the follwing:
+### 14.C ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
 - Click: `Add PC`
 
@@ -289,7 +289,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 14.D ) Continue Connecting your Virtual Machine to Remote Desktop by doing the follwing:
+### 14.D ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
 - Paste: `vm-osticket's Public IP Address`
 
@@ -414,11 +414,15 @@ ________________________________________________________________________________
 
 <br>
 
-### 19. ) Enable: Common HTTP Features and..
+### 16.G ) Install IIS
 
-- Check: `All Boxes` *(within this feature's folder)*
-   
-- Click: 'Ok'
+- Enable: Common HTTP Features
+
+- Within the 'Common HTTP Fetures' feature folder
+
+  - Check: `All Boxes` *(within this feature's folder)*
+ 
+  - Click: 'Ok'
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f815d194-ed55-4989-9663-638c95091f25"><br>
 
@@ -426,35 +430,31 @@ ________________________________________________________________________________
 
 <br>
 
-### Wait for it to load...
+### 16.H ) Install IIS
+
+- Wait for it to load...
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94763f83-0b52-491c-927e-5f27e77a41c5"><br>
 
 ***
 
-<br>
+### 16.I ) Install IIS
 
-### 20. ) When that's done Click: `Close` and Go To: your `Internet Browser in Microsoft Edge`
-
-- Skip All the Pop-Ups & Uncheck All the Boxes
-
-- Click: `Start without your data`
-
-- `Uncheck the Box`
-
-- Click: `Continue without this data`
+- When that's done Loading Click: `Close`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b360cb70-7b73-4879-bb17-614ac2dd9db8"><br>
 
 ***
-
-<br>
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ea858b1f-37ad-43d0-985e-0a8dd73e1fd8"><br>
 
 ***
 
 <br>
+
+### 17.A ) Test IIS by:
+
+- Open: `Microsoft Edge` Internet Browser
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6528279d-d330-419b-980b-9175825edb33"><br>
 
