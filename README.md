@@ -820,7 +820,7 @@ ________________________________________________________________________________
 
 ***
 
-### 29.F )  Open IIS as an Administrator and Register PHP from within IIS
+### 25.E )  Open IIS as an Administrator and Register PHP from within IIS
 
 - Click: `Ok`
 
@@ -828,15 +828,27 @@ ________________________________________________________________________________
 
 ***
 
-### 29.G )  Open IIS as an Administrator and Register PHP from within IIS
+### 26. )  Open IIS as an Administrator and Register PHP from within IIS
 
-- Go To `Home` screen of PHP Manager and `Refresh` PHP Manager
+- Go To: `Home` screen of <ins>PHP Manager</ins>
+
+- Click: `Refresh`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7b3dff50-a9bc-4a8f-a42e-a06219848b34"><br>
 
 ***
 
-### 30. ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27. ) Refresh/Restart IIS and Install osTicket v1.15.8
+
+- Once osTicket downloads do the following:
+
+- Go To: `Downloads` inside of `File Explorer`
+
+- Right-Click: `osTicket`
+
+- Click: `Extract All`
+
+***
 
 - or Start/Stop
 
@@ -846,26 +858,6 @@ ________________________________________________________________________________
 
 - Within `c:\inept\wwwroot\include` and Rename: `upload` to `osTicket`
   - Right-Click: 'upload` and Click: `Rename`
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/15204f46-5aac-480d-b6ec-026dc246b636"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2a16ac5-77b2-4f6c-99ea-12f9d921d874"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3c98359f-f192-43c1-8ff8-605efe91501b"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a933fe46-e296-4e11-9632-ccd69274f2e0"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ba90c509-428e-445d-80a3-f3dd32f28dbc"><br>
-
-***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/249763f2-b28c-4e7c-b949-cdcd4a199609"><br>
 
