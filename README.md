@@ -48,8 +48,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 2. ) Click `Create` to start your Resource Group
 
 - Or..
@@ -59,8 +57,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56fec2c9-0ba3-4e35-8c26-6bc6e7e6313b"><br>
 
 ***
-
-<br>
 
 ### 3. ) Next, we'll input the following:
 
@@ -76,8 +72,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ## 4. ) Now, let's click `Review + Create`
 
 - Dont worry about the 'Tags' section, we don't need that part for this lab.
@@ -90,8 +84,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ## 5. ) Finally, we review and create!
 
 - Look over the resource rroup rnformation.
@@ -103,8 +95,6 @@ ________________________________________________________________________________
 <img width="1511" alt="6353AD56-C708-4D3D-ABEB-7C29A8E42E5F" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f2d3265-2f3f-457f-a710-1be04c7d9545"><br>
 
 ***
-
-<br>
 
 ## Congrats!
 
@@ -138,8 +128,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 8. ) Click one of the `Create` buttons to start creating your Virtual Machine
 
 <img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d2a8f586-58ac-4bea-99e8-919410d8d839"><br>
@@ -147,8 +135,6 @@ ________________________________________________________________________________
  >**Note: This is called your 'Virtual Machine Default Directory'**
 
 ***
-
-<br>
 
 ### 9. ) Now we can put in key information for our Virtual Machine
 
@@ -174,8 +160,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 10. ) As before, we will fill in the following:
 
 - Size: `Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
@@ -196,11 +180,7 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 11. ) `Review` and `Create` your Virtual Machine!
-
-<br>
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bd8c8d4b-ab9f-4c50-98bc-813db9816512"><br>
 
@@ -214,25 +194,15 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 12. ) Wait for your Virtual Machine to Load and Go to your New Resource group
 
-- You can wait here or..
+- Wait for your resources to load then..&darr;
 
-- Click: 'Go to Resource' and wait there
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/acdefb7f-15ac-48ae-a1d0-3229dfb68a88"><br>
-
-***
-
->**Click: Go to Resource**
+- Click: `Go to Resources`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1bd4eec6-f4e9-4329-9b97-722ee8a58024"><br>
 
 ***
-
-<br>
 
 ### 13. ) Now we are at our Virtual Machine's 'Overview Page' that is inside our Azure Portal
 
@@ -261,8 +231,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 14.B ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
 - Press: `Command + Space Bar` at the same time to open up the Spotlight Search, then..
@@ -275,8 +243,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 14.C ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
 - Click: `Add PC`
@@ -284,8 +250,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/013afe59-3d68-4628-b0f3-723c0fc36ad2"><br>
 
 ***
-
-<br>
 
 ### 14.D ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
 
@@ -297,8 +261,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 15.A ) Login into Virtual Machine
 
 - Righ-Click: Your Remote Desktop Account
@@ -308,8 +270,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf3e054f-aa7f-496a-8152-f1159710c834"><br>
 
 ***
-
-<br>
 
 ### 15.B ) Login into Virtual Machine
 
@@ -333,8 +293,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 16.A ) Install IIS
 
 - Once connected and inside your Virtual Machine we'll need to install IIS by doing the following:
@@ -347,8 +305,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 16.B ) Install IIS
 
 - Type In: `Control`
@@ -359,8 +315,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 16.C ) Install IIS
 
   - Click: `Programs`
@@ -369,8 +323,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 16.D ) Install IIS
 
   - Click: `Turn Windows Features On or Off`
@@ -378,8 +330,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9df9fab4-a98c-4163-b863-4a844660e08a"><br>
 
 ***
-
-<br>
 
 ### 16.E ) Install IIS
                               
@@ -393,8 +343,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8f66567f-2ab1-4ffe-a2b3-949d5d06bc35"><br>
 
 ***
-
-<br>
 
 ### 16.F ) Install IIS
 
@@ -410,8 +358,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 16.G ) Install IIS
 
 - Enable: Common HTTP Features
@@ -425,8 +371,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f815d194-ed55-4989-9663-638c95091f25"><br>
 
 ***
-
-<br>
 
 ### 16.H ) Install IIS
 
@@ -466,8 +410,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 17.C ) Test IIS by doing the following:
 
 - Click: `Continue without this data`
@@ -475,8 +417,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/344afc0a-86c7-4f84-89a1-e0af3e282cb1"><br>
 
 ***
-
-<br>
 
 ### 17.D )Test IIS by doing the following:
 
@@ -487,8 +427,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1d583dcd-b755-4aa0-b1cd-2f02970189c9"><br>
 
 ***
-
-<br>
 
 ### 17.E ) Now finally, Test IIS by doing the following:
 
@@ -521,8 +459,6 @@ ________________________________________________________________________________
 >***Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
 
 ***
-
-<br>
 
 ### 18.A ) Download PHP Manager for IIS
 
@@ -584,8 +520,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 19.A ) Download Rewrite Module
 
 - Double-Click: `rewrite_amd64_en-US.msi`
@@ -637,8 +571,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/166f8e04-71ff-44ef-b2cf-3b9acf3160ea"><br>
 
 ***
-
-<br>
 
 ### 21.A ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
@@ -752,8 +684,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
 ### 24.A ) Download MySQL 5.5.62
 
 - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download MySQL 5.5.62
@@ -761,15 +691,6 @@ ________________________________________________________________________________
 - <ins>When the pop-up below shows up</ins>:
 
   - Click: `Next`
-
-
-
-
-
-
-
-
-- Type In: *Your Password* (The password you created when creating your VM (vm-osticket)
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/59367782-74b6-4408-bf3f-ebe28a2c302b"><br>
 
@@ -845,7 +766,7 @@ ________________________________________________________________________________
 
 ### 24.I ) Download MySQL 5.5.62
 
-- Type In: *The password you used to log into remote desktop.*
+- Type In: `The password you used to log into remote desktop.`
 
   - Click: `Next`
 
@@ -860,8 +781,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2505f9a5-604c-4197-9f4c-e87b6ae36097"><br>
 
 ***
-
-<br>
 
 ### 29.A )  Open IIS as an Administrator and Register PHP from within IIS
 
