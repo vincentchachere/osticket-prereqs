@@ -782,17 +782,19 @@ ________________________________________________________________________________
 
 ***
 
-### 29.A )  Open IIS as an Administrator and Register PHP from within IIS
+### 25.A )  Open IIS as an Administrator and Register PHP from within IIS
 
 - Type: `IIS` into search bar at bottom left of your screen
 
-- Right-Click: `IIS` and Select: `Run as Administrator`
+- Right-Click: `IIS`
+
+- Select: `Run as Administrator`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d41680a0-721e-4b3c-96ce-5310df21da38"><br>
 
 ***
 
-### 29.B )  Open IIS as an Administrator and Register PHP from within IIS
+### 25.B )  Open IIS as an Administrator and Register PHP from within IIS
 
 - Double-Click: `PHP Manager`
 
@@ -800,33 +802,19 @@ ________________________________________________________________________________
 
 ***
 
-### 29.C )  Open IIS as an Administrator and Register PHP from within IIS
+### 25.C )  Open IIS as an Administrator and Register PHP from within IIS
 
 - Click: `Register vew PHP version`
 
 - Click: the `'...' Box` (three dots box) that is next to the search bar
 
-- Go To: `This PC` > `Windows (C:)` > `PHP`
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b91fd8b3-f3d3-4aa4-b651-ddefd79c1200"><br>
 
 ***
 
-### 29.D )  Open IIS as an Administrator and Register PHP from within IIS
+### 25.D )  Open IIS as an Administrator and Register PHP from within IIS
 
-- Go To: `This PC` > `Windows (C:)` > `PHP` > `php-cgi` > `Open` > `Ok`
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/32617b59-6a83-42d1-bf09-d4ffe0bdb7f7"><br>
-
-***
-
-### 29.E )  Open IIS as an Administrator and Register PHP from within IIS
-
-- 
-
-- 
+- Go To: `This PC` > `Windows (C:)` > `PHP` > `php-cgi` > `Open`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/595705b3-fb62-4838-bfa2-a017cf9e3587"><br>
 
@@ -834,17 +822,13 @@ ________________________________________________________________________________
 
 ### 29.F )  Open IIS as an Administrator and Register PHP from within IIS
 
-- 
-
-- Go To `Home` screen of PHP Manager and `Refresh` PHP Manager
+- Click: `Ok`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/de874438-082d-4249-8aec-b33890da7f7a"><br>
 
 ***
 
 ### 29.G )  Open IIS as an Administrator and Register PHP from within IIS
-
-- 
 
 - Go To `Home` screen of PHP Manager and `Refresh` PHP Manager
 
