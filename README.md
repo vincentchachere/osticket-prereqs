@@ -838,7 +838,9 @@ ________________________________________________________________________________
 
 ***
 
-### 27. ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.A ) Refresh/Restart IIS and Install osTicket v1.15.8
+
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download `osTicket`
 
 - Once osTicket downloads do the following:
 
@@ -848,11 +850,11 @@ ________________________________________________________________________________
 
 - Click: `Extract All`
 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/249763f2-b28c-4e7c-b949-cdcd4a199609"><br>
+
 ***
 
-- or Start/Stop
-
-- Download: `osTicket` from [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+### 27.B ) Refresh/Restart IIS and Install osTicket v1.15.8
 
 - Extract & Copy: the `upload` folder to c:\inept\wwwroot\include
 
@@ -863,17 +865,25 @@ ________________________________________________________________________________
 
 ***
 
+### 27. ) Refresh/Restart IIS and Install osTicket v1.15.8
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d5ba6cb1-a802-47cb-84d0-f60fe106393d"><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4ce05297-1303-43fc-8e9e-d81ddfecf459"><br>
+### 27. ) Refresh/Restart IIS and Install osTicket v1.15.8
 
-***
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/949a96ad-f61d-4e54-ab36-be7032f5ccdc"><br>
 
 ***
+
+### 27. ) Refresh/Restart IIS and Install osTicket v1.15.8
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a7b4e18-ff5a-4411-8d9d-52867b6d6ad8"><br>
 
