@@ -313,9 +313,9 @@ ________________________________________________________________________________
 
 ### 15.B ) Login into Virtual Machine
 
-- `Username:` vincentchachere (whatever you typed in st the beginnning of Part B: Step 9)
+- `Username:` vincentchachere (whatever you typed in at the beginnning of Part B: Step 9)
 
-- `Password:` *YourPassword* (whatever you typed in st the beginnning of Part B: Step 9)
+- `Password:` *YourPassword* (whatever you typed in at the beginnning of Part B: Step 9)
 
 - Click: `Continue`
  
@@ -730,9 +730,9 @@ ________________________________________________________________________________
 
 ### 23.A ) Download VC_redist.x86.exe
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download VC_redist.x86.exe
 
-  - *I will not break down the downloading steps anymore. Check the previous steps if you need help (You got this! I believe in you!😁)*
+  - *I will let you do the <ins>downloading</ins> steps on your own now, so that you can learn. Refer to previous steps for instruction (You got this! I believe in you!😁)*
 
 - Check: The `I agree to the license terms and conditions` Box
 
@@ -756,61 +756,106 @@ ________________________________________________________________________________
 
 ### 24.A ) Download MySQL 5.5.62
 
-- Select: Typical Setup
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download MySQL 5.5.62
 
-- Selet: Launch Configuration (After you download MySQL 5.5.62)
+- <ins>When the pop-up below shows up</ins>:
 
-- Select: Standard Confirguration
+  - Click: `Next`
+
+
+
+
+
+
+
 
 - Type In: *Your Password* (The password you created when creating your VM (vm-osticket)
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/167620db-0e92-4d0f-bb82-9a7af9297aeb"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/dbd21992-4554-4d11-8010-bcc8e2d35961"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/47254910-dc0e-4774-bf13-fef72551c905"><br>
-
-***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/59367782-74b6-4408-bf3f-ebe28a2c302b"><br>
 
 ***
 
+### 24.B ) Download MySQL 5.5.62
+
+- <ins>When the pop-up below shows up</ins>:
+
+  - Check: The `I accept the terms in the License Agreement` Box
+
+  - Click: `Next`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/aed0ccff-df67-4e94-9c7a-a98c86162d04"><br>
 
 ***
+
+### 24.C ) Download MySQL 5.5.62
+
+- Select: `Typical Setup`
+
+- Click: `Next`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a137fe1-f0da-47a2-a339-693b5bfeb138"><br>
 
 ***
 
+### 24.D ) Download MySQL 5.5.62
+
+- Click: `Install`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/dbdb61d6-ea10-4370-8ed3-bdd01ed79710"><br>
 
 ***
+
+### 24.E ) Download MySQL 5.5.62
+
+- Check: The `Lanuch the MySQL Instance Configuration Wizard` Box
+
+- Click: `Finish`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/43db12f6-5b9d-4517-85be-f7aacc72a83e"><br>
 
 ***
 
+### 24.F ) Download MySQL 5.5.62
+
+- Click: `Next`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f8a6ce64-5cf1-49bb-96c4-51180aa3b021"><br>
 
 ***
+
+### 24.G ) Download MySQL 5.5.62
+
+- Select: `Standard Confirguration`
+
+- Click: `Next`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3e6dabfa-9096-4f60-aac9-18eedb587d86"><br>
 
 ***
 
+### 24.H ) Download MySQL 5.5.62
+
+- Make sure your screen matches the image below and once you verify that it does..&darr;
+
+- Click: `Next`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9d10e55d-15db-4439-bfea-061093afc753"><br>
 
 ***
 
+### 24.I ) Download MySQL 5.5.62
+
+- Type In: *The password you used to log into remote desktop.*
+
+  - Click: `Finish`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/70a583da-dc05-4d27-ab42-c29feaecaf31"><br>
 
 ***
+
+### 24.J ) Download MySQL 5.5.62
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2505f9a5-604c-4197-9f4c-e87b6ae36097"><br>
 
