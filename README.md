@@ -1034,6 +1034,8 @@ ________________________________________________________________________________
 
 - Right-Click: `ost-sampleconfig.php`
 
+  - Click: `Rename`
+
   - Rename: `ost-sampleconfig.php`
  
   - To: `ost-config.php`
@@ -1042,33 +1044,31 @@ ________________________________________________________________________________
 
 ***
 
-### 33. ) Rename: *ost-'sample'*config.php to ost-config.php
+### 32.A ) Assign Permissions: ost-config.php
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/205d5e8c-8f7d-42b1-a522-453d3ffda950"><br>
+- Right-Click: `ost-config.php`
 
-***
+- Click: `Properties`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1373c747-7943-48bb-baf9-a929be1c464f"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0667aff0-f52c-42e1-979c-6572067f84bb"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6775fcf0-4d0c-45e1-a724-9dc414d29311"><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5d37d24b-8a5e-4934-a6a6-0567e2146189"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/eb15d6f7-0f73-468b-94d1-20f0e961cf25"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ab42e0bf-dc39-405e-a2f3-01497e683ed5"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a45257f5-8add-44a9-ae8b-e98409ffaaac"><br>
 
 ***
 
 <br>
+
+<br>
+
+Checkpoint
+
+<br>
+
+<br>
+
+***
 
 ### 34. ) Assign Permissions: ost-config.php
 
