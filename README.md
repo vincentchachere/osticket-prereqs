@@ -1040,7 +1040,7 @@ ________________________________________________________________________________
  
   - To: `ost-config.php`
  
-  - Press: `Enter` when done changing the name
+  - Press: `Enter` when done typing in the name
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8531889f-57a2-4d19-8a6b-67c650e109e4">
 
@@ -1062,7 +1062,9 @@ ________________________________________________________________________________
 
 - Click: `Advanced`
 
-- Select: `Disable Inheritance` > `Remove All`
+- Select: `Disable Inheritance`
+
+- Click: `Remove all inherited permissions from this object.`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/164837d4-9e9d-4f02-8daf-185919f56422"><br>
 
@@ -1070,13 +1072,9 @@ ________________________________________________________________________________
 
 ### 32.C ) Assign Permissions: ost-config.php
 
-- Click: `Add`
+- Click: `Add` > `Select a principal` > Type In: `Everyone` > Click: `Check Names`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d4709ab8-44ff-409c-a89a-92c0f8769932"><br>
-
-***
-
-- `New Permission` > `Everyone` > `All`
+  - *It should be underlined after you click 'Check Names'*
 
 - Click: `Ok`
 
@@ -1086,7 +1084,7 @@ ________________________________________________________________________________
 
 ### 32.C ) Assign Permissions: ost-config.php
 
-- Click: `Full Control` *(make sure all boxes are checked as seen in the image below)*
+- Select: `Full Control` *(make sure all boxes are checked as seen in the image below)*
 
 - Click: `Ok`
 
