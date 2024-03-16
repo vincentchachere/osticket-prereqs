@@ -878,6 +878,14 @@ ________________________________________________________________________________
 
 ### 27.C ) Refresh/Restart IIS and Install osTicket v1.15.8
 
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f110c0e8-4cbd-47d3-9b93-a1c3bfecc5c6"><br>
+
+***
+
+### 27.D ) Refresh/Restart IIS and Install osTicket v1.15.8
+
 - Within `c:\inept\wwwroot`
 
 - Rename: `upload` to `osTicket` by:
@@ -892,7 +900,7 @@ ________________________________________________________________________________
 
 ***
 
-### 27. ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.E ) Refresh/Restart IIS and Install osTicket v1.15.8
 
 - 
 
@@ -900,7 +908,7 @@ ________________________________________________________________________________
 
 ***
 
-### 27. ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.F ) Refresh/Restart IIS and Install osTicket v1.15.8
 
 - 
 
