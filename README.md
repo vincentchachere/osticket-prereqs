@@ -846,9 +846,9 @@ ________________________________________________________________________________
 
 ### 27.A ) Refresh/Restart IIS and Install osTicket v1.15.8
 
-  - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-  - Download: `osTicket`
+- Download: `osTicket`
 
 - <ins>Once osTicket downloads do the following</ins>:
 
@@ -907,69 +907,11 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ff11a56c-aebd-4743-8b14-9827ae363ae7"><br>
 
 
-### 28. ) 
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d5ba6cb1-a802-47cb-84d0-f60fe106393d"><br>
-
-***
-
-### 28. ) 
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/949a96ad-f61d-4e54-ab36-be7032f5ccdc"><br>
-
-***
-
-### 28. ) 
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a7b4e18-ff5a-4411-8d9d-52867b6d6ad8"><br>
-
-***
-
-### 28. ) 
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fd509b80-2ba9-42c7-84ff-9bbe50c588c7"><br>
-
-***
-
-### 28. ) 
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a8019a98-735c-423c-9fcc-d30cac5c56bb"><br>
-
-***
-
-### 28. ) 
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be3d5cd8-919a-453f-9c26-2c3d9a828dd7"><br>
-
-***
-
-### 28. ) 
-
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c3984adf-8bd8-4d43-a40b-29c8c72c8dab"><br>
-
-***
-
-<br>
-
-### 31. ) Refresh/Restart IIS
-
-- Or Stop/Start
+### 28.A ) Refresh/Restart IIS
 
 - Open: `IIS` *as an Administrator*
+
+- Click: Restart
 
 - Go to: `sites` > `Default` > `osTicket`
 
@@ -977,9 +919,7 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6f65cdff-c286-44e0-91fe-6d788c6fc734"><br>
 
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7cb6e7c6-877d-4cbe-b92f-9f22092437df"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/da2870cf-1b2e-496f-9694-16f041454aed"><br>
 
 ***
 
@@ -989,7 +929,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 32. ) Inside IIS:
+### 28.B ) Inside IIS:
 
 - Go to: `sites` > `Default` > `osTicket` > Double Click: `PHP Manager`
 
