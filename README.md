@@ -992,15 +992,19 @@ ________________________________________________________________________________
 
 - Click: The `osTicket` folder to the left in your 'Connections' section.
 
-- Click: `Refresh`
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/056d5fe1-9c33-4c2f-8e6c-fcd135226699"><br>
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d08c24c3-9f19-44bc-a6e7-aebecb62886a"><br>
 
 ***
 
-### 30. ) Restart the osTicket in your browser and observe the changes
+### 30.A ) Restart the osTicket in your browser and observe the changes
+
+- Click: `Refresh`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/056d5fe1-9c33-4c2f-8e6c-fcd135226699"><br>
+
+***
+
+### 30.B ) Restart the osTicket in your browser and observe the changes
 
 - Click: `Restart`
 
