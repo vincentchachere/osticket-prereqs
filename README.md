@@ -1058,47 +1058,52 @@ ________________________________________________________________________________
 
 ### 32.B ) Assign Permissions: ost-config.php
 
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a3d5dafd-b502-497e-b688-4eed1f14e9f4"><br>
-
-***
-
-### 32.C ) Assign Permissions: ost-config.php
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<br>
-
-<br>
-
-Checkpoint
-
-<br>
-
-<br>
-
-***
-
-### 34. ) Assign Permissions: ost-config.php
-
-- Right-Click: `ost-config.php`
-
-- Click: `Porperties`
-
 - Click: `Security`
 
 - Click: `Advanced`
 
 - Select: `Disable Inheritance` > `Remove All`
 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/164837d4-9e9d-4f02-8daf-185919f56422"><br>
+
+***
+
+### 32.C ) Assign Permissions: ost-config.php
+
+- Click: `Add`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d4709ab8-44ff-409c-a89a-92c0f8769932"><br>
+
+***
+
 - `New Permission` > `Everyone` > `All`
 
 - Click: `Ok`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3986865e-f77e-4134-98bb-1dea6c6a690b"><br>
+
+***
+
+### 32.C ) Assign Permissions: ost-config.php
+
+- Click: `Full Control` *(make sure all boxes are checked as seen in the image below)*
+
+- Click: `Ok`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/843fd85c-e38b-43b5-b66e-24e5e14ae378"><br>
+
+***
+
+### 32.D ) Assign Permissions: ost-config.php
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a29e14a3-a301-4ec1-b623-6c7e6f40e88e"><br>
+
+***
+
+
+
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e74adb11-a3ee-4901-8242-50fd7a6250f3"><br>
 
