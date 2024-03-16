@@ -998,7 +998,7 @@ ________________________________________________________________________________
 
 ### 30. ) Restart the osTicket in your browser and observe the changes
 
-- Click: `Refresh' that is in your `IIS Manager`
+- Click: `Refresh` that is in your `IIS Manager`
 
 - Click: `Browse*:80 (http)`
 
@@ -1008,19 +1008,31 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/08708793-3055-43c7-b954-ba4a1465faba"><br>
+### 31.A ) Rename: ost-config.php
+
+- Open: `File Explorer`
+
+- Double-Click: `osTicket`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0c3e6b54-eeeb-4a51-8707-90e7c4b824fa"><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/872ff45a-cc14-430a-ad25-d158b90bf4ef"><br>
+### 31.B ) Rename: ost-config.php
+
+- Double-Click: `include`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84575042-8a22-469d-b642-587861c163e8"><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/21ebff0a-9f55-4a96-9ffe-f51eae7aec71"><br>
+### 31.C ) Rename: ost-config.php
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8531889f-57a2-4d19-8a6b-67c650e109e4">
 
 ***
-
-<br>
 
 ### 33. ) Rename: *ost-'sample'*config.php to ost-config.php
 
