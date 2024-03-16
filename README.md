@@ -937,33 +937,41 @@ ________________________________________________________________________________
 
 ### 28.D ) Inside IIS:
 
-- Go to: `sites` > `Default` > `osTicket` > Double Click: `PHP Manager`
+- Go to: `sites` > `Default` > `osTicket`
 
-- Click: "Enable or Disable" an extenstion
+- Double-Click: `PHP Manager`
 
-  - Enable: imap.dll
-
-  - Enable: intel.dll
-
-  - Enable: opcache.dll
-
-- Refresh/Restart the osTicket browser & observe the changes
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ebcc631f-2724-40f7-a863-2b47dd631e11"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8792b4c8-4d5d-40d3-bcf1-096ffe2e3585"><br>
+### 28.E ) Inside IIS:
+
+- Enable: imap.dll
+
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5964d218-5281-469a-bce0-983fa3e80e44"><br>
+### 28.E ) Inside IIS:
+
+- Enable: intel.dll
+
+<img width="1511" alt="isolated" src=""><br>
 
 ***
+
+### 28.E ) Inside IIS:
+
+- Enable: opcache.dll
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ef7eb88-65af-441d-a857-f97e5140f00e"><br>
 
 ***
+
+### 28.E ) Inside IIS:
+
+- Refresh/Restart the osTicket browser & observe the changes
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be29bc9a-8461-4ce6-b416-d2432a44cd32"><br>
 
