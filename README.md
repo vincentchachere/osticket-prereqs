@@ -846,9 +846,9 @@ ________________________________________________________________________________
 
 ### 27.A ) Refresh/Restart IIS and Install osTicket v1.15.8
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+  - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-- Download: `osTicket`
+  - Download: `osTicket`
 
 - <ins>Once osTicket downloads do the following</ins>:
 
@@ -874,6 +874,10 @@ ________________________________________________________________________________
 
 ### 27.C ) Refresh/Restart IIS and Install osTicket v1.15.8
 
+- When you open the second File Explorer:
+
+ - Go To: 'This PC' > 'Windows (C:)' > 'inetpub' > `wwwroot`
+
 - <ins>Drag and Drop `upload` into</ins>:
 
   - 'This PC' > 'Windows (C:)' > 'inetpub' > `wwwroot`
@@ -884,7 +888,7 @@ ________________________________________________________________________________
 
 ### 27.D ) Refresh/Restart IIS and Install osTicket v1.15.8
 
-- Right-Click: `upload`
+- Right-Click: `upload` *(the 'upload' that is in the new File Explorer you just opened)*
 
 - Click: `Rename`
 
