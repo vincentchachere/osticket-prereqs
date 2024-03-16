@@ -1056,7 +1056,19 @@ ________________________________________________________________________________
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a45257f5-8add-44a9-ae8b-e98409ffaaac"><br>
+### 32.B ) Assign Permissions: ost-config.php
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a3d5dafd-b502-497e-b688-4eed1f14e9f4"><br>
+
+***
+
+### 32.C ) Assign Permissions: ost-config.php
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
