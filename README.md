@@ -1039,6 +1039,8 @@ ________________________________________________________________________________
   - Rename: `ost-sampleconfig.php`
  
   - To: `ost-config.php`
+ 
+  - Press: `Enter` when done changing the name
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8531889f-57a2-4d19-8a6b-67c650e109e4">
 
