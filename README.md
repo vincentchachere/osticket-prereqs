@@ -978,8 +978,6 @@ ________________________________________________________________________________
 
 - Click: `Enable`
 
-- Click: `Home` icon in upper right corner of the IIS Manager Window
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/748526b0-3631-4115-8b09-2fbe5c796a23"><br>
 
 ### 29.F ) Verify all your extensions were enabled
@@ -991,8 +989,10 @@ ________________________________________________________________________________
   - php_intel.dll
 
   - php_opache.dll
+ 
+- Click: `Home` icon in upper right corner of the IIS Manager Window
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/88ad8699-a4c7-45ad-9778-87750a539a6b"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d08c24c3-9f19-44bc-a6e7-aebecb62886a"><br>
 
 ***
 
@@ -1001,6 +1001,10 @@ ________________________________________________________________________________
 - Click: `Restart`
 
 - *observe the changes*
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ae36821-513d-49e6-84ec-ab5f87b4b0a4"><br>
+
+***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/08708793-3055-43c7-b954-ba4a1465faba"><br>
 
