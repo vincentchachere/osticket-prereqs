@@ -828,15 +828,15 @@ ________________________________________________________________________________
 
 ***
 
-### 26.A )  Open IIS as an Administrator and Register PHP from within IIS
+### 26.A )  Go To: `Home` screen of <ins>PHP Manager</ins> and Restart IIS
 
-- Go To: `Home` screen of <ins>PHP Manager</ins>
+- Click: The `Home` icon in the upper right corner of IIS Window
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7b3dff50-a9bc-4a8f-a42e-a06219848b34"><br>
 
 ***
 
-### 26.B )  Open IIS as an Administrator and Register PHP from within IIS
+### 26.B )  Go To: `Home` screen of IIS Manager and Restart IIS
 
 - Click: `Restart`
 
@@ -844,7 +844,7 @@ ________________________________________________________________________________
 
 ***
 
-### 27.A ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.A ) Install osTicket v1.15.8
 
 - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
@@ -860,7 +860,7 @@ ________________________________________________________________________________
 
 ***
 
-### 27.B ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.B ) Install osTicket v1.15.8
 
 - <ins>Open a second `File Explorer` by</ins>:
 
@@ -872,7 +872,7 @@ ________________________________________________________________________________
 
 ***
 
-### 27.C ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.C ) Install osTicket v1.15.8
 
 - When you open the second File Explorer:
 
@@ -886,7 +886,7 @@ ________________________________________________________________________________
 
 ***
 
-### 27.D ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.D ) Install osTicket v1.15.8
 
 - Right-Click: `upload` *(the 'upload' that is in the new File Explorer you just opened)*
 
@@ -896,7 +896,7 @@ ________________________________________________________________________________
 
 ***
 
-### 27.E ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.E ) Install osTicket v1.15.8
 
 - Type In: `osTicket`
 
@@ -906,8 +906,9 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ff11a56c-aebd-4743-8b14-9827ae363ae7"><br>
 
+***
 
-### 28.A ) Refresh/Restart IIS
+### 28.A ) Refresh the osTicket site in your browse observe the changes
 
 - Open: `IIS` *as an Administrator*
 
@@ -915,7 +916,7 @@ ________________________________________________________________________________
 
 ***
 
-### 28.B ) Inside IIS:
+### 28.B ) Refresh the osTicket site in your browse observe the changes
 
 - Click: `Restart`
 
@@ -923,7 +924,7 @@ ________________________________________________________________________________
 
 ***
 
-### 28.C ) Inside IIS:
+### 28.C ) Refresh the osTicket site in your browse observe the changes
 
 - Go to: `sites` > `Default` > `osTicket`
 
@@ -933,9 +934,7 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
-### 28.D ) Inside IIS:
+### 29.A ) Enable Extensions
 
 - Go to: `sites` > `Default` > `osTicket`
 
@@ -945,39 +944,51 @@ ________________________________________________________________________________
 
 ***
 
-### 28.E ) Inside IIS:
+### 29.B ) Enable Extensions
 
-- 
+- Click: `Enable or Disable Extensions`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fd5e93a8-cae4-4f2f-accb-1d39c99d1aef"><br>
 
 ***
 
-### 28.E ) Inside IIS:
+### 29.C ) Enable Extensions
 
-- Enable: imap.dll
+- Right-Click: `php_imap.dll`
 
-<img width="1511" alt="isolated" src=""><br>
+- Click: `Enable`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b85f7116-d50e-4593-a8d8-0a9f7fd2fb69"><br>
 
 ***
 
-### 28.E ) Inside IIS:
+### 29.D ) Enable Extensions
 
-- Enable: intel.dll
+- Right-Click: `php_intel.dll`
+
+- Click: `Enable`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ef7eb88-65af-441d-a857-f97e5140f00e"><br>
 
 ***
 
-### 28.E ) Inside IIS:
+### 29.E ) Enable Extensions
 
-- Enable: opcache.dll
+- Right-Click: `php_opache.dll`
+
+- Click: `Enable`
+
+- Click: `Home` icon in upper right corner of the IIS Manager Window
 
 <img width="1511" alt="isolated" src=""><br>
 
 ***
 
-- Refresh/Restart the osTicket browser & observe the changes
+### 30. ) Restart the osTicket in your browser
+
+- Click: `Restart`
+
+- *observe the changes*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be29bc9a-8461-4ce6-b416-d2432a44cd32"><br>
 
