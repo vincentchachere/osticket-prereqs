@@ -840,13 +840,15 @@ ________________________________________________________________________________
 
 ### 27.A ) Refresh/Restart IIS and Install osTicket v1.15.8
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download `osTicket`
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+
+- Download: `osTicket`
 
 - <ins>Once osTicket downloads do the following</ins>:
 
-- Go To: `Downloads` inside of `File Explorer`
+  - Go To: `Downloads` inside of `File Explorer`
 
-- Double-Click: `osTicket`
+  - Double-Click: `osTicket`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0dc37056-7f73-48c3-b59a-9fecf35ccf85"><br>
 
@@ -854,20 +856,37 @@ ________________________________________________________________________________
 
 ### 27.B ) Refresh/Restart IIS and Install osTicket v1.15.8
 
-- Click: `Browse`
+- <ins>Open a second `File Explorer` by</ins>:
 
-- Within `c:\inept\wwwroot\` and Rename: `upload` to `osTicket`
-  - Right-Click: 'upload` and Click: `Rename`
+  - Right-Click: `File Explorer` Icon
+ 
+  - Select: `File Explorer`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4d13e47a-cc82-40c1-84ed-a974ebd35c9f"><br>
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/92fcd1b3-3d03-482e-984f-8057a2140416"><br>
+***
+
+### 27.B ) Refresh/Restart IIS and Install osTicket v1.15.8
+
+- <ins>Drag and Drop `upload` into</ins>:
+
+  - 'This PC' > 'Windows (C:)' > 'inetpub' > `wwwroot`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/26103641-5c8b-421a-9b6b-9e50408a1e7b"><br>
 
 ***
 
-### 27. ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.C ) Refresh/Restart IIS and Install osTicket v1.15.8
 
-- 
+- Within `c:\inept\wwwroot`
+
+- Rename: `upload` to `osTicket` by:
+
+  - Right-Click: 'upload`
+ 
+  - Click: `Rename`
+ 
+  - *Spell it exactly like: `osTicket` (with a capital `T` and lowercase everything else)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d5ba6cb1-a802-47cb-84d0-f60fe106393d"><br>
 
