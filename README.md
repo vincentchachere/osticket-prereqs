@@ -911,17 +911,23 @@ ________________________________________________________________________________
 
 - Open: `IIS` *as an Administrator*
 
-- Click: Restart
-
-- Go to: `sites` > `Default` > `osTicket`
-
-- On the Right, Click: `Browse*: 80`
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6f65cdff-c286-44e0-91fe-6d788c6fc734"><br>
+
+***
+
+### 28.B ) Inside IIS:
+
+- Click: `Restart`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/da2870cf-1b2e-496f-9694-16f041454aed"><br>
 
 ***
+
+### 28.C ) Inside IIS:
+
+- Go to: `sites` > `Default` > `osTicket`
+
+- On the Right, Click: `Browse*: 80`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/085d2c71-60cb-48ff-a816-acf9553a9d6f"><br>
 
@@ -929,7 +935,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 28.B ) Inside IIS:
+### 28.D ) Inside IIS:
 
 - Go to: `sites` > `Default` > `osTicket` > Double Click: `PHP Manager`
 
@@ -942,6 +948,10 @@ ________________________________________________________________________________
   - Enable: opcache.dll
 
 - Refresh/Restart the osTicket browser & observe the changes
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ebcc631f-2724-40f7-a863-2b47dd631e11"><br>
+
+***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8792b4c8-4d5d-40d3-bcf1-096ffe2e3585"><br>
 
