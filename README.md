@@ -980,11 +980,11 @@ ________________________________________________________________________________
 
 - Click: `Home` icon in upper right corner of the IIS Manager Window
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/748526b0-3631-4115-8b09-2fbe5c796a23"><br>
 
 ***
 
-### 30. ) Restart the osTicket in your browser
+### 30. ) Restart the osTicket in your browser and observe the changes
 
 - Click: `Restart`
 
