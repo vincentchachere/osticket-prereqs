@@ -908,7 +908,7 @@ ________________________________________________________________________________
 
 ***
 
-### 28.A ) Refresh the osTicket site in your browse observe the changes
+### 28.A ) Refresh the osTicket site in your browser and observe the changes
 
 - Open: `IIS` *as an Administrator*
 
@@ -916,7 +916,7 @@ ________________________________________________________________________________
 
 ***
 
-### 28.B ) Refresh the osTicket site in your browse observe the changes
+### 28.B ) Refresh the osTicket site in your browser and observe the changes
 
 - Click: `Restart`
 
@@ -924,7 +924,7 @@ ________________________________________________________________________________
 
 ***
 
-### 28.C ) Refresh the osTicket site in your browse observe the changes
+### 28.C ) Refresh the osTicket site in your browser and observe the changes
 
 - Go to: `sites` > `Default` > `osTicket`
 
@@ -968,7 +968,7 @@ ________________________________________________________________________________
 
 - Click: `Enable`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ef7eb88-65af-441d-a857-f97e5140f00e"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/97575f63-2d21-4113-8012-852224fe0ffb"><br>
 
 ***
 
@@ -982,6 +982,18 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/748526b0-3631-4115-8b09-2fbe5c796a23"><br>
 
+### 29.F ) Verify all your extensions were enabled
+
+- <ins>You should see the 3 following extensions in the 'enabled' section</ins>:
+
+  - php_imap.dll
+ 
+  - php_intel.dll
+
+  - php_opache.dll
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/88ad8699-a4c7-45ad-9778-87750a539a6b"><br>
+
 ***
 
 ### 30. ) Restart the osTicket in your browser and observe the changes
@@ -989,18 +1001,6 @@ ________________________________________________________________________________
 - Click: `Restart`
 
 - *observe the changes*
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be29bc9a-8461-4ce6-b416-d2432a44cd32"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/61e1cc32-dd4c-4b7a-8ca0-bbb9d544276d"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/88ad8699-a4c7-45ad-9778-87750a539a6b"><br>
-
-***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/08708793-3055-43c7-b954-ba4a1465faba"><br>
 
