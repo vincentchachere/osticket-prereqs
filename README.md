@@ -941,7 +941,15 @@ ________________________________________________________________________________
 
 - Double-Click: `PHP Manager`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/44cb93d6-1662-40a1-ad77-ccd7b721b46b"><br>
+
+***
+
+### 28.E ) Inside IIS:
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fd5e93a8-cae4-4f2f-accb-1d39c99d1aef"><br>
 
 ***
 
@@ -957,7 +965,7 @@ ________________________________________________________________________________
 
 - Enable: intel.dll
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ef7eb88-65af-441d-a857-f97e5140f00e"><br>
 
 ***
 
@@ -965,11 +973,9 @@ ________________________________________________________________________________
 
 - Enable: opcache.dll
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ef7eb88-65af-441d-a857-f97e5140f00e"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
-
-### 28.E ) Inside IIS:
 
 - Refresh/Restart the osTicket browser & observe the changes
 
