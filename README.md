@@ -996,17 +996,11 @@ ________________________________________________________________________________
 
 ***
 
-### 30.A ) Restart the osTicket in your browser and observe the changes
+### 30. ) Restart the osTicket in your browser and observe the changes
 
-- Click: `Refresh`
+- Click: `Refresh' that is in your `IIS Manager`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/056d5fe1-9c33-4c2f-8e6c-fcd135226699"><br>
-
-***
-
-### 30.B ) Restart the osTicket in your browser and observe the changes
-
-- Click: `Restart`
+- Click: `Browse*:80 (http)`
 
 - *observe the changes*
 
