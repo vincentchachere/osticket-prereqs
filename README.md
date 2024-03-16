@@ -828,13 +828,19 @@ ________________________________________________________________________________
 
 ***
 
-### 26. )  Open IIS as an Administrator and Register PHP from within IIS
+### 26.A )  Open IIS as an Administrator and Register PHP from within IIS
 
 - Go To: `Home` screen of <ins>PHP Manager</ins>
 
-- Click: `Refresh`
-
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7b3dff50-a9bc-4a8f-a42e-a06219848b34"><br>
+
+***
+
+### 26.B )  Open IIS as an Administrator and Register PHP from within IIS
+
+- Click: `Restart`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/51ba028c-76de-49ca-b469-d4f4a1e1af4b"><br>
 
 ***
 
@@ -866,7 +872,7 @@ ________________________________________________________________________________
 
 ***
 
-### 27.B ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.C ) Refresh/Restart IIS and Install osTicket v1.15.8
 
 - <ins>Drag and Drop `upload` into</ins>:
 
@@ -876,31 +882,36 @@ ________________________________________________________________________________
 
 ***
 
-### 27.C ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.D ) Refresh/Restart IIS and Install osTicket v1.15.8
 
-- 
+- Right-Click: `upload`
+
+- Click: `Rename`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f110c0e8-4cbd-47d3-9b93-a1c3bfecc5c6"><br>
 
 ***
 
-### 27.D ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 27.E ) Refresh/Restart IIS and Install osTicket v1.15.8
 
-- Within `c:\inept\wwwroot`
+- Type In: `osTicket`
 
-- Rename: `upload` to `osTicket` by:
+- Press: `Enter`
 
-  - Right-Click: 'upload`
- 
-  - Click: `Rename`
- 
   - *Spell it exactly like: `osTicket` (with a capital `T` and lowercase everything else)*
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ff11a56c-aebd-4743-8b14-9827ae363ae7"><br>
+
+
+### 28. ) 
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d5ba6cb1-a802-47cb-84d0-f60fe106393d"><br>
 
 ***
 
-### 27.E ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 28. ) 
 
 - 
 
@@ -908,7 +919,7 @@ ________________________________________________________________________________
 
 ***
 
-### 27.F ) Refresh/Restart IIS and Install osTicket v1.15.8
+### 28. ) 
 
 - 
 
@@ -916,17 +927,33 @@ ________________________________________________________________________________
 
 ***
 
+### 28. ) 
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fd509b80-2ba9-42c7-84ff-9bbe50c588c7"><br>
 
 ***
+
+### 28. ) 
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a8019a98-735c-423c-9fcc-d30cac5c56bb"><br>
 
 ***
 
+### 28. ) 
+
+- 
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be3d5cd8-919a-453f-9c26-2c3d9a828dd7"><br>
 
 ***
+
+### 28. ) 
+
+- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c3984adf-8bd8-4d43-a40b-29c8c72c8dab"><br>
 
