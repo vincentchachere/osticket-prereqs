@@ -1012,6 +1012,8 @@ ________________________________________________________________________________
 
 - Open: `File Explorer`
 
+- Go To: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
+
 - Double-Click: `osTicket`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0c3e6b54-eeeb-4a51-8707-90e7c4b824fa"><br>
@@ -1028,7 +1030,13 @@ ________________________________________________________________________________
 
 ### 31.C ) Rename: ost-config.php
 
-- 
+- Scroll: *`all the way down`*
+
+- Right-Click: `ost-sampleconfig.php`
+
+  - Rename: `ost-sampleconfig.php`
+ 
+  - To: `ost-config.php`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8531889f-57a2-4d19-8a6b-67c650e109e4">
 
