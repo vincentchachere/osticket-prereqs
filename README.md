@@ -1240,11 +1240,9 @@ ________________________________________________________________________________
 
 ***
 
-### 37. ) Congratulations, hopefully it is installed with no errors!
+### 37. ) Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-- Browse to your help desk login page: http://localhost/osTicket/scp/login.php
-
-  - *Copy and Paste the link into your Browser*
+- Copy and Paste the link into a tab in your Browser
 
 - Before logging in we need to do 2 Things!
 
@@ -1254,11 +1252,7 @@ ________________________________________________________________________________
 
 ***
 
-### 38.A ) Congrats! Hopefully No Errors! Before logging in we need to do 2 Things:
-
-#### <ins>1st Thing</ins>
-
-- Delete: c:\inept\wwwroot\osTicket\\*`setup`*
+### 38.A ) 1st Thing - Delete: c:\inept\wwwroot\osTicket\\*`setup`*
 
   - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
 
@@ -1268,19 +1262,13 @@ ________________________________________________________________________________
 
 ***
 
-#### <ins>2nd Thing</ins>
+### 38.B ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for:
 
-- Set Permissions to `Read only` for:
-
-  - C:\inetpub\wwwroot\osTicket\include\\*`ost-config.php`*
+- File Explorer: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5c10beac-526a-4c6d-b5c1-d052d6d6b466"><br>
 
 ***
-
-#### <ins>2nd Thing</ins>
-
-- 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/967c37e4-65af-47a3-b2d8-f39dc5133375"><br>
 
