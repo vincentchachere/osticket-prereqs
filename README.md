@@ -1232,7 +1232,7 @@ ________________________________________________________________________________
 
 ***
 
-### 36.B ) Congratulations, hopefully it is installed with no errors, but we are not finished just yet!
+### 36.B ) Congratulations! Hopefully it is installed with no errors, but we are not finished just yet!
 
 - *Scroll down for further instruction*
 
@@ -1244,7 +1244,11 @@ ________________________________________________________________________________
 
 - Copy and Paste the link into a tab in your Browser
 
-- Before logging in we need to do 2 Things!
+- But before logging in we need to do 2 Things!
+
+  - 1st Thing - Delete: c:\inept\wwwroot\osTicket\\*`setup`*
+
+  - 2nd Thing - Set Permissions to `Read` <ins>only</ins> for: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
   - *Scroll down for further instruction*
 
@@ -1262,15 +1266,41 @@ ________________________________________________________________________________
 
 ***
 
-### 38.B ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for:
+### 38.B ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
 
 - File Explorer: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5c10beac-526a-4c6d-b5c1-d052d6d6b466"><br>
+  - Right-Click: *`ost-config.php`*
+ 
+  - Select: `Properties`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/967c37e4-65af-47a3-b2d8-f39dc5133375"><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/967c37e4-65af-47a3-b2d8-f39dc5133375"><br>
+### 38.B ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
+
+- Go To: `Security` > `Advanced` > `Edit`
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 38.C ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
+
+- Uncheck: `Full Control`
+
+- Uncheck: `Modify`
+
+- Uncheck: `Write`
+
+- Click: `Apply`
+
+- Click: `Ok`
+
+- Click: `Ok`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ee607d3f-7fa0-4dd1-88ab-70bcbee92572"><br>
 
 ***
 
