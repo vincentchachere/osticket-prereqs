@@ -1182,6 +1182,56 @@ ________________________________________________________________________________
 
 ***
 
+### 35.G ) Download and Install HeidiSQL
+
+- Click: `Skip`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fc4d90e6-dce0-4855-9083-e5eb1635214b"><br>
+
+***
+
+### 35.H ) 
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/89aaecb0-f7a3-4e38-9aa6-0b220e7e9e9b"><br>
 
 ***
