@@ -1088,19 +1088,21 @@ ________________________________________________________________________________
 
 - Click: `Ok`
 
+- Click: `Ok`
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/843fd85c-e38b-43b5-b66e-24e5e14ae378"><br>
 
 ***
 
-### 32.D ) Assign Permissions: ost-config.php
+### 33. ) Restart IIS Manager
 
-- Click: `Ok`
+- Click: `Restart`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/450301ea-6e12-447e-be48-1ce914cc6c35"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/45d6f331-16d8-4199-9b81-e03dc41b38e2"><br>
 
 ***
 
-### 32.E ) Assign Permissions: ost-config.php
+### 34.A ) Assign Permissions: ost-config.php
 
 - 
 
@@ -1108,40 +1110,13 @@ ________________________________________________________________________________
 
 ***
 
-### 32.F ) Assign Permissions: ost-config.php
+### 34.B ) Assign Permissions: ost-config.php
 
 - 
 
 <img width="1511" alt="isolated" src=""><br>
 
 ***
-
-### 32.D ) Assign Permissions: ost-config.php
-
-- 
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-
-
-
-
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be008f3d-012a-4b11-a918-c3c22c0497e1"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fe2dfed6-11e7-46da-8038-9e136385df3d"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/269eb513-a0b4-41bd-a369-c2b1e00cf068"><br>
-
-***
-
-<br>
 
 ### 35. ) Refresh PHP Manager (IIS) and Continue Setting Up osTicket in browser
 
