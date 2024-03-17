@@ -1108,21 +1108,20 @@ ________________________________________________________________________________
 
 - Helpdesk Name: `Helpdesk`
 
-- Default Email: `yourfirstname@osticket.com`
-  - *(It can be anything, just remember it or you'll have to redo everything!)*
+- Default Email: `yourfirstname@helper.com`
 
 - First Name: *AnythingYouWant* *(just remember it)*
 
 - Last Name: *AnythingYouWant* *(just remember it)*
 
-- Email Address: `yourfirstname@osticket.com`
-  - *(It can be anything, just remember it or you'll have to redo everything!)*
+- Email Address: `yourfirstname@gmail.com`
+  - *AnythingYouWant* *(just remember it)*
 
 - Username: *AnythingYouWant* *(just remember it)*
 
 - Password: *AnythingYouWant* *(just remember it)*
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f5d61d2-3587-4817-8819-6ae7102d5fc7"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/861e533c-76c0-43b3-b1c7-5ea17d1be6f8"><br>
 
 ***
 
@@ -1230,7 +1229,15 @@ ________________________________________________________________________________
 
 - Click: `Install`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6281de3-07dd-40dc-b9a3-61391a49e988"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/cc7a2b9d-b203-4bfb-a2fa-e819df565d98"><br>
+
+***
+
+### 37. ) 
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
