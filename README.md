@@ -1282,17 +1282,27 @@ ________________________________________________________________________________
 
 - Go To: `Security` > `Advanced` > `Edit`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9f6241a-7eef-4bae-9e83-2a977643f45e"><br>
 
 ***
 
 ### 38.C ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
 
-- Uncheck: `Full Control`
+- 
 
-- Uncheck: `Modify`
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/691a1185-f0df-44fe-90be-2d99b4652e63"><br>
 
-- Uncheck: `Write`
+***
+
+### 38.D ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
+
+- Only Check: `Read` and `Read & execute` 
+
+  - Uncheck: `Full Control`
+
+  - Uncheck: `Modify`
+
+  - Uncheck: `Write`
 
 - Click: `Apply`
 
