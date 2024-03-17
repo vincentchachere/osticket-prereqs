@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8e71a03e-f759-4118-a268-53d787d6c952)<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -1237,11 +1237,11 @@ ________________________________________________________________________________
 
 - Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/861d2391-ab06-4e81-ba1e-f0874ebe983d"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1c599f03-5554-4388-aaf9-94bd3ea7b6d3"><br>
 
 ***
 
-### 38. ) Congrats! Hopefully No Errors! Before logging in we need to do 2 Things:
+### 38.A ) Congrats! Hopefully No Errors! Before logging in we need to do 2 Things:
 
 #### <ins>1st Thing</ins>
 
@@ -1249,13 +1249,27 @@ ________________________________________________________________________________
 
   - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
 
+  - *scroll down for the 2nd Thing*
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a3c0a350-06ee-48ea-aabb-5fd680ba811c"><br>
+
+***
+
 #### <ins>2nd Thing</ins>
 
 - Set Permissions to `Read only` for:
 
   - C:\inetpub\wwwroot\osTicket\include\\*`ost-config.php`*
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a3c0a350-06ee-48ea-aabb-5fd680ba811c"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5c10beac-526a-4c6d-b5c1-d052d6d6b466"><br>
+
+***
+
+#### <ins>2nd Thing</ins>
+
+- 
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/967c37e4-65af-47a3-b2d8-f39dc5133375"><br>
 
 ***
 
