@@ -1126,7 +1126,7 @@ ________________________________________________________________________________
 
 ***
 
-### 35.A ) Continue Setting up osTicket in the browser
+### 35.A ) Download and Install HeidiSQL
 
 - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
@@ -1142,7 +1142,7 @@ ________________________________________________________________________________
 
 ***
 
-### 35.B ) Continue Setting up osTicket in the browser
+### 35.B ) Download and Install HeidiSQL
 
 - Click: `Next`
 
@@ -1150,7 +1150,7 @@ ________________________________________________________________________________
 
 ***
 
-### 35.C ) Continue Setting up osTicket in the browser
+### 35.C ) Download and Install HeidiSQL
 
 - Click: `Next`
 
@@ -1158,7 +1158,7 @@ ________________________________________________________________________________
 
 ***
 
-### 35.D ) Continue Setting up osTicket in the browser
+### 35.D ) Download and Install HeidiSQL
 
 - Click: `Next`
 
@@ -1166,15 +1166,19 @@ ________________________________________________________________________________
 
 ***
 
-### 35.E ) 
+### 35.E ) Download and Install HeidiSQL
 
-- 
+- Click: `Install`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/df2466bc-7fa9-4d01-b963-ea5f82a285a5"><br>
 
 ***
 
-<img width="1511" alt="isolated" src=""><br>
+### 35.E ) Download and Install HeidiSQL
+
+- Click: `Finish`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2e10c9ca-7ae5-4ba3-8d1e-2df63eb17c28"><br>
 
 ***
 
