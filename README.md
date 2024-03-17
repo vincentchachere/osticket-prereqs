@@ -1225,7 +1225,7 @@ ________________________________________________________________________________
 
 - MySQL Username: `root`
 
-- MySQL Password: *`The one you created at Step 34.A and the one you used at Step 35.H`
+- MySQL Password: *`The one you created at Step 34.A and the one you used at Step 35.H`*
 
 - Click: `Install`
 
@@ -1259,11 +1259,11 @@ ________________________________________________________________________________
 
 ***
 
-### 39. ) Login: http://localhost/osTicket/scp/login.php
+### 39. ) Login To: http://localhost/osTicket/scp/login.php
 
 - Username: vincentchachere
 
-- Password: *YourPassword* 
+- Password: *`The one you created at Step 34.A and the one you used at Step 35.H`*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1c58635f-de50-42d3-8cf6-755f0e2ed9c0"><br>
 
@@ -1272,8 +1272,6 @@ ________________________________________________________________________________
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9977c4a4-0c10-4463-bc7b-99a123edc19f"><br>
 
 ***
-
-<br>
 
 ### 40. ) End Users osTicket URL:
 
