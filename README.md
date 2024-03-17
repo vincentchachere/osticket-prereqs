@@ -1,4 +1,3 @@
-![image](https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8e71a03e-f759-4118-a268-53d787d6c952)<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
