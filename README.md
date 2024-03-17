@@ -1220,6 +1220,20 @@ ________________________________________________________________________________
 
 ***
 
+### 36. ) Continue Setting up osticket in the browser
+
+- MySQL Database: `osTicket`
+
+- MySQL Username: `root`
+
+- MySQL Password: *`The one you created at Step 34.A and the one you used at Step 35.H`
+
+- Click: `Install`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6281de3-07dd-40dc-b9a3-61391a49e988"><br>
+
+***
+
 ***
 
 ***
@@ -1278,28 +1292,6 @@ ________________________________________________________________________________
 
 ***
 
-<br>
-
-### 38. ) Continue Setting Up osTicket in Browser
-
-- HiediSQL Database: `osTicket`
-
-- MySQL Username: `vincentchachere` (put whatever you want just remember it)
-
-- MySQL Password: `*Your Password*` (put whatever you want just remember it)
-
-- Click: `INSTALL NOW`
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/753262e2-49d9-47a9-a380-fb31e9067a68)"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bbd64de0-cdab-4757-8662-75e2ab0c7ea3"><br>
-
-***
-
-<br>
-
 ### 39. ) Congrats! Hopefully No Errors! Before logging in we need to do 2 Things:
 
 #### <ins>1st Thing</ins>
@@ -1336,9 +1328,9 @@ ________________________________________________________________________________
 
 ### 40. ) Login: http://localhost/osTicket/scp/login.php
 
-- Username: vincentchachere (The username you made at #38)
+- Username: vincentchachere
 
-- Password: *YourPassword* (The password you made at #38)
+- Password: *YourPassword* 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1c58635f-de50-42d3-8cf6-755f0e2ed9c0"><br>
 
