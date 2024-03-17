@@ -1316,6 +1316,8 @@ ________________________________________________________________________________
 
 ***
 
+### 39. ) Now you are successfully inside osTicket! Congrats!
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9977c4a4-0c10-4463-bc7b-99a123edc19f"><br>
 
 ***
