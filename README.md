@@ -1094,42 +1094,40 @@ ________________________________________________________________________________
 
 ### 32.D ) Assign Permissions: ost-config.php
 
+- Click: `Ok`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/450301ea-6e12-447e-be48-1ce914cc6c35"><br>
+
+***
+
+### 32.E ) Assign Permissions: ost-config.php
+
 - 
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a29e14a3-a301-4ec1-b623-6c7e6f40e88e"><br>
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 32.F ) Assign Permissions: ost-config.php
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+### 32.D ) Assign Permissions: ost-config.php
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
 
 
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e74adb11-a3ee-4901-8242-50fd7a6250f3"><br>
 
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/cbaf1c4b-b0e6-4928-b5de-aa56cd41a6fc"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/935cda62-1d67-45e0-93c4-39ebf92011cf"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/14d20aec-b1c2-4839-ba3b-7e744b85ec95"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ad0b0008-da6d-4124-87a2-83826defb878"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/adad3db8-a4ec-473f-9c71-3a37215ec688"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/97a32d06-3517-452e-8ab0-87675667232d"><br>
-
-***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/be008f3d-012a-4b11-a918-c3c22c0497e1"><br>
 
