@@ -1241,83 +1241,25 @@ ________________________________________________________________________________
 
 ***
 
-### 38. ) End Users osTicket URL:
-
-- http://localhost/osTicket/ 
-
-***
-
-### 39. ) Clean up
-
-- Delete: C:\inetpub\wwwroot\osTicket\setup
-
-- Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
-***
-
-#### Notes:
-
-- Browse to your help desk login page: http://localhost/osTicket/scp/login.php
-
-- End Users osTicket URL: http://localhost/osTicket/
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-### 39. ) Congrats! Hopefully No Errors! Before logging in we need to do 2 Things:
+### 38. ) Congrats! Hopefully No Errors! Before logging in we need to do 2 Things:
 
 #### <ins>1st Thing</ins>
+
 - Delete: c:\inept\wwwroot\osTicket\\*`setup`*
 
-  - ONLY DELETE THE `setup` PART NOT THE WHOLE THING
+  - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
 
 #### <ins>2nd Thing</ins>
-- Set Permissions to '`Read` only' for:
+
+- Set Permissions to `Read only` for:
 
   - C:\inetpub\wwwroot\osTicket\include\\*`ost-config.php`*
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/665d900d-6f13-4172-b25b-6dc8dfe33469"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a6d7d37-7227-4742-8fd4-aa0022645f1a"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6235eb2e-e4d5-4168-ae0f-ac1a7942b52a"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d1aca000-1239-4203-b9a3-8b932107092d"><br>
-
-***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a3c0a350-06ee-48ea-aabb-5fd680ba811c"><br>
 
 ***
 
-<br>
-
-### 40. ) Login: http://localhost/osTicket/scp/login.php
+### 39. ) Login: http://localhost/osTicket/scp/login.php
 
 - Username: vincentchachere
 
@@ -1333,12 +1275,10 @@ ________________________________________________________________________________
 
 <br>
 
-### 41. ) End Users osTicket URL:
+### 40. ) End Users osTicket URL:
 
 - http://localhost/osTicket/ 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db3d50dd-5604-4f7e-a5d1-fe0e7b797677"><br>
 
 ***
-
-<br>
