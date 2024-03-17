@@ -1288,14 +1288,6 @@ ________________________________________________________________________________
 
 ### 38.C ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
 
-- 
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/691a1185-f0df-44fe-90be-2d99b4652e63"><br>
-
-***
-
-### 38.D ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
-
 - Only Check: `Read` and `Read & execute` 
 
   - Uncheck: `Full Control`
@@ -1310,7 +1302,7 @@ ________________________________________________________________________________
 
 - Click: `Ok`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ee607d3f-7fa0-4dd1-88ab-70bcbee92572"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/52791c2a-13cd-42ed-9102-509ae76104c6"><br>
 
 ***
 
