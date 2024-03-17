@@ -1232,7 +1232,7 @@ ________________________________________________________________________________
 
 ***
 
-### 36.B ) Congrats! But we are not finished just yet!
+### 36.B ) Congratulations, hopefully it is installed with no errors, but we are not finished just yet!
 
 - *Scroll down for further instruction*
 
