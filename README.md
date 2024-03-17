@@ -1174,29 +1174,11 @@ ________________________________________________________________________________
 
 ***
 
-### 35.E ) Download and Install HeidiSQL
+### 35.F ) Download and Install HeidiSQL
 
 - Click: `Finish`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2e10c9ca-7ae5-4ba3-8d1e-2df63eb17c28"><br>
-
-***
-
-- Create a *New Session*: `username/Password`
-
-- `Connect to Session`
-
-- Create a database called: `osTicket`
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/939d0fda-cca3-46d6-ac98-f183d56fcc9a"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8e13a12e-d14e-42bf-b3c9-cc0479194a26"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/12cd0142-0e16-4073-903a-d0e209f4bbab"><br>
 
 ***
 
