@@ -1237,6 +1237,10 @@ ________________________________________________________________________________
 
 - Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
+- *Before logging in we need to do 2 Things!*
+
+- *Scroll down for further instruction*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1c599f03-5554-4388-aaf9-94bd3ea7b6d3"><br>
 
 ***
