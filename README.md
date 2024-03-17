@@ -35,7 +35,9 @@ ________________________________________________________________________________
 
 ## 📝 Installation Steps - Part A: Create a Resource Group
 
-### 1. ) Starting at the 'Home' screen in your Microsoft Azure Portal
+### 1. ) Create a Resurce Group
+
+<ins>Starting at the 'Home' screen in your Microsoft Azure Portal:</ins>
 
 - Click: the `Resource Groups` icon that's already on your home screen
 
@@ -47,7 +49,9 @@ ________________________________________________________________________________
 
 ***
 
-### 2. ) Click `Create` to start your Resource Group
+### 2. ) Create a Resurce Group
+
+- Click `Create` to start your Resource Group
 
 - Or..
 
@@ -57,7 +61,9 @@ ________________________________________________________________________________
 
 ***
 
-### 3. ) Next, we'll input the following:
+### 3. ) Create a Resurce Group
+
+<ins>Next, we'll input the following</ins>:
 
 - Resource Group Name: `RG-osTicket`
 
@@ -71,7 +77,9 @@ ________________________________________________________________________________
 
 ***
 
-## 4. ) Now, let's click `Review + Create`
+## 4. ) Create a Resurce Group
+
+- Click `Review + Create`
 
 - Dont worry about the 'Tags' section, we don't need that part for this lab.
 
@@ -83,13 +91,11 @@ ________________________________________________________________________________
 
 ***
 
-## 5. ) Finally, we review and create!
+## 5. ) Review and Create!
 
-- Look over the resource rroup rnformation.
+- *Verify Your Resource Group Information Before Continuing*
 
-- `Verify` your `Information`
-
-- Click `Create` to bring alive your first resource group!
+- Click `Create` to awaken your resource group!
 
 <img width="1511" alt="6353AD56-C708-4D3D-ABEB-7C29A8E42E5F" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f2d3265-2f3f-457f-a710-1be04c7d9545"><br>
 
