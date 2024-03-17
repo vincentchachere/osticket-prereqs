@@ -1278,7 +1278,7 @@ ________________________________________________________________________________
 
 ***
 
-### 38.B ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
+### 38.C ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
 
 - Go To: `Security` > `Advanced` > `Edit`
 
@@ -1286,7 +1286,7 @@ ________________________________________________________________________________
 
 ***
 
-### 38.C ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
+### 38.D ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
 
 - Only Check: `Read` and `Read & execute` 
 
