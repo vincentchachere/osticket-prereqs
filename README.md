@@ -1219,7 +1219,7 @@ ________________________________________________________________________________
 
 ***
 
-### 36. ) Continue Setting up osticket in the browser
+### 36.A ) Continue Setting up osticket in the browser
 
 - MySQL Database: `osTicket`
 
@@ -1233,13 +1233,23 @@ ________________________________________________________________________________
 
 ***
 
+### 36.B ) Congrats! But we are not finished just yet!
+
+- *Scroll down for further instruction*
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/16a6926f-5194-4873-90f9-e68f0ec14f8c"><br>
+
+***
+
 ### 37. ) Congratulations, hopefully it is installed with no errors!
 
 - Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-- *Before logging in we need to do 2 Things!*
+  - *Copy and Paste the link into your Browser*
 
-- *Scroll down for further instruction*
+- Before logging in we need to do 2 Things!
+
+  - *Scroll down for further instruction*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1c599f03-5554-4388-aaf9-94bd3ea7b6d3"><br>
 
