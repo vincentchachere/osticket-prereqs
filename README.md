@@ -1094,79 +1094,95 @@ ________________________________________________________________________________
 
 ***
 
-### 33. ) Restart IIS Manager
+### 33. ) Restart IIS Manager and Continue Setting Up osTicket in the Browser
 
 - Click: `Restart`
+
+- Click: `Continue` 
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/45d6f331-16d8-4199-9b81-e03dc41b38e2"><br>
 
 ***
 
-### 34.A ) Assign Permissions: ost-config.php
+### 34.A ) Continue Setting up osTicket in the browser
 
-- 
+- Helpdesk Name: `Helpdesk`
 
-<img width="1511" alt="isolated" src=""><br>
+- Default Email: `yourfirstname@osticket.com`
+  - *(It can be anything, just remember it or you'll have to redo everything!)*
 
-***
+- First Name: *AnythingYouWant* *(just remember it)*
 
-### 34.B ) Assign Permissions: ost-config.php
+- Last Name: *AnythingYouWant* *(just remember it)*
 
-- 
+- Email Address: `yourfirstname@osticket.com`
+  - *(It can be anything, just remember it or you'll have to redo everything!)*
 
-<img width="1511" alt="isolated" src=""><br>
+- Username: *AnythingYouWant* *(just remember it)*
 
-***
+- Password: *AnythingYouWant* *(just remember it)*
 
-### 35. ) Refresh PHP Manager (IIS) and Continue Setting Up osTicket in browser
-
-- Click: `Continue`
-
-- Name: `Helpdesk`
-
-- `Default Email` (recieves emails from customers)
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1a924ff1-9f1f-435c-bec5-a3b9188ecc5d"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f5d61d2-3587-4817-8819-6ae7102d5fc7"><br>
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2ea73b73-8377-4c7d-ad18-3c0e2b82192d"><br>
+### 35.A ) Continue Setting up osTicket in the browser
 
-***
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-<br>
-
-### 37. ) Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-
-- Install: `HiediSQL`
+- Download and Install: `HiediSQL`
 
 - Open: `HiediSQL`
+
+- Select: The `I accept the agreement` Circle
+
+- Click: `Next`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4ed4fec3-24b4-4e5c-9b0a-90308fef3a65"><br>
+
+***
+
+### 35.B ) Continue Setting up osTicket in the browser
+
+- Click: `Next`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5496fa65-221c-40cf-b54f-47d21dc7a73c"><br>
+
+***
+
+### 35.C ) Continue Setting up osTicket in the browser
+
+- Click: `Next`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7474f214-7c07-400a-835c-fd9818e144b9"><br>
+
+***
+
+### 35.D ) Continue Setting up osTicket in the browser
+
+- Click: `Next`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6db50674-e510-42ea-9be7-f8536b58c51e"><br>
+
+***
+
+### 35.E ) 
+
+- 
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
 
 - Create a *New Session*: `username/Password`
 
 - `Connect to Session`
 
 - Create a database called: `osTicket`
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fade480e-0976-45d5-ae0c-8b14f56d1f3a"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/caf744e4-2bdc-4147-9465-5518fa048245"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0bd0bce1-8dcb-44d1-aee2-a4d48dd776d1"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/081856d4-ef5d-4ec7-a59b-22e8855aeca9"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ea34d25c-a02b-4d21-8f2c-5316b344bfe7"><br>
-
-***
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/939d0fda-cca3-46d6-ac98-f183d56fcc9a"><br>
 
