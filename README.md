@@ -1233,11 +1233,33 @@ ________________________________________________________________________________
 
 ***
 
-### 37. ) 
+### 37. ) Congratulations, hopefully it is installed with no errors!
 
-- 
+- Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/861d2391-ab06-4e81-ba1e-f0874ebe983d"><br>
+
+***
+
+### 38. ) End Users osTicket URL:
+
+- http://localhost/osTicket/ 
+
+***
+
+### 39. ) Clean up
+
+- Delete: C:\inetpub\wwwroot\osTicket\setup
+
+- Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+***
+
+#### Notes:
+
+- Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+- End Users osTicket URL: http://localhost/osTicket/
 
 ***
 
@@ -1258,44 +1280,6 @@ ________________________________________________________________________________
 ***
 
 ***
-
-***
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src=""><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/89aaecb0-f7a3-4e38-9aa6-0b220e7e9e9b"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/50393481-ec35-40ad-a719-486a90ce6355"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4cdcb8e8-bd1a-4e5f-829d-dce605c8ee98"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4e0da616-805c-4acb-a332-642c6e29438d"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/efd049eb-1d1d-4600-a58b-f59c33f908f1"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/62806062-5451-4ae7-a22c-9154a62e0af6"><br>
-
-***
-
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6554b822-d257-49e1-8c35-bd0c8e09c3e0"><br>
 
 ***
 
