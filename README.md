@@ -16,11 +16,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## List of Prerequisites
 
+- Create a Resource Group
+- Create a Virtual Machine inside the Resource Group
 - Connect Virtual Machine with Remote Desktop
+- Download & Install [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 - Install/Enable IIS in Windows
-- Install Web Platform Installer
-- Install osTicket v1.15.8
-- Download & Install HeidiSQL
+- Enable Extensions for osTicket
+- Rename: ost-config.php
+- Assign Permissions To: ost-config.php
 - Create a database for 'osTicket'
 - Clean Up Resources
 - Change File Permissions
@@ -123,7 +126,7 @@ ________________________________________________________________________________
 
 ## 📝 Installation Steps - Part B: Create a `Virtual Machine`
 
-### 7. ) Now, for this second part we will create a 'Virtual Machine' inside the resource group we just created.
+### 7. ) Create a Virtual Machine inside the Resource Group
 
 - `Search:` Virtual Machine
 
@@ -133,7 +136,9 @@ ________________________________________________________________________________
 
 ***
 
-### 8. ) Click one of the `Create` buttons to start creating your Virtual Machine
+### 8. ) Create a Virtual Machine inside the Resource Group
+
+- Click one of the `Create` buttons to start creating your Virtual Machine
 
 <img width="1509" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d2a8f586-58ac-4bea-99e8-919410d8d839"><br>
 
@@ -141,7 +146,9 @@ ________________________________________________________________________________
 
 ***
 
-### 9. ) Now we can put in key information for our Virtual Machine
+### 9. ) Create a Virtual Machine inside the Resource Group
+
+<ins>Now we can put in key information for our Virtual Machine</ins>
 
 - Select your subscription
 
@@ -165,7 +172,9 @@ ________________________________________________________________________________
 
 ***
 
-### 10. ) As before, we will fill in the following:
+### 10. ) Create a Virtual Machine inside the Resource Group
+
+<ins>As before, we will fill in the following</ins>:
 
 - Size: `Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
 
@@ -185,7 +194,9 @@ ________________________________________________________________________________
 
 ***
 
-### 11. ) `Review` and `Create` your Virtual Machine!
+### 11. ) Create a Virtual Machine inside the Resource Group
+
+- `Review` your information and `Create` your Virtual Machine!
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bd8c8d4b-ab9f-4c50-98bc-813db9816512"><br>
 
@@ -199,9 +210,9 @@ ________________________________________________________________________________
 
 ***
 
-### 12. ) Wait for your Virtual Machine to Load and Go to your New Resource group
+### 12. ) Create a Virtual Machine inside the Resource Group
 
-- Wait for your resources to load then..&darr;
+<ins>Wait for your resources to load then</ins>:
 
 - Click: `Go to Resources`
 
@@ -209,7 +220,9 @@ ________________________________________________________________________________
 
 ***
 
-### 13. ) Now we are at our Virtual Machine's 'Overview Page' that is inside our Azure Portal
+### 13. ) Create a Virtual Machine inside the Resource Group
+
+<ins>Now we are at our Virtual Machine's 'Overview Page' that is inside our Azure Portal</ins>
 
 - (we are not inside the VM yet)
 
@@ -224,7 +237,7 @@ ________________________________________________________________________________
 ## 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
 
 
-### 14.A ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
+### 14.A ) Connect your Virtual Machine to Remote Desktop
 
 - `Copy` your VM's (vm-osticket) `Public IP Address`
 
@@ -236,7 +249,7 @@ ________________________________________________________________________________
 
 ***
 
-### 14.B ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
+### 14.B ) Connect your Virtual Machine to Remote Desktop
 
 - Press: `Command + Space Bar` at the same time to open up the Spotlight Search, then..
 
@@ -248,7 +261,7 @@ ________________________________________________________________________________
 
 ***
 
-### 14.C ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
+### 14.C ) Connect your Virtual Machine to Remote Desktop
 
 - Click: `Add PC`
 
@@ -256,7 +269,7 @@ ________________________________________________________________________________
 
 ***
 
-### 14.D ) Connect your Virtual Machine to Remote Desktop by doing the follwing:
+### 14.D ) Connect your Virtual Machine to Remote Desktop
 
 - Paste: `vm-osticket's Public IP Address`
 
@@ -266,7 +279,7 @@ ________________________________________________________________________________
 
 ***
 
-### 15.A ) Login into Virtual Machine
+### 15.A ) Connect your Virtual Machine to Remote Desktop
 
 - Righ-Click: Your Remote Desktop Account
 
@@ -276,7 +289,7 @@ ________________________________________________________________________________
 
 ***
 
-### 15.B ) Login into Virtual Machine
+### 15.B ) Connect your Virtual Machine to Remote Desktop
 
 - `Username:` vincentchachere (whatever you typed in at the beginnning of Part B: Step 9)
 
@@ -288,7 +301,7 @@ ________________________________________________________________________________
 
 ***
 
-### 15.C ) Login into Virtual Machine
+### 15.C ) Connect your Virtual Machine to Remote Desktop
 
 - *Uncheck: `All Boxes`*
 
@@ -298,7 +311,7 @@ ________________________________________________________________________________
 
 ***
 
-### 16.A ) Install IIS
+### 16.A ) Install/Enable IIS in Windows
 
 - Once connected and inside your Virtual Machine we'll need to install IIS by doing the following:
 
@@ -310,7 +323,7 @@ ________________________________________________________________________________
 
 ***
 
-### 16.B ) Install IIS
+### 16.B ) Install/Enable IIS in Windows
 
 - Type In: `Control`
 
@@ -320,7 +333,7 @@ ________________________________________________________________________________
 
 ***
 
-### 16.C ) Install IIS
+### 16.C ) Install/Enable IIS in Windows
 
   - Click: `Programs`
 
@@ -328,7 +341,7 @@ ________________________________________________________________________________
 
 ***
 
-### 16.D ) Install IIS
+### 16.D ) Install/Enable IIS in Windows
 
   - Click: `Turn Windows Features On or Off`
 
@@ -336,7 +349,7 @@ ________________________________________________________________________________
 
 ***
 
-### 16.E ) Install IIS
+### 16.E ) Install/Enable IIS in Windows
                               
   - Enable: Internet Information Services (IIS)
  
@@ -349,7 +362,7 @@ ________________________________________________________________________________
 
 ***
 
-### 16.F ) Install IIS
+### 16.F ) Install/Enable IIS in Windows
 
 -  While still inside the *World wide Web Service*:
 
@@ -363,7 +376,7 @@ ________________________________________________________________________________
 
 ***
 
-### 16.G ) Install IIS
+### 16.G ) Install/Enable IIS in Windows
 
 - Enable: Common HTTP Features
 
@@ -377,7 +390,7 @@ ________________________________________________________________________________
 
 ***
 
-### 16.H ) Install IIS
+### 16.H ) Install/Enable IIS in Windows
 
 - Wait for it to load...
 
@@ -385,7 +398,7 @@ ________________________________________________________________________________
 
 ***
 
-### 16.I ) Install IIS
+### 16.I ) Install/Enable IIS in Windows
 
 - When that's done Loading Click: `Close`
 
@@ -395,7 +408,7 @@ ________________________________________________________________________________
 
 <br>
 
-### 17.A ) Test IIS by doing the following:
+### 17.A ) Open Microsoft Edge to Test IIS
 
 - Open: `Microsoft Edge` Internet Browser
 
@@ -405,7 +418,7 @@ ________________________________________________________________________________
 
 ***
 
-### 17.B ) Test IIS by doing the following:
+### 17.B ) Open Microsoft Edge to Test IIS
 
 - Uncheck the Box
 
@@ -415,7 +428,7 @@ ________________________________________________________________________________
 
 ***
 
-### 17.C ) Test IIS by doing the following:
+### 17.C ) Open Microsoft Edge to Test IIS
 
 - Click: `Continue without this data`
 
@@ -423,7 +436,7 @@ ________________________________________________________________________________
 
 ***
 
-### 17.D )Test IIS by doing the following:
+### 17.D ) Open Microsoft Edge to Test IIS
 
 - Uncheck the Box
 
@@ -433,7 +446,7 @@ ________________________________________________________________________________
 
 ***
 
-### 17.E ) Now finally, Test IIS by doing the following:
+### 17.E ) Open Microsoft Edge to Test IIS
 
 - Type: `127.0.0.1` into the browser
 
@@ -467,7 +480,9 @@ ________________________________________________________________________________
 
 ### 18.A ) Download PHP Manager for IIS
 
-- Open: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) into a seperate tab, so that you can easily access them throught out this lab.
+- Open: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+
+  - Open the Installation Files into a seperate tab or split screen as seen below, so that you can easily access them throught out this lab.
 
   - Double-Click: `PHP Manager`
 
@@ -939,7 +954,7 @@ ________________________________________________________________________________
 
 ***
 
-### 29.A ) Enable Extensions
+### 29.A ) Enable Extensions for osTicket
 
 - Go to: `sites` > `Default` > `osTicket`
 
@@ -949,7 +964,7 @@ ________________________________________________________________________________
 
 ***
 
-### 29.B ) Enable Extensions
+### 29.B ) Enable Extensions for osTicket
 
 - Click: `Enable or Disable Extensions`
 
@@ -957,7 +972,7 @@ ________________________________________________________________________________
 
 ***
 
-### 29.C ) Enable Extensions
+### 29.C ) Enable Extensions for osTicket
 
 - Right-Click: `php_imap.dll`
 
@@ -967,7 +982,7 @@ ________________________________________________________________________________
 
 ***
 
-### 29.D ) Enable Extensions
+### 29.D ) Enable Extensions for osTicket
 
 - Right-Click: `php_intel.dll`
 
@@ -977,7 +992,7 @@ ________________________________________________________________________________
 
 ***
 
-### 29.E ) Enable Extensions
+### 29.E ) Enable Extensions for osTicket
 
 - Right-Click: `php_opache.dll`
 
@@ -985,9 +1000,11 @@ ________________________________________________________________________________
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/748526b0-3631-4115-8b09-2fbe5c796a23"><br>
 
-### 29.F ) Verify all your extensions were enabled
+### 29.F ) Enable Extensions for osTicket
 
-- <ins>You should see the 3 following extensions in the 'enabled' section</ins>:
+<ins>Verify all your extensions were enabled</ins>
+
+- You should see the 3 following extensions in the 'enabled' section:
 
   - php_imap.dll
  
@@ -1001,7 +1018,9 @@ ________________________________________________________________________________
 
 ***
 
-### 30. ) Restart the osTicket in your browser and observe the changes
+### 30. ) Enable Extensions for osTicket
+
+<ins>Restart the osTicket in your browser and observe the changes</ins>
 
 - Click: `Refresh` that is in your `IIS Manager`
 
@@ -1051,7 +1070,7 @@ ________________________________________________________________________________
 
 ***
 
-### 32.A ) Assign Permissions: ost-config.php
+### 32.A ) Assign Permissions To: ost-config.php
 
 - Right-Click: `ost-config.php`
 
@@ -1061,7 +1080,7 @@ ________________________________________________________________________________
 
 ***
 
-### 32.B ) Assign Permissions: ost-config.php
+### 32.B ) Assign Permissions To: ost-config.php
 
 - Click: `Security`
 
@@ -1075,7 +1094,7 @@ ________________________________________________________________________________
 
 ***
 
-### 32.C ) Assign Permissions: ost-config.php
+### 32.C ) Assign Permissions To: ost-config.php
 
 - Click: `Add` > `Select a principal` > Type In: `Everyone` > Click: `Check Names`
 
@@ -1087,7 +1106,7 @@ ________________________________________________________________________________
 
 ***
 
-### 32.C ) Assign Permissions: ost-config.php
+### 32.C ) Assign Permissions To: ost-config.php
 
 - Select: `Full Control` *(make sure all boxes are checked as seen in the image below)*
 
@@ -1206,7 +1225,7 @@ ________________________________________________________________________________
 
 ***
 
-### 35.I ) Create a Database called 'osTicket'
+### 35.I ) Create a Database for osTicket called `osTicket`
 
 - Right-Click: `Unamed` > Click: `Create new` > Click: `Database`
 
@@ -1214,7 +1233,7 @@ ________________________________________________________________________________
 
 ***
 
-### 35.J ) Create a Database called 'osTicket'
+### 35.J ) Create a Database for osTicket called `osTicket`
 
 - Type In: `osTicket`
 
@@ -1224,7 +1243,7 @@ ________________________________________________________________________________
 
 ***
 
-### 36.A ) Continue Setting up osticket in the browser
+### 36.A ) Continue Setting up osTicket in the browser
 
 - MySQL Database: `osTicket`
 
@@ -1248,11 +1267,13 @@ ________________________________________________________________________________
 
 ### 37. ) Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-- Copy and Paste the link into a tab in your Browser
+<ins>Before logging in we need to do 2 Things</ins>:
 
-- But before logging in we need to do 2 Things!
+- Clean Up Resources
 
   - 1st Thing - Delete: c:\inept\wwwroot\osTicket\\*`setup`*
+
+- Change File Permissions
 
   - 2nd Thing - Set Permissions to `Read` <ins>only</ins> for: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
@@ -1262,7 +1283,9 @@ ________________________________________________________________________________
 
 ***
 
-### 38.A ) 1st Thing - Delete: c:\inept\wwwroot\osTicket\\*`setup`*
+### 38.A ) Clean Up Resources
+
+- 1st Thing - Delete: c:\inept\wwwroot\osTicket\\*`setup`*
 
   - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
 
@@ -1272,7 +1295,9 @@ ________________________________________________________________________________
 
 ***
 
-### 38.B ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
+### 38.B ) Change File Permissions
+
+<ins>2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*</ins>
 
 - File Explorer: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
@@ -1284,7 +1309,9 @@ ________________________________________________________________________________
 
 ***
 
-### 38.C ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
+### 38.C ) Change File Permissions
+
+<ins>2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*</ins>
 
 - Go To: `Security` > `Advanced` > `Edit`
 
@@ -1292,7 +1319,9 @@ ________________________________________________________________________________
 
 ***
 
-### 38.D ) 2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*
+### 38.D ) Change File Permissions
+
+<ins>2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*</ins>
 
 - Only Check: `Read` and `Read & execute` 
 
@@ -1312,7 +1341,7 @@ ________________________________________________________________________________
 
 ***
 
-### 39. ) Login To: http://localhost/osTicket/scp/login.php
+### 39.A ) Login To: http://localhost/osTicket/scp/login.php
 
 - Username: vincentchachere
 
@@ -1322,7 +1351,7 @@ ________________________________________________________________________________
 
 ***
 
-### 39. ) Now you are successfully inside osTicket! Congrats!
+### 39.B ) Now you are successfully inside osTicket! Congrats!
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9977c4a4-0c10-4463-bc7b-99a123edc19f"><br>
 
