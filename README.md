@@ -12,6 +12,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## Operating Systems Used
 
+- macOS
 - Windows 10</b> (21H2)
 
 ## List of Prerequisites
