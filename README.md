@@ -1285,7 +1285,7 @@ ________________________________________________________________________________
 
 ### 38.A ) Clean Up Resources
 
-- 1st Thing - Delete: c:\inept\wwwroot\osTicket\\*`setup`*
+<ins>1st Thing - Delete: c:\inept\wwwroot\osTicket\\*'setup'*</ins>
 
   - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
 
