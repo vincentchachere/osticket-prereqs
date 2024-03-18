@@ -1297,7 +1297,7 @@ ________________________________________________________________________________
 
 ### 38.B ) Change File Permissions
 
-<ins>2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*</ins>
+<ins>2nd Thing - Set Permissions to 'Read' <ins>only</ins> for *'ost-config.php'*</ins>
 
 - File Explorer: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
@@ -1311,7 +1311,7 @@ ________________________________________________________________________________
 
 ### 38.C ) Change File Permissions
 
-<ins>2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*</ins>
+<ins>2nd Thing - Set Permissions to 'Read' <ins>only</ins> for *'ost-config.php'*</ins>
 
 - Go To: `Security` > `Advanced` > `Edit`
 
@@ -1321,7 +1321,7 @@ ________________________________________________________________________________
 
 ### 38.D ) Change File Permissions
 
-<ins>2nd Thing - Set Permissions to `Read` <ins>only</ins> for *`ost-config.php`*</ins>
+<ins>2nd Thing - Set Permissions to 'Read' <ins>only</ins> for *'ost-config.php'*</ins>
 
 - Only Check: `Read` and `Read & execute` 
 
