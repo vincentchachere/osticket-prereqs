@@ -1354,7 +1354,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 39.B ) Now you are successfully inside osTicket! Congrats!
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9977c4a4-0c10-4463-bc7b-99a123edc19f"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ef1ee657-b978-4494-acb7-7a4e3585acca"><br>
 
 ***
 
@@ -1362,6 +1362,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - http://localhost/osTicket/ 
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db3d50dd-5604-4f7e-a5d1-fe0e7b797677"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e5bb86f6-de48-47f3-bcb5-97cbb620e6d8"><br>
 
 ***
