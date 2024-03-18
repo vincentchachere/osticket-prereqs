@@ -320,7 +320,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Select: `Run`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d0a45cc6-d839-4c06-95f2-32ae350ce719"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6f279019-c2f3-4446-b4f1-76e5cf798e2b"><br>
 
 ***
 
@@ -330,7 +330,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Press: `Enter` or Click: `Ok`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a55cb772-6e1e-406e-b6cf-e92c24bb8742"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/87a7e808-6441-42db-859b-aa78c565d8a1"><br>
 
 ***
 
@@ -338,7 +338,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Click: `Programs`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4681b035-50c5-4d6c-92d1-348a05252dbd"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/897bb69f-f091-4f03-8c55-3547cf3ad1f1"><br>
 
 ***
 
@@ -346,7 +346,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Click: `Turn Windows Features On or Off`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9df9fab4-a98c-4163-b863-4a844660e08a"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9beb774-2bc5-4f35-bf61-aaf2e8c52dea"><br>
 
 ***
 
@@ -359,7 +359,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - *scroll down in between images for further instruction*
    
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8f66567f-2ab1-4ffe-a2b3-949d5d06bc35"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/89eb3345-1c42-416f-9ea3-6fb101a9c499"><br>
 
 ***
 
@@ -373,7 +373,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - *Collapse Application Development Features folder*
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf191a8d-3aef-4a00-8076-63c39a010ef7"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4a86fcb4-b2e3-4247-89fa-725b7c4d7583"><br>
 
 ***
 
@@ -387,7 +387,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
   - Click: 'Ok'
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f815d194-ed55-4989-9663-638c95091f25"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4a756f64-9ba3-45fb-a690-0ddf5bd5b4bd"><br>
 
 ***
 
@@ -395,7 +395,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Wait for it to load...
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94763f83-0b52-491c-927e-5f27e77a41c5"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/81b5957a-ab51-4c47-8e46-91a8d3b3f961"><br>
 
 ***
 
@@ -403,7 +403,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - When that's done Loading Click: `Close`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b360cb70-7b73-4879-bb17-614ac2dd9db8"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/904c8fec-b77a-4efa-81fa-a62e801dc3fa"><br>
 
 ***
 
@@ -415,7 +415,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Start without your data`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ea858b1f-37ad-43d0-985e-0a8dd73e1fd8"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e7c74b77-ca58-4c36-8623-b641438aee10"><br>
 
 ***
 
@@ -425,7 +425,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Continue and Conirm`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6528279d-d330-419b-980b-9175825edb33"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/80a538a2-5fca-4ffb-b416-85f369c8c3df"><br>
 
 ***
 
@@ -433,7 +433,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Continue without this data`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/344afc0a-86c7-4f84-89a1-e0af3e282cb1"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2a8021d3-6634-45de-b25f-d2f63ad50ae7"><br>
 
 ***
 
@@ -443,7 +443,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Confirm and start browsing`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1d583dcd-b755-4aa0-b1cd-2f02970189c9"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e5c7aa4-97dd-4c8d-a09d-c9cafddda685"><br>
 
 ***
 
@@ -455,7 +455,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - *The `How To Uninstall and Reinstall Instructions` are directly underneath the image below.* 
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b20ecb45-f3df-49b4-9a6e-34c254557dde"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c2dae78-f8bb-40ba-9f73-b24d60b25c91"><br>
 
 >**To Uninstall and Reinstall IIS do the following:**
 
