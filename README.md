@@ -493,7 +493,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - *Downloading it this way is the only way I've found where it does not take so long, and it downloads the first time instead of having to do multiple attempts.* 
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f57f0c7-69cc-4497-b21c-64e7668b48e7"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c65e858-f02e-4a8f-91e3-961c718d1956"><br>
 
 ***
 
@@ -509,9 +509,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 >**Sometimes when the file downloads it does not pop up, so I wanted to show you both ways.**
 
->**You can also simply go to your `File Explorer` > `Downaloads` > `Double-Click: `PHPManagerforIIS_V1.5.0`**
+>**You can also simply go to your `File Explorer` > `Downaloads` > Double-Click: `PHPManagerforIIS_V1.5.0`**
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c96e4e2a-37a3-4f90-aa29-118c9d8a468a"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e55e776c-9ea1-491a-9d10-3cd0bc79db5e"><br>
 
 ***
 
@@ -519,7 +519,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click :`Next`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ccdfcdd2-6a67-453d-bfc1-fb05da1fff5f"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d259bf88-439b-42cc-9375-166f003d8808"><br>
 
 ***
 
@@ -529,7 +529,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Next`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/80a9a97e-28f0-4100-a02e-4542c4c4aa38"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9199a0ea-972d-455c-9408-5365677ed221"><br>
 
 ***
 
@@ -537,7 +537,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Close`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9132b29d-2fde-4197-b823-40e6d9a09235"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ac09a285-6c4a-4ae0-8c33-2098d337d6f6"><br>
 
 ***
 
@@ -551,7 +551,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Install`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/721490cc-e27f-4d47-a85b-97de8dc643c6"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3cc3863b-44d7-4b20-b781-71830ae56f1d"><br>
 
 ***
 
@@ -559,7 +559,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Finish`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c71aa5ef-fc0f-4550-a18b-23afcd989151"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f8035ed7-c04b-4425-9044-8a20529b8a89"><br>
 
 ***
 
@@ -567,7 +567,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Go To: `File Explorer` > `This PC` > `Windows (C:)` > 
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b5e48dce-2671-4b95-af09-fb3ea60cf82a"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/42973b96-7bf7-4e37-b824-6c46ee8d7bdf"><br>
 
 ***
 
@@ -579,11 +579,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Folder`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/20c4cc4d-c381-48b9-bebc-cb61f5cbea52"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a45390d8-3afe-4c32-b5a6-2a9e939e322f"><br>
 
 ***
 
-### 20.B ) Create Directory C:\PHP
+### 20.C ) Create Directory C:\PHP
 
 - Type In: `PHP`
 
@@ -597,7 +597,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Double-Click: `PHP 7.3.8`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c4010c5-b21c-43a4-97e2-1f4dcd78e624"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2c5679a1-839f-4ac8-b33a-5e619ca409ba"><br>
 
 ***
 
@@ -605,7 +605,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click : The Download (&darr;) Arrow in the upper right corner
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/243565ac-e227-44e9-b340-d7d9b0eb8648"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/99d3d799-3810-41ba-a13a-546836651291"><br>
 
 ***
 
@@ -615,7 +615,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Open: `php.7.3.8`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/64200858-d6a0-40a8-85af-7b0e4f1fb000"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/95210981-7d56-4657-9d4f-9fe10429d6d4"><br>
 
 ***
 
@@ -625,7 +625,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Extract All`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56e6545a-48d5-45df-b861-fd6624203d5b"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fa92591b-55db-4434-a0fc-4cc8823763c8"><br>
 
 ***
 
@@ -633,7 +633,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Browse`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4653e904-d198-4b43-b88e-01d3c322a9f0"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f688b04-f510-4f57-9749-f8bae9e0a3f3"><br>
 
 ***
 
@@ -641,7 +641,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Go To: `This PC` > `Windows (C:)` > `PHP`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/26564e01-7ad7-44d5-a27e-32877be87ab4"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fad328b2-3d4e-4668-ad14-920de414b310"><br>
 
 ***
 
@@ -649,7 +649,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `select Folder` (*PHP*)
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e8cf932-6f8d-4dd0-ae01-e7b746292449"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f673ed81-b6f4-4a26-910c-17726df34ec2"><br>
 
 ***
 
@@ -657,7 +657,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Extract`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/101abf72-f1e0-4f47-aec7-70d9b13fcc0f"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/514000ee-6a7c-4575-b7c6-591381562314"><br>
 
 ***
 
@@ -667,7 +667,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Double-Click: `PHP`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f16a0e69-05ab-4d29-a9f1-792d6725f540"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/020501bb-8112-464b-b9ef-7ecb823913f4"><br>
 
 ***
 
@@ -675,7 +675,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Now you will see the php.7.3.8 file inside the PHP directory, as seen in the image below.
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c1a99257-42a0-4c01-b687-102532db493a"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6511b61-033a-46ff-9714-50b664e19c73"><br>
 
 ***
 
@@ -691,7 +691,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Install`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5ec96900-768b-453e-b488-f1b94f83cf2b"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/170a61c1-fe3c-419f-8059-269bf6a5455c"><br>
 
 ***
 
@@ -701,7 +701,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Close` when it is done installing
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b96dbd82-60af-4e75-ac96-da2fb3f84ad7"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/57eb8907-d6da-4abc-b39b-5d945d62c55f"><br>
 
 ***
 
@@ -713,7 +713,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Click: `Next`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/59367782-74b6-4408-bf3f-ebe28a2c302b"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/44a36637-43cc-4fcb-9d9b-6eb64c4315a4"><br>
 
 ***
 
@@ -725,7 +725,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Click: `Next`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/aed0ccff-df67-4e94-9c7a-a98c86162d04"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -735,7 +735,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Next`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8a137fe1-f0da-47a2-a339-693b5bfeb138"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -743,7 +743,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Install`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/dbdb61d6-ea10-4370-8ed3-bdd01ed79710"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
