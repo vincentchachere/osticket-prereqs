@@ -1162,7 +1162,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Next`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4ed4fec3-24b4-4e5c-9b0a-90308fef3a65"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9122a6b-f4c2-4055-95f8-86951eab4e8b"><br>
 
 ***
 
@@ -1170,7 +1170,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Next`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/5496fa65-221c-40cf-b54f-47d21dc7a73c"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9c392d33-b538-4fe4-99a8-52d60a64cd8c"><br>
 
 ***
 
@@ -1178,7 +1178,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Next`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7474f214-7c07-400a-835c-fd9818e144b9"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/316b780e-beeb-438d-9ca6-26dbc2296972"><br>
 
 ***
 
@@ -1186,7 +1186,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Next`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6db50674-e510-42ea-9be7-f8536b58c51e"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/75b5fe1c-9bb3-4fff-b073-e261d51953d1"><br>
 
 ***
 
@@ -1194,7 +1194,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Install`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/df2466bc-7fa9-4d01-b963-ea5f82a285a5"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0411ef50-139c-47df-8316-a93dbe99e028"><br>
 
 ***
 
@@ -1202,7 +1202,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Finish`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2e10c9ca-7ae5-4ba3-8d1e-2df63eb17c28"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db333d2d-2f51-4fb9-91a2-fd693a47e50b"><br>
 
 ***
 
@@ -1210,7 +1210,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Skip`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fc4d90e6-dce0-4855-9083-e5eb1635214b"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/901c0dfa-d425-4c6e-b9d4-0876d34c131e"><br>
 
 ***
 
@@ -1222,7 +1222,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Open` to connect to session
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/24c03e10-8937-4a5d-b964-d56c2450975b"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/51779cfc-4be7-4a12-8a82-944298bc67bd"><br>
 
 ***
 
@@ -1230,7 +1230,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Right-Click: `Unamed` > Click: `Create new` > Click: `Database`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d70e6f94-2a42-4e7e-b380-b907fb3f964f"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ff3b586-e13e-43e6-9bf4-35e5bc921f57"><br>
 
 ***
 
@@ -1240,7 +1240,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Ok`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9ffb84cf-ef45-45f0-8240-a4608fb136a2"><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c806266-acbb-492c-a24b-e33bee43957f"><br>
 
 ***
 
