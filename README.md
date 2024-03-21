@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a Resource Group
 - Create a Virtual Machine inside the Resource Group
 - Connect Virtual Machine with Remote Desktop
-- Download & Install [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- Download & Install Installation Files
 - Install/Enable IIS in Windows
 - Enable Extensions for osTicket
 - Rename: ost-config.php
