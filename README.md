@@ -1120,7 +1120,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - *observe the changes*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ae36821-513d-49e6-84ec-ab5f87b4b0a4"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2efefb03-ac37-4cbd-85e4-08d88787e3de"><br>
 
 ***
 
@@ -1133,7 +1133,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Double-Click: `osTicket`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0c3e6b54-eeeb-4a51-8707-90e7c4b824fa"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b38819f3-c9e7-4c11-a6e0-f39d3de4f4ee"><br>
 
 ***
 
@@ -1142,7 +1142,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Double-Click: `include`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84575042-8a22-469d-b642-587861c163e8"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3f8b1c3c-01c9-46a2-a23e-5336a441bfd3"><br>
 
 ***
 
@@ -1161,7 +1161,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Press: `Enter` when done typing in the name
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8531889f-57a2-4d19-8a6b-67c650e109e4">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c0e4ab41-43ce-4591-8454-4eae38bec613">
 
 ***
 
@@ -1172,7 +1172,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: `Properties`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6775fcf0-4d0c-45e1-a724-9dc414d29311"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1acd9457-2365-4163-9fcc-c273ae85a833"><br>
 
 ***
 
@@ -1187,7 +1187,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: `Remove all inherited permissions from this object.`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/164837d4-9e9d-4f02-8daf-185919f56422"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b0a950c8-51f1-48b2-b757-d0edeebfc9ab"><br>
 
 ***
 
@@ -1200,11 +1200,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: `Ok`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3986865e-f77e-4134-98bb-1dea6c6a690b"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/63e662f4-ada6-417a-81c2-d5668c39065d"><br>
 
 ***
 
-### 32.C ) Assign Permissions To: ost-config.php
+### 32.D ) Assign Permissions To: ost-config.php
 
 - Select: `Full Control` *(make sure all boxes are checked as seen in the image below)*
 
@@ -1213,7 +1213,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: `Ok`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/843fd85c-e38b-43b5-b66e-24e5e14ae378"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c932691e-0f52-4cb3-9f75-069499a2a54b"><br>
 
 ***
 
@@ -1224,11 +1224,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: `Continue` 
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/45d6f331-16d8-4199-9b81-e03dc41b38e2"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db18a130-c73e-41f6-b15e-3acd07c1f4bf"><br>
 
 ***
 
-### 34.A ) Continue Setting up osTicket in the browser
+### 34. ) Continue Setting up osTicket in the browser
 
 - Helpdesk Name: `Helpdesk`
 
@@ -1246,7 +1246,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Password: *AnythingYouWant* *(just remember it)*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/861e533c-76c0-43b3-b1c7-5ea17d1be6f8"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/25255d72-3702-4528-9c1a-180bd627eac6"><br>
 
 ***
 
