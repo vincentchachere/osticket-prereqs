@@ -1230,20 +1230,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 34. ) Continue Setting up osTicket in the browser
 
-- Helpdesk Name: `Helpdesk`
+- <ins>Insert the following information</ins>:
 
-- Default Email: `yourfirstname@helper.com`
+  - Helpdesk Name: `Helpdesk`
 
-- First Name: *AnythingYouWant* *(just remember it)*
+  - Default Email: `yourfirstname@helper.com`
 
-- Last Name: *AnythingYouWant* *(just remember it)*
+  - First Name: *AnythingYouWant* *(just remember it)*
 
-- Email Address: `yourfirstname@gmail.com`
+  - Last Name: *AnythingYouWant* *(just remember it)*
+
+  - Email Address: `yourfirstname@gmail.com`
   - *AnythingYouWant* *(just remember it)*
 
-- Username: *AnythingYouWant* *(just remember it)*
+  - Username: *AnythingYouWant* *(just remember it)*
 
-- Password: *AnythingYouWant* *(just remember it)*
+  - Password: *AnythingYouWant* *(just remember it)*
+
+- *Before finishing the setup we need to dwnload HiediSQL first, so go to the next step (35.A). We'll come right back to this after.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/25255d72-3702-4528-9c1a-180bd627eac6"><br>
