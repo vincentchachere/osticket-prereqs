@@ -1055,7 +1055,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: `Enable or Disable Extensions`
 
 <p align="center">
-<img width="800" alt="isolated" src=""><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6217973d-367a-4007-8e7d-3b09419794d0"><br>
 
 ***
 
@@ -1066,7 +1066,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: `Enable`
 
 <p align="center">
-<img width="800" alt="isolated" src=""><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fb7ac977-81e9-41b7-a397-34b53643734c"><br>
 
 ***
 
@@ -1077,7 +1077,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: `Enable`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/97575f63-2d21-4113-8012-852224fe0ffb"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fc6242b4-4676-4d9a-8432-8b7b728dcda4"><br>
 
 ***
 
@@ -1088,7 +1088,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: `Enable`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/748526b0-3631-4115-8b09-2fbe5c796a23"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/063d7e76-b27c-454f-b2ff-eed9ed49343d"><br>
 
 ### 29.F ) Enable Extensions for osTicket
 
@@ -1105,7 +1105,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click: The `osTicket` folder to the left in your 'Connections' section.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d08c24c3-9f19-44bc-a6e7-aebecb62886a"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/48fe9a8f-2512-4ed9-b094-b3e2244352b5"><br>
 
 ***
 
