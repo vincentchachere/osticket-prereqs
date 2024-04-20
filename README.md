@@ -1488,3 +1488,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e5bb86f6-de48-47f3-bcb5-97cbb620e6d8"><br>
 
 ***
+
+☎️ For any questions, concerns, or just to connect, you can contact me at:
+
+📲 LinkedIn: www.linkedin.com/in/vincentchachere
+
+📬 Email: vincent.chachere@gmail.com
+
+(No soliticing, only real connections, please and thank you.)
