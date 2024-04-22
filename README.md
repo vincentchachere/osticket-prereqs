@@ -21,11 +21,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a Virtual Machine inside the Resource Group
 - Connect Virtual Machine with Remote Desktop
 - Download & Install [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-- Install/Enable IIS in Windows
-- Enable Extensions for osTicket
-- Rename: ost-config.php
-- Assign Permissions To: ost-config.php
-- Create a database for 'osTicket'
+  - Install/Enable IIS in Windows
+  - Enable Extensions for osTicket
+  - Rename: ost-config.php
+  - Assign Permissions To: ost-config.php
+  - Create a database for 'osTicket'
 - Clean Up Resources
 - Change File Permissions
 
@@ -37,7 +37,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ***
 
-## 📝 Installation Steps - Part A: Create a Resource Group
+<details>
+
+<summary>
+
+## 👣 Part A: Create a Resource Group
+
+</summary>
 
 ### 1. ) Create a Resurce Group
 
@@ -131,7 +137,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ***
 
-## 📝 Installation Steps - Part B: Create a `Virtual Machine`
+</details>
+
+<details>
+
+<summary>
+
+## 👣 Part B: Create a Virtual Machine
+
+</summary>
 
 ### 7. ) Create a Virtual Machine inside the Resource Group
 
@@ -250,8 +264,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ***
 
-## 📝 Installation Steps - Part C: Remote Desktop into VM, Install Prerequisites, and Install osTicket
+</details>
 
+<details>
+
+<summary>
+
+## 👣 Part C: Remote Desktop into your VM
+
+</summary>
 
 ### 14.A ) Connect your Virtual Machine to Remote Desktop
 
@@ -333,6 +354,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
 
 ***
+
+</details>
+
+<details>
+
+<summary>
+
+## 👣 Part D: Install Prerequisites
+
+</summary>
 
 ### 16.A ) Install/Enable IIS in Windows
 
@@ -940,6 +971,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ***
 
+</details>
+
+<details>
+
+<summary>
+
+## 👣 Part E: Install osTicket
+
+</summary>
+
 ### 27.A ) Install osTicket v1.15.8
 
 - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
@@ -1400,7 +1441,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ***
 
-### 38.A ) Clean Up Resources
+</details>
+
+<details>
+
+<summary>
+
+## 👣 Part F: Clean Up Resources
+
+</summary>
 
 <ins>1st Thing - Delete: c:\inept\wwwroot\osTicket\\*'setup'*</ins>
 
@@ -1413,7 +1462,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ***
 
-### 38.B ) Change File Permissions
+</details>
+
+<details>
+
+<summary>
+
+## 👣 Part G: Change File Permissions
+
+</summary>
 
 <ins>2nd Thing - Set Permissions to 'Read' <ins>only</ins> for *'ost-config.php'*</ins>
 
@@ -1496,3 +1553,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 📬 Email: vincent.chachere@gmail.com
 
 (No soliticing, only real connections, please and thank you.)
+
+</details>
