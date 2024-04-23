@@ -1415,14 +1415,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 36.B ) Congratulations! Hopefully it is installed with no errors, but we are not finished just yet!
 
-- *Scroll down for further instruction*
+- *Scroll down to `Part G: Clean Up Resources` for further instructions on comlpleteing this lab.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4988fb-ea09-4432-b689-dedfe5b96449"><br>
 
 ***
 
-### 37. ) Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+</details>
+
+<details>
+
+<summary>
+
+## 👣 Part G: Clean Up Resources
+
+</summary>
+
+### 37.A ) Clean Up Resources
+
+- Browse to your help desk login page: `http://localhost/osTicket/scp/login.php`
 
 <ins>Before logging in we need to do 2 Things</ins>:
 
@@ -1434,28 +1446,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - 2nd Thing - Set Permissions to `Read` <ins>only</ins> for: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
-  - *Scroll down for further instruction*
+- *Scroll down to `Step 37.B` for further instruction*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94a00827-144e-435d-abaa-f2b052d6cb74"><br>
 
 ***
 
-</details>
+### 37.B ) Clean Up Resources
 
-<details>
-
-<summary>
-
-## 👣 Part F: Clean Up Resources
-
-</summary>
-
-<ins>1st Thing - Delete: c:\inept\wwwroot\osTicket\\*'setup'*</ins>
+<ins>1st Thing: Delete: c:\inept\wwwroot\osTicket\\`setup`</ins>:
 
   - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
 
-  - *scroll down for the 2nd Thing*
+- *Scroll down `Part H: Change File Permissions` for the 2nd Thing*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1fcc1edd-c8da-406e-aaee-495acdd2ab82"><br>
@@ -1468,26 +1472,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <summary>
 
-## 👣 Part G: Change File Permissions
+## 👣 Part H: Change File Permissions
 
 </summary>
 
-<ins>2nd Thing - Set Permissions to 'Read' <ins>only</ins> for *'ost-config.php'*</ins>
+<ins>2nd Thing: Set Permissions to 'Read' <ins>only</ins> for 'ost-config.php'</ins>:
 
-- File Explorer: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
+  - File Explorer: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
-  - Right-Click: *`ost-config.php`*
+    - Right-Click: *`ost-config.php`*
  
-  - Select: `Properties`
+    - Select: `Properties`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a532e9ec-56e1-44a6-a8e1-7e02bf41ef61"><br>
 
 ***
 
-### 38.C ) Change File Permissions
+### 38.A ) Change File Permissions
 
-<ins>2nd Thing - Set Permissions to 'Read' <ins>only</ins> for *'ost-config.php'*</ins>
+<ins>2nd Thing Set Permissions to 'Read' <ins>only</ins> for 'ost-config.php'</ins>:
 
 - Go To: `Security` > `Advanced` > `Edit`
 
@@ -1496,9 +1500,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ***
 
-### 38.D ) Change File Permissions
+### 38.B ) Change File Permissions
 
-<ins>2nd Thing - Set Permissions to 'Read' <ins>only</ins> for *'ost-config.php'*</ins>
+<ins>2nd Thing: Set Permissions to 'Read' <ins>only</ins> for 'ost-config.php'</ins>:
 
 - Only Check: `Read` and `Read & execute` 
 
