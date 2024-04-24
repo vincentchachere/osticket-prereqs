@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <summary>
 
-## 👣 Part A: Create a Resource Group
+## ⚙️ Part A: Create a Resource Group
 
 </summary>
 
@@ -143,7 +143,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <summary>
 
-## 👣 Part B: Create a Virtual Machine
+## ⚙️ Part B: Create a Virtual Machine
 
 </summary>
 
@@ -270,7 +270,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <summary>
 
-## 👣 Part C: Remote Desktop into your VM
+## ⚙️ Part C: Remote Desktop into your VM
 
 </summary>
 
@@ -361,7 +361,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <summary>
 
-## 👣 Part D: Install Prerequisites
+## ⚙️ Part D: Install Prerequisites
 
 </summary>
 
@@ -977,7 +977,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <summary>
 
-## 👣 Part E: Install osTicket
+## ⚙️ Part E: Install osTicket
 
 </summary>
 
@@ -1428,7 +1428,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <summary>
 
-## 👣 Part G: Clean Up Resources
+## ⚙️ Part G: Clean Up Resources
 
 </summary>
 
@@ -1472,7 +1472,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <summary>
 
-## 👣 Part H: Change File Permissions
+## ⚙️ Part H: Change File Permissions
 
 </summary>
 
