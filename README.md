@@ -1550,12 +1550,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ***
 
-☎️ For any questions, concerns, or just to connect, you can contact me at:
-
-📲 LinkedIn: www.linkedin.com/in/vincentchachere
-
-📬 Email: vincent.chachere@gmail.com
-
-(No soliticing, only real connections, please and thank you.)
+☎️ For any questions, or just to connect, you can message me at: www.linkedin.com/in/vincentchachere
 
 </details>
