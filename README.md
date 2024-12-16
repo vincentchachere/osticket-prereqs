@@ -1487,7 +1487,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </summary>
 
-<ins>2nd Thing: Set Permissions to 'Read' <ins>only</ins> for 'ost-config.php'</ins>:
+<ins>2nd Thing: Set Permissions to `Read` only for `ost-config.php`</ins>:
 
   - File Explorer: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
@@ -1502,7 +1502,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 38.A ) Change File Permissions
 
-<ins>2nd Thing Set Permissions to 'Read' <ins>only</ins> for 'ost-config.php'</ins>:
+<ins>2nd Thing Set Permissions to `Read` only for `ost-config.php`</ins>:
 
 - Go To: `Security` > `Advanced` > `Edit`
 
