@@ -1513,7 +1513,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 38.B ) Change File Permissions
 
-<ins>2nd Thing: Set Permissions to 'Read' <ins>only</ins> for 'ost-config.php'</ins>:
+<ins>2nd Thing: Set Permissions to `Read` only for `ost-config.php`</ins>:
 
 - Only Check: `Read` and `Read & execute` 
 
