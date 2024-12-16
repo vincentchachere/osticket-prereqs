@@ -1047,7 +1047,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Press: `Enter`
 
-  - *Spell it exactly like: `osTicket` (with a capital `T` and lowercase everything else)*
+  - Spell it exactly like this: `osTicket` (with a capital `T` and lowercase everything else)
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f19fba0-01d9-413c-97b3-8fc1b71c78f2"><br>
@@ -1056,7 +1056,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 28.A ) Refresh the osTicket site in your browser and observe the changes
 
-- Open: `IIS` *as an Administrator*
+- Open: `IIS` <ins>as an Administrator</ins>
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c9e6f828-a8e4-4087-be9a-c257ac61efbf"><br>
@@ -1074,9 +1074,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 28.C ) Refresh the osTicket site in your browser and observe the changes
 
-- Go to: `sites` > `Default` > `osTicket`
+- Go to: `Sites` > `Default Web Site` > `osTicket`
 
-- On the Right, Click: `Browse*: 80`
+- <ins>On the Right side of your IIS Manager</ins>:
+  - Click: `Browse*: 80`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fbad175e-01b3-4c3a-a8fb-8b2db19db2f6"><br>
@@ -1085,7 +1086,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 29.A ) Enable Extensions for osTicket
 
-- Go to: `sites` > `Default` > `osTicket`
+- Go to: `Sites` > `Default Web Site` > `osTicket`
 
 - Double-Click: `PHP Manager`
 
@@ -1138,7 +1139,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <ins>Verify all your extensions were enabled</ins>
 
-- You should see the 3 following extensions in the 'enabled' section:
+- You should see the 3 following extensions in the `enabled` section:
 
   - php_imap.dll
  
@@ -1161,7 +1162,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Click: `Browse*:80 (http)`
 
-- *observe the changes*
+- *Observe the changes*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2efefb03-ac37-4cbd-85e4-08d88787e3de"><br>
@@ -1192,7 +1193,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 31.C ) Rename: ost-config.php
 
-- Scroll: *`all the way down`*
+- *Scroll all the way down*
 
 - Right-Click: `ost-sampleconfig.php`
 
@@ -1228,7 +1229,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Select: `Disable Inheritance`
 
-- Click: `Remove all inherited permissions from this object.`
+- Click: `Remove all inherited permissions from this object`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b0a950c8-51f1-48b2-b757-d0edeebfc9ab"><br>
@@ -1241,7 +1242,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - *It should be underlined after you click 'Check Names'*
 
-- Click: `Ok`
+- Click: `OK`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/63e662f4-ada6-417a-81c2-d5668c39065d"><br>
@@ -1252,9 +1253,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Select: `Full Control` *(make sure all boxes are checked as seen in the image below)*
 
-- Click: `Ok`
+- Click: `OK`
 
-- Click: `Ok`
+- Click: `OK`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c932691e-0f52-4cb3-9f75-069499a2a54b"><br>
@@ -1384,7 +1385,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 35.I ) Create a Database for osTicket called `osTicket`
 
-- Right-Click: `Unamed` > Click: `Create new` > Click: `Database`
+- Right-Click: `Unamed`
+
+- Click: `Create new`
+
+- Click: `Database`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ff3b586-e13e-43e6-9bf4-35e5bc921f57"><br>
@@ -1419,7 +1424,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 36.B ) Congratulations! Hopefully it is installed with no errors, but we are not finished just yet!
 
-- *Scroll down to `Part G: Clean Up Resources` for further instructions on comlpleteing this lab.*
+<ins>Scroll down to `Part G: Clean Up Resources` for further instructions on comlpleteing this lab.</ins>
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4988fb-ea09-4432-b689-dedfe5b96449"><br>
@@ -1450,7 +1455,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - 2nd Thing - Set Permissions to `Read` <ins>only</ins> for: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
-- *Scroll down to `Step 37.B` for further instruction*
+<ins>Scroll down to `Step 37.B` for further instruction</ins>
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94a00827-144e-435d-abaa-f2b052d6cb74"><br>
@@ -1459,11 +1464,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 37.B ) Clean Up Resources
 
-<ins>1st Thing: Delete: c:\inept\wwwroot\osTicket\\`setup`</ins>:
+<ins>1st Thing</ins>:
+  
+  - Delete: c:\inept\wwwroot\osTicket\\`setup`
 
-  - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
+    - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
 
-- *Scroll down `Part H: Change File Permissions` for the 2nd Thing*
+<ins>Scroll down `Part H: Change File Permissions` for the 2nd Thing</ins>
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1fcc1edd-c8da-406e-aaee-495acdd2ab82"><br>
