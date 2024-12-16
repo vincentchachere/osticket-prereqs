@@ -367,7 +367,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 16.A ) Install/Enable IIS in Windows
 
-- Once connected and inside your Virtual Machine we'll need to install IIS by doing the following:
+<ins>Once connected and inside your Virtual Machine we'll need to install IIS by doing the following</ins>:
 
   - Right-Click: `Start` in the bottom left of your screen
 
@@ -382,7 +382,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Type In: `Control`
 
-- Press: `Enter` or Click: `Ok`
+- Press: `Enter`
+
+  or..
+
+- Click: `OK`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/87a7e808-6441-42db-859b-aa78c565d8a1"><br>
@@ -409,12 +413,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 16.E ) Install/Enable IIS in Windows
                               
-  - Enable: Internet Information Services (IIS)
+  - Enable: `Internet Information Services (IIS)`
  
   - Open & Enable: `World Wide Web Services`
     - `Check All Boxes` within this feature's folder
-
-- *scroll down in between images for further instruction*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/89eb3345-1c42-416f-9ea3-6fb101a9c499"><br>
@@ -423,13 +425,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 16.F ) Install/Enable IIS in Windows
 
--  While still inside the *World wide Web Service*:
+<ins>While still inside the World wide Web Service folder</ins>:
 
-  - Open the `Application Development Features` folder
+  - Open: `Application Development Features` folder
 
   - Enable: `CGI`
 
-- *Collapse Application Development Features folder*
+  - Collapse: `Application Development Features` folder
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4a86fcb4-b2e3-4247-89fa-725b7c4d7583"><br>
@@ -438,13 +440,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 16.G ) Install/Enable IIS in Windows
 
-- Enable: Common HTTP Features
+  - Enable: Common HTTP Features
 
-- Within the 'Common HTTP Fetures' feature folder
+<ins>Within the Common HTTP Fetures feature folder</ins>:
 
-  - Check: `All Boxes` *(within this feature's folder)*
+  - Check: `All Boxes` within this feature's folder
  
-  - Click: 'Ok'
+  - Click: `OK`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4a756f64-9ba3-45fb-a690-0ddf5bd5b4bd"><br>
@@ -462,7 +464,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 16.I ) Install/Enable IIS in Windows
 
-- When that's done Loading Click: `Close`
+<ins>When that's done loading<ins>:
+
+- Click: `Close`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/904c8fec-b77a-4efa-81fa-a62e801dc3fa"><br>
