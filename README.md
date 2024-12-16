@@ -523,14 +523,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - If you do not see the image displayed below then try uninstalling and reinstalling IIS
 
-  - *The `How To Uninstall and Reinstall Instructions` are directly underneath the image below.* 
+  - The `How To Uninstall and Reinstall Instructions` are directly underneath the image below
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c2dae78-f8bb-40ba-9f73-b24d60b25c91"><br>
 
 >**To Uninstall and Reinstall IIS do the following:**
 
->**Right-Click: `start` > Click: `Run` >**
+>**Right-Click: `Start` > Click: `Run` >**
 
 >**Type In: `Control` > Click: `Programs` >**
 
@@ -562,7 +562,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Click: `Open in new window`
 
-  - *Downloading it this way is the only way I've found where it does not take so long, and it downloads the first time instead of having to do multiple attempts.* 
+- *Downloading it this way is the only way I've found where it does not take so long, and it downloads the first time instead of having to do multiple attempts.* 
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c65e858-f02e-4a8f-91e3-961c718d1956"><br>
@@ -581,7 +581,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 >**Sometimes when the file downloads it does not pop up, so I wanted to show you both ways.**
 
->**You can also simply go to your `File Explorer` > `Downaloads` > Double-Click: `PHPManagerforIIS_V1.5.0`**
+>**You can also simply go to your `File Explorer` > `Downloads` > Double-Click: `PHPManagerforIIS_V1.5.0`**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e55e776c-9ea1-491a-9d10-3cd0bc79db5e"><br>
@@ -623,7 +623,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Open: The `rewrite_amd64_en-US.msi` file when it pops up
 
-- Check: The Box *'I accpet the terms in the License Agreement'*
+- Check the Box: `I accept the terms in the License Agreement`
 
 - Click: `Install`
 
@@ -643,7 +643,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 20.A ) Create Directory C:\PHP
 
-- Go To: `File Explorer` > `This PC` > `Windows (C:)` > 
+- Go To: `File Explorer` > `This PC` > `Windows (C:)`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/42973b96-7bf7-4e37-b824-6c46ee8d7bdf"><br>
@@ -734,7 +734,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 21.G ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- Click: `select Folder` (*PHP*)
+- Click: `Select Folder` (*PHP*)
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f673ed81-b6f4-4a26-910c-17726df34ec2"><br>
@@ -774,9 +774,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 23.A ) Download VC_redist.x86.exe
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download VC_redist.x86.exe
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and Download: `VC_redist.x86.exe`
 
-  - *I will let you do the <ins>downloading</ins> steps on your own now, so that you can learn. Refer to previous steps for instruction (You got this! I believe in you!😁)*
+  - *I will let you do the <ins>downloading</ins> steps on your own now, so that you can learn. Refer to previous steps for guidance.*
 
 - Check: The `I agree to the license terms and conditions` Box
 
@@ -800,7 +800,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 24.A ) Download MySQL 5.5.62
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and download MySQL 5.5.62
+- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and Download: `MySQL 5.5.62`
 
 - <ins>When the pop-up below shows up</ins>:
 
@@ -950,7 +950,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 25.E )  Open IIS as an Administrator and Register PHP from within IIS
 
-- Click: `Ok`
+- Click: `OK`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a21252a1-3b62-4a60-8aa3-3003cf90d008"><br>
@@ -1019,11 +1019,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - When you open the second File Explorer:
 
- - Go To: 'This PC' > 'Windows (C:)' > 'inetpub' > `wwwroot`
+ - Go To: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
 
 - <ins>Drag and Drop `upload` into</ins>:
 
-  - 'This PC' > 'Windows (C:)' > 'inetpub' > `wwwroot`
+  - `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/54aa0527-e724-48f3-898c-0c1797462f43"><br>
@@ -1032,7 +1032,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 27.D ) Install osTicket v1.15.8
 
-- Right-Click: `upload` *(the 'upload' that is in the new File Explorer you just opened)*
+- Right-Click: `upload` (*the `upload` that is in the new File Explorer you just opened*)
 
 - Click: `Rename`
 
