@@ -554,7 +554,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Open: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-  - Open the Installation Files into a seperate tab or split screen as seen below, so that you can easily access them throught out this lab.
+- Open the Installation Files into a seperate tab or split screen as seen below, so that you can easily access them throught out this lab.
 
   - Double-Click: `PHP Manager`
 
