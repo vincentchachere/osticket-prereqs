@@ -47,11 +47,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 1. ) Create a Resurce Group
 
-<ins>Starting at the 'Home' screen in your Microsoft Azure Portal:</ins>
+<ins>Starting at the Home screen in your Microsoft Azure Portal:</ins>
 
 - Click: the `Resource Groups` icon that's already on your home screen
 
-- or..
+  or..
 
 - Search: `Resource Groups` and click that one (They do the same thing)
 
@@ -62,11 +62,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 2. ) Create a Resurce Group
 
-- Click `Create` to start your Resource Group
+- Click: `Create` to start your Resource Group
 
-- Or..
+  or..
 
-- You can click the blue 'Create' in the middle of the screen as well, and it will take you to the same place.
+- You can click the blue `Create` in the middle of the screen (They do the same thing)
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56fec2c9-0ba3-4e35-8c26-6bc6e7e6313b"><br>
@@ -81,22 +81,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Region: `(US) West US 3`
 
-- *Scroll Down*
-
- >**ATTENTION: Double check spelling when creating anything (resource groups, virtual machines, etc.) or you will have to delete all your work and start over, because the information you input will NOT be able to be able to be edited once it's created (name, region, etc.)**
-
 <p align="center">
 <img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4829d10a-d483-4c28-93a1-64034a6e0cf3"><br>
+
+>**ATTENTION: Double check spelling when creating anything (resource groups, virtual machines, etc.) or you will have to delete all your work and start over, because the information you input will NOT be able to be able to be edited once it's created (name, region, etc.)**
 
 ***
 
 ## 4. ) Create a Resurce Group
 
-- Click `Review + Create`
+- Click: `Review + Create`
 
-- Dont worry about the 'Tags' section, we don't need that part for this lab.
-
-- The 'Tags' section is used for organizational purposes.
+- *Dont worry about the 'Tags' section, it's used for organizational purposes, and we don't need that part for this lab.*
 
 <p align="center">
 <img width="800" alt="F462BC66-31ED-444E-A61B-CD02C75151FD" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/22252a11-ece8-4e38-873c-f6faf00efe29"><br>
@@ -107,9 +103,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## 5. ) Review and Create!
 
-- *Verify Your Resource Group Information Before Continuing*
+<ins>Verify Your Resource Group Information Before Continuing</ins>:
 
-- Click `Create` to awaken your resource group!
+  - Click: `Create`
 
 <p align="center">
 <img width="800" alt="6353AD56-C708-4D3D-ABEB-7C29A8E42E5F" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f2d3265-2f3f-457f-a710-1be04c7d9545"><br>
@@ -120,11 +116,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 6. ) You're done creating you're Resource Group!
 
-- You should see the 'Successfully Ceated Resource Group Notification' in the top right corner of your screen.
+<ins>You should see the `Successfully Ceated Resource Group Notification` in the top right corner of your screen</ins>:
 
-- Click: `Refresh` if you dont see your Resource Group, then..
+  - Click: `Refresh`
+  
+    If you dont see your Resource Group, then..
 
-- Click your resource group `RG-osTicket` to enter into the next part of this lab.
+  - Click: Your Resource Group `RG-osTicket` to enter into the next part of this lab.
 
 <p align="center">
 <img width="800" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2981d35-3f56-4b35-a47d-d2dafd1600a6"><br>
@@ -149,9 +147,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 7. ) Create a Virtual Machine inside the Resource Group
 
-- `Search:` Virtual Machine
+- Search: `Virtual Machine`
 
-- `Click:` Virtual Machine
+- Click: `Virtual Machine`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f81d1869-9805-40b1-b4b9-76aa85c0f751"><br>
@@ -187,8 +185,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Image: `Windows 10 Pro, version 22H2 - ×64 Gen2`
 
-- *Scroll Down once completed*
-
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0f114991-5378-4dfa-ac2d-cbded1d74006"><br>
 
@@ -202,15 +198,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Size: `Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
 
-- `Username:` vincentchachere (this can be whatever your heart desires)
+- Username: `vincentchachere` (this can be whatever your heart desires)
 
-- `Password:` whatever-you-want (Just remember it!)
+- Password: `whatever-you-want` (Just remember it!)
 
 - Public Inbound Ports: `Allow Selected Ports`
 
 - Select Inbound Ports: `RDP (3389)`
 
-- *`Check the Box`*
+- Check: `the Box`
 
 - Click: `Review and Create`
 
@@ -221,7 +217,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 11. ) Create a Virtual Machine inside the Resource Group
 
-- `Review` your information and `Create` your Virtual Machine!
+<ins>Review your information then</ins>:
+
+  - Click: `Create`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bd8c8d4b-ab9f-4c50-98bc-813db9816512"><br>
@@ -251,9 +249,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 13. ) Create a Virtual Machine inside the Resource Group
 
-<ins>Now we are at our Virtual Machine's 'Overview Page' that is inside our Azure Portal</ins>
-
-- (we are not inside the VM yet)
+<ins>We're now at our Virtual Machine's `Overview Page` that is inside our Azure Portal (we are not inside the VM yet)</ins>:
 
 - This is where you can navigate your VM's information.
 
@@ -276,11 +272,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 14.A ) Connect your Virtual Machine to Remote Desktop
 
-- `Copy` your VM's (vm-osticket) `Public IP Address`
+- Copy your VM's (vm-osticket): `Public IP Address`
 
-- `Verify` your `VM is running` before continuing
-
-- *Scroll down in between images for the next few instructions for Step 14*
+- Verify your VM is running before continuing
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c4aa663f-dba3-47cf-8239-255404bd541c"><br>
@@ -293,7 +287,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Type In: `Remote Desktop`
 
-- Now Click: `Microsoft Remote Desktop`
+- Click: `Microsoft Remote Desktop`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84202fbf-d46c-43f7-a126-837f4b32e1fa"><br>
@@ -322,7 +316,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 15.A ) Connect your Virtual Machine to Remote Desktop
 
-- Righ-Click: Your Remote Desktop Account
+- Righ-Click: `Your Remote Desktop Account`
 
 - Click: `Connect`
 
@@ -333,9 +327,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 15.B ) Connect your Virtual Machine to Remote Desktop
 
-- `Username:` vincentchachere (whatever you typed in at the beginnning of Part B: Step 9)
+- Username: `vincentchachere` (whatever you typed in at the beginnning of Part B: Step 9)
 
-- `Password:` *YourPassword* (whatever you typed in at the beginnning of Part B: Step 9)
+- Password: `Your Password` (whatever you typed in at the beginnning of Part B: Step 9)
 
 - Click: `Continue`
 
@@ -346,9 +340,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 15.C ) Connect your Virtual Machine to Remote Desktop
 
-- *Uncheck: `All Boxes`*
+- Uncheck: `All Boxes`
 
-- *Click: `Accept`*
+- Click: `Accept`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
@@ -380,7 +374,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 16.B ) Install/Enable IIS in Windows
 
-- Type In: `Control`
+- Type In: `Control Panel`
 
 - Press: `Enter`
 
@@ -488,7 +482,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 17.B ) Open Microsoft Edge to Test IIS
 
-- Uncheck the Box
+- Uncheck: `the Box`
 
 - Click: `Continue and Conirm`
 
@@ -508,7 +502,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 17.D ) Open Microsoft Edge to Test IIS
 
-- Uncheck the Box
+- Uncheck: `the Box`
 
 - Click: `Confirm and start browsing`
 
@@ -554,7 +548,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Open: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-- Open the Installation Files into a seperate tab or split screen as seen below, so that you can easily access them throught out this lab.
+<ins>Open the Installation Files into a seperate tab or split screen as seen below, so that you can easily access them throught out this lab</ins>:
 
   - Double-Click: `PHP Manager`
 
@@ -562,7 +556,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - Click: `Open in new window`
 
-- *Downloading it this way is the only way I've found where it does not take so long, and it downloads the first time instead of having to do multiple attempts.* 
+*Downloading this way is the only method I've found that is quick and successful on the first try, without needing multiple attempts.* 
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c65e858-f02e-4a8f-91e3-961c718d1956"><br>
@@ -575,9 +569,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - <ins>Now you can Either:</ins>
 
-  - Wait for it to pop up when its done loading or.. &darr;
+  - Wait for it to pop up when its done loading
+  
+    or..
 
-  - Click: The `...` Dots in the upper left corner of your screen and Click: `Downloads`
+  - Click: The `...` Dots in the upper right corner of your screen and Click: `Downloads`
 
 >**Sometimes when the file downloads it does not pop up, so I wanted to show you both ways.**
 
