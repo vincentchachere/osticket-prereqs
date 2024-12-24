@@ -892,7 +892,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Enable Extensions for osTicket</ins>:
 
-- Right-Click: `php_intel.dll`
+- Right-Click: `php_intl.dll`
 
 - Click: `Enable`
 
@@ -914,17 +914,15 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Enable Extensions for osTicket</ins>:
 
-<ins>Verify all your extensions were enabled</ins>
+*Verify all your extensions were enabled*
 
 - You should see the 3 following extensions in the `enabled` section:
 
   - php_imap.dll
  
-  - php_intel.dll
+  - php_intl.dll
 
   - php_opache.dll
-
-- Click: The `osTicket` folder to the left in your 'Connections' section.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d07178ce-15be-4b69-af43-f9c5107d5bb7">
@@ -940,8 +938,6 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Refresh` that is in your `IIS Manager`
 
 - Click: `Browse*:80 (http)`
-
-- *Observe the changes*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2efefb03-ac37-4cbd-85e4-08d88787e3de">
