@@ -296,7 +296,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 *The `How To Uninstall and Reinstall Instructions` are directly underneath the image below.*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c2dae78-f8bb-40ba-9f73-b24d60b25c91"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c2dae78-f8bb-40ba-9f73-b24d60b25c91">
 
 *<ins>To Uninstall and Reinstall IIS do the following</ins>:*
 
@@ -324,123 +324,101 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 6. ) Download PHP Manager for IIS
 
+*Open the installation files in a separate tab and set up a split screen as shown below for easy access throughout the lab.*
+
 - Open: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-<ins>Open the Installation Files into a seperate tab or split screen as seen below, so that you can easily access them throught out this lab</ins>:
-
-  - Double-Click: `PHP Manager`
+  - Double-Click: `PHP ManagerForIIS_v1.5.0.msi`
 
   - Click: The `...` Dots in the upper right of your screen next to the 'Share' button
 
   - Click: `Open in new window`
 
-*Downloading this way is the only method I've found that is quick and successful on the first try, without needing multiple attempts.* 
+*I've found that this method is the quickest and most reliable way to ensure a successful download on the first attempt, avoiding multiple tries.* 
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c65e858-f02e-4a8f-91e3-961c718d1956"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ced7d37b-baf3-4cb4-b165-a35a7185937a">
 
 <br>
 <br>
 <br>
 
-### 18.B ) Download PHP Manager for IIS
+<ins>Downloading PHP Manager for IIS</ins>:
 
 - Click: `Download anyway`
 
-- <ins>Now you can Either:</ins>
+*You can either wait for it to pop up when its done loading or click the `...` Dots in the upper right corner of your screen then click `Downloads`. As well, you can go to `File Eplorer`, navigate to your `Downloads`, then select `PHP Manager`.*
 
-  - Wait for it to pop up when its done loading
-  
-    or..
-
-  - Click: The `...` Dots in the upper right corner of your screen and Click: `Downloads`
-
->**Sometimes when the file downloads it does not pop up, so I wanted to show you both ways.**
-
->**You can also simply go to your `File Explorer` > `Downloads` > Double-Click: `PHPManagerforIIS_V1.5.0`**
+*Sometimes the file doesn’t pop up after downloading, so I’m showing you both methods to access it.*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e55e776c-9ea1-491a-9d10-3cd0bc79db5e"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/a5b48037-ee60-470d-99bb-c08ce2027c9c">
 
 <br>
 <br>
 <br>
 
-### 18.C ) Download PHP Manager for IIS
+<ins>Downloading PHP Manager for IIS</ins>:
 
-- Click :`Next`
+- Open: the `PHP Manager` download
+
+- Click: `Next`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d259bf88-439b-42cc-9375-166f003d8808"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d259bf88-439b-42cc-9375-166f003d8808">
 
 <br>
 <br>
 <br>
 
-### 18.D ) Download PHP Manager for IIS
+<ins>Downloading PHP Manager for IIS</ins>:
 
 - Select: `I Agree`
 
 - Click: `Next`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9199a0ea-972d-455c-9408-5365677ed221"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9199a0ea-972d-455c-9408-5365677ed221">
 
 <br>
 <br>
 <br>
 
-### 18.E ) Download PHP Manager for IIS
+<ins>Downloading PHP Manager for IIS</ins>:
 
 - Click: `Close`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ac09a285-6c4a-4ae0-8c33-2098d337d6f6"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ac09a285-6c4a-4ae0-8c33-2098d337d6f6">
 
 <br>
 <br>
 <br>
 
-### 19.A ) Download Rewrite Module
+### 7. ) Download Rewrite Module
+
+*Download Rewrite Module the same way you did for PHP Manager*
 
 - Double-Click: `rewrite_amd64_en-US.msi`
 
-- Open: The `rewrite_amd64_en-US.msi` file when it pops up
+- Open: the `rewrite_amd64_en-US.msi` download
 
-- Check the Box: `I accept the terms in the License Agreement`
+- Check: the `I accept the terms in the License Agreement` box
 
 - Click: `Install`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3cc3863b-44d7-4b20-b781-71830ae56f1d"><br>
-
-<br>
-<br>
-<br>
-
-### 19.B ) Download Rewrite Module
 
 - Click: `Finish`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f8035ed7-c04b-4425-9044-8a20529b8a89"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4dc65b4d-1b9e-455d-9045-f52b74fad6bd">
 
 <br>
 <br>
 <br>
 
-### 20.A ) Create Directory C:\PHP
+### 8. ) Create Directory C:\PHP
 
 - Go To: `File Explorer` > `This PC` > `Windows (C:)`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/42973b96-7bf7-4e37-b824-6c46ee8d7bdf"><br>
-
-<br>
-<br>
-<br>
-
-### 20.B ) Create Directory C:\PHP
 
 - Right-Click: The `empty space under the files`
 
@@ -448,132 +426,134 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 - Click: `Folder`
 
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a45390d8-3afe-4c32-b5a6-2a9e939e322f"><br>
-
-<br>
-<br>
-<br>
-
-### 20.C ) Create Directory C:\PHP
-
 - Type In: `PHP`
 
 - Press: `Enter`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/99f82c56-1dd3-4162-b83d-c50aea410ef9"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d22ce8c2-06e5-4c52-b4c4-e6a0209efbc9">
 
 <br>
 <br>
 <br>
 
-### 21.A ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+<ins>Creating PHP Directory</ins>:
+
+*You should see your new PHP Directory inside your Windows (c:) Drive when your done.*
+
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/1b5f5158-5e53-4950-8907-a23d7bd42c05">
+
+<br>
+<br>
+<br>
+
+### 9. ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
 - Double-Click: `PHP 7.3.8`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/447917dd-3b9c-454c-9c18-67e56cb418f2"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/447917dd-3b9c-454c-9c18-67e56cb418f2">
 
 <br>
 <br>
 <br>
 
-### 21.B ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
 - Click : The `Download (&darr;) Arrow` in the upper right corner
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/99d3d799-3810-41ba-a13a-546836651291"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/99d3d799-3810-41ba-a13a-546836651291">
 
 <br>
 <br>
 <br>
 
-### 21.C ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
 - Click: `Download anyway`
 
 - Open: `php.7.3.8`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/95210981-7d56-4657-9d4f-9fe10429d6d4"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/95210981-7d56-4657-9d4f-9fe10429d6d4">
 
 <br>
 <br>
 <br>
 
-### 21.D ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
 - Right-Click: `php.7.3.8`
 
 - Click: `Extract All`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fa92591b-55db-4434-a0fc-4cc8823763c8"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fa92591b-55db-4434-a0fc-4cc8823763c8">
 
 <br>
 <br>
 <br>
 
-### 21.E ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
 - Click: `Browse`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f688b04-f510-4f57-9749-f8bae9e0a3f3"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f688b04-f510-4f57-9749-f8bae9e0a3f3">
 
 <br>
 <br>
 <br>
 
-### 21.F ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
 - Go To: `This PC` > `Windows (C:)` > `PHP`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fad328b2-3d4e-4668-ad14-920de414b310"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fad328b2-3d4e-4668-ad14-920de414b310">
 
 <br>
 <br>
 <br>
 
-### 21.G ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
 - Click: `Select Folder` (*PHP*)
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f673ed81-b6f4-4a26-910c-17726df34ec2"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f673ed81-b6f4-4a26-910c-17726df34ec2">
 
 <br>
 <br>
 <br>
 
-### 21.H ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
+<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
 - Click: `Extract`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/514000ee-6a7c-4575-b7c6-591381562314"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/514000ee-6a7c-4575-b7c6-591381562314">
 
 <br>
 <br>
 <br>
 
-### 22.A ) Check to see the php-7.3.8 made it into the PHP Directory
+<ins>Verify the php-7.3.8 made it into the PHP Directory</ins>:
 
 - Go Back To: `This PC` > `Windows (C:)` > `PHP`
 
 - Double-Click: `PHP`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/020501bb-8112-464b-b9ef-7ecb823913f4"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/020501bb-8112-464b-b9ef-7ecb823913f4">
 
 <br>
 <br>
 <br>
 
-### 22.C ) Check to see the php 7.3.8 made it into the PHP Directory
+<ins>Verify the php-7.3.8 made it into the PHP Directory</ins>:
 
 - Now you will see the php.7.3.8 file inside the PHP directory, as seen in the image below.
 
@@ -584,7 +564,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 23.A ) Download VC_redist.x86.exe
+### 10. ) Download VC_redist.x86.exe
 
 - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and Download: `VC_redist.x86.exe`
 
@@ -601,7 +581,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 23.B ) Download VC_redist.x86.exe
+<ins>Download VC_redist.x86.exe for IIS</ins>:
 
 - Click: `Close` when it is done installing
 
@@ -612,7 +592,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.A ) Download MySQL 5.5.62
+<ins>Download VC_redist.x86.exe for IIS</ins>:
 
 - Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and Download: `MySQL 5.5.62`
 
@@ -627,7 +607,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.B ) Download MySQL 5.5.62
+### 11. ) Download MySQL 5.5.62
 
 - <ins>When the pop-up below shows up</ins>:
 
@@ -642,7 +622,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.C ) Download MySQL 5.5.62
+<ins>Download MySQL 5.5.62 for IIS</ins>:
 
 - Select: `Typical Setup`
 
@@ -655,7 +635,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.D ) Download MySQL 5.5.62
+<ins>Download MySQL 5.5.62 for IIS</ins>:
 
 - Click: `Install`
 
@@ -666,7 +646,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.E ) Download MySQL 5.5.62
+<ins>Download MySQL 5.5.62 for IIS</ins>:
 
 - Check: The `Lanuch the MySQL Instance Configuration Wizard` Box
 
@@ -679,7 +659,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.F ) Download MySQL 5.5.62
+<ins>Download MySQL 5.5.62 for IIS</ins>:
 
 - Click: `Next`
 
@@ -690,7 +670,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.G ) Download MySQL 5.5.62
+<ins>Download MySQL 5.5.62 for IIS</ins>:
 
 - Select: `Standard Confirguration`
 
@@ -703,7 +683,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.H ) Download MySQL 5.5.62
+<ins>Download MySQL 5.5.62 for IIS</ins>:
 
 - Make sure your screen matches the image below and once you verify that it does..&darr;
 
@@ -716,7 +696,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.I ) Download MySQL 5.5.62
+<ins>Download MySQL 5.5.62 for IIS</ins>:
 
 - Type In: `The password you used to log into remote desktop.`
 
@@ -729,7 +709,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 24.J ) Download MySQL 5.5.62
+<ins>Download MySQL 5.5.62 for IIS</ins>:
 
 - Click : `Finish`
 
@@ -740,7 +720,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 25.A )  Open IIS as an Administrator and Register PHP from within IIS
+### 12. ) Open IIS as an Administrator and Register PHP from within IIS
 
 - Type: `IIS` into search bar at bottom left of your screen
 
