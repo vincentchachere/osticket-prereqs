@@ -3,7 +3,8 @@
 </p>
 
 # osTicket - Prerequisites and Installation
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+
+In this lab, we set up the osTicket helpdesk system by completing its prerequisites and installation. Using tools like Microsoft Azure, IIS, and Remote Desktop, we prepare a virtual environment, configure necessary components, and install osTicket step-by-step.
 
 ## Environments and Technologies Used
 
@@ -29,13 +30,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Clean Up Resources
 - Change File Permissions
 
-***
-
 ## Installation Files
 
 - https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
-
-***
 
 <details>
 
@@ -47,93 +44,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ### 1. ) Create a Resurce Group
 
-<ins>Starting at the Home screen in your Microsoft Azure Portal:</ins>
+*For assistance on creating Virtual Machines and Resource Groups go to my other lab [here](https://github.com/vincentchachere/virtual-machine)
 
-- Click: the `Resource Groups` icon that's already on your home screen
-
-  or..
-
-- Search: `Resource Groups` and click that one (They do the same thing)
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d273a110-a34c-4707-8a06-058d12c11cc5"><br>
-
-***
-
-### 2. ) Create a Resurce Group
-
-- Click: `Create` to start your Resource Group
-
-  or..
-
-- You can click the blue `Create` in the middle of the screen (They do the same thing)
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/56fec2c9-0ba3-4e35-8c26-6bc6e7e6313b"><br>
-
-***
-
-### 3. ) Create a Resurce Group
-
-<ins>Next, we'll input the following</ins>:
+<ins>Input the following Information</ins>:
 
 - Resource Group Name: `RG-osTicket`
 
 - Region: `(US) West US 3`
 
-<p align="center">
-<img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4829d10a-d483-4c28-93a1-64034a6e0cf3"><br>
-
->**ATTENTION: Double check spelling when creating anything (resource groups, virtual machines, etc.) or you will have to delete all your work and start over, because the information you input will NOT be able to be able to be edited once it's created (name, region, etc.)**
-
-***
-
-## 4. ) Create a Resurce Group
-
 - Click: `Review + Create`
 
-- *Dont worry about the 'Tags' section, it's used for organizational purposes, and we don't need that part for this lab.*
+- Click: `Create`
+
+*Double-check spelling when creating resources (e.g., resource groups, virtual machines). Names, regions, and similar inputs cannot be edited after creation. Errors may require deleting and restarting your work.*
 
 <p align="center">
-<img width="800" alt="F462BC66-31ED-444E-A61B-CD02C75151FD" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/22252a11-ece8-4e38-873c-f6faf00efe29"><br>
-
- >**NOTE: We have NOT finished creating the resource group yet by clicking 'Review + Create'. Microsoft Azure let's you double check (review) the information you input before finalizing (creating) your resource group. It also does this for virtual machines, so make it a habit to double check the information you type in, so that you don't have to erase everything you end up creating, because of one wrong letter.**
-
-***
-
-## 5. ) Review and Create!
-
-<ins>Verify Your Resource Group Information Before Continuing</ins>:
-
-  - Click: `Create`
-
-<p align="center">
-<img width="800" alt="6353AD56-C708-4D3D-ABEB-7C29A8E42E5F" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f2d3265-2f3f-457f-a710-1be04c7d9545"><br>
-
-***
-
-## Congrats!
-
-### 6. ) You're done creating you're Resource Group!
-
-<ins>You should see the `Successfully Ceated Resource Group Notification` in the top right corner of your screen</ins>:
-
-  - Click: `Refresh`
-  
-    If you dont see your Resource Group, then..
-
-  - Click: Your Resource Group `RG-osTicket` to enter into the next part of this lab.
-
-<p align="center">
-<img width="800" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e2981d35-3f56-4b35-a47d-d2dafd1600a6"><br>
-
- >**NOTE: Whenever you create a resource group or virtual machine and DO NOT see it in your Azure Portal in its correct location, there's two solutions to this:**
-
- >**First, refresh your Resource Group Default Directory (Search: Resource Group and you'll be in that section), and if that's unsuccessful..**
-
- >**Go through the steps again in this lab and if it doesn't let you create a resource group with the name 'RG-osTicket' (the name you originally typed in for the resurce group), then that's how you know the Resource Group is created, you will just have to wait a little longer and refresh your Resource Group Default Directory.**
-
-***
+<img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4829d10a-d483-4c28-93a1-64034a6e0cf3"><br>
 
 </details>
 
@@ -145,120 +71,36 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </summary>
 
-### 7. ) Create a Virtual Machine inside the Resource Group
+### 2. ) Create a Virtual Machine inside the Resource Group
 
-- Search: `Virtual Machine`
+<ins>Input the following Information</ins>:
 
-- Click: `Virtual Machine`
+*Fill in everything displayed in the image below.*
 
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f81d1869-9805-40b1-b4b9-76aa85c0f751"><br>
-
-***
-
-### 8. ) Create a Virtual Machine inside the Resource Group
-
-- Click one of the `Create` buttons to start creating your Virtual Machine
-
-<p align="center">
-<img width="800" alt="3C89D03C-0D84-4484-BFD6-79D2FBDF9012" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d2a8f586-58ac-4bea-99e8-919410d8d839"><br>
-
- >**Note: This is called your 'Virtual Machine Default Directory'**
-
-***
-
-### 9. ) Create a Virtual Machine inside the Resource Group
-
-<ins>Now we can put in key information for our Virtual Machine</ins>
-
-- Select your subscription
-
-- Resource Group Name: `RG-osTicket` (the one you created)
+- Select Resource Group Name: `RG-osTicket` (The one you created in Part A: Step 1)
 
 - Virtual Machine Name: `vm-osticket` (all lowercase)
 
 - Region: `(US) West 3`
 
-- Availability Options: `No infrastructure redundancy required`
-
-- Security Type: `Standard`
-
 - Image: `Windows 10 Pro, version 22H2 - ×64 Gen2`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0f114991-5378-4dfa-ac2d-cbded1d74006"><br>
-
->**Leave the 'VM Architecture' & 'Run with Azure Sport Discount' parts toward the bottom alone.**
-
-***
-
-### 10. ) Create a Virtual Machine inside the Resource Group
-
-<ins>As before, we will fill in the following</ins>:
 
 - Size: `Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
 
-- Username: `vincentchachere` (this can be whatever your heart desires)
+- Username: `vincentchachere` (this can be whatever you want - just remember it)
 
-- Password: `whatever-you-want` (Just remember it!)
+- Password: `whatever-you-want` (just remember it)
 
-- Public Inbound Ports: `Allow Selected Ports`
+- Check: The `Licensing` Box
 
-- Select Inbound Ports: `RDP (3389)`
+- Select: `Review and Create`
 
-- Check: `the Box`
-
-- Click: `Review and Create`
+- Click: `Create`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d25401ce-e384-4511-a592-9747b8bc9be9"><br>
-
-***
-
-### 11. ) Create a Virtual Machine inside the Resource Group
-
-<ins>Review your information then</ins>:
-
-  - Click: `Create`
-
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4081f85f-969f-44ba-b922-173a14e9ac78"><br>
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bd8c8d4b-ab9f-4c50-98bc-813db9816512"><br>
-
-***
-
-<p align="center">
-<img width="800" alt="7089B374-E68C-4593-A778-2A53F8D60FB4" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f58cd4a0-9004-40c1-9a3a-e7d4a9338641"><br>
-
-***
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/64898c62-a446-44ba-8b8f-a49278c26c64"><br>
-
-***
-
-### 12. ) Create a Virtual Machine inside the Resource Group
-
-<ins>Wait for your resources to load then</ins>:
-
-- Click: `Go to Resources`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1bd4eec6-f4e9-4329-9b97-722ee8a58024"><br>
-
-***
-
-### 13. ) Create a Virtual Machine inside the Resource Group
-
-<ins>We're now at our Virtual Machine's `Overview Page` that is inside our Azure Portal (we are not inside the VM yet)</ins>:
-
-- This is where you can navigate your VM's information.
-
-- This concludes Part B!
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d95f8b93-98e5-4448-89c7-a4e263b349b0"><br>
-
-***
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d2ce647d-88fe-440a-9a34-387d4cc3b56d"><br>
 
 </details>
 
@@ -266,79 +108,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <summary>
 
-## ⚙️ Part C: Remote Desktop into your VM
+## ⚙️ Part C: Remote Desktop into your Virtual Machine
 
 </summary>
 
-### 14.A ) Connect your Virtual Machine to Remote Desktop
+### 3. ) Connect your Virtual Machine to Remote Desktop
 
-- Copy your VM's (vm-osticket): `Public IP Address`
+*For assistance on connecting Virtual Machines to Remote Desktop go to Step 5 on [this lab](https://github.com/vincentchachere/virtual-machine)*
 
-- Verify your VM is running before continuing
+- Username: `vincentchachere` (whatever you created in Part B: Step 2)
 
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c4aa663f-dba3-47cf-8239-255404bd541c"><br>
-
-***
-
-### 14.B ) Connect your Virtual Machine to Remote Desktop
-
-- Press: `Command + Space Bar` at the same time to open up the Spotlight Search, then..
-
-- Type In: `Remote Desktop`
-
-- Click: `Microsoft Remote Desktop`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/84202fbf-d46c-43f7-a126-837f4b32e1fa"><br>
-
-***
-
-### 14.C ) Connect your Virtual Machine to Remote Desktop
-
-- Click: `Add PC`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/013afe59-3d68-4628-b0f3-723c0fc36ad2"><br>
-
-***
-
-### 14.D ) Connect your Virtual Machine to Remote Desktop
-
-- Paste: `vm-osticket's Public IP Address`
-
-- Click: `Add`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e86b149-9600-4237-8eb8-9fbed507411b"><br>
-
-***
-
-### 15.A ) Connect your Virtual Machine to Remote Desktop
-
-- Righ-Click: `Your Remote Desktop Account`
-
-- Click: `Connect`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bf3e054f-aa7f-496a-8152-f1159710c834"><br>
-
-***
-
-### 15.B ) Connect your Virtual Machine to Remote Desktop
-
-- Username: `vincentchachere` (whatever you typed in at the beginnning of Part B: Step 9)
-
-- Password: `Your Password` (whatever you typed in at the beginnning of Part B: Step 9)
+- Password: `Your Password` (whatever you created in Part B: Step 2)
 
 - Click: `Continue`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/78160742-2f17-4dc1-be20-d5a70c546110"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ccaac932-e865-4110-a96e-96d18b5b3cd0"><br>
 
-***
+<br>
+<br>
+<br>
 
-### 15.C ) Connect your Virtual Machine to Remote Desktop
+### 4. ) Connect your Virtual Machine to Remote Desktop
 
 - Uncheck: `All Boxes`
 
@@ -346,8 +137,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
-
-***
 
 </details>
 
