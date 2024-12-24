@@ -255,58 +255,30 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 - Wait for it to load...
 
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/81b5957a-ab51-4c47-8e46-91a8d3b3f961"><br>
-
-<br>
-<br>
-<br>
-
-<ins>Install and Enable IIS in Windows Virtual Machine</ins>:
-
-<ins>When that's done loading<ins>:
+- When that's done loading..
 
 - Click: `Close`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/904c8fec-b77a-4efa-81fa-a62e801dc3fa"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c42e5f4f-43d5-4ef7-812a-d6cced5d7741"><br>
 
 <br>
 <br>
 <br>
 
-### 17.A ) Open Microsoft Edge to Test IIS
+### 5. ) Open Microsoft Edge to Test IIS
+
+*Skip all the prompts it gives you when opening Microsoft edge*
 
 - Open: `Microsoft Edge` Internet Browser
 
 - Click: `Start without your data`
 
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e7c74b77-ca58-4c36-8623-b641438aee10"><br>
+- *Uncheck the Box*
 
-***
-
-### 17.B ) Open Microsoft Edge to Test IIS
-
-- Uncheck: `the Box`
-
-- Click: `Continue and Conirm`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/80a538a2-5fca-4ffb-b416-85f369c8c3df"><br>
-
-***
-
-### 17.C ) Open Microsoft Edge to Test IIS
+- Clcik :`Conirm and Continue`
 
 - Click: `Continue without this data`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2a8021d3-6634-45de-b25f-d2f63ad50ae7"><br>
-
-***
-
-### 17.D ) Open Microsoft Edge to Test IIS
 
 - Uncheck: `the Box`
 
@@ -315,42 +287,42 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e5c7aa4-97dd-4c8d-a09d-c9cafddda685"><br>
 
-***
-
-### 17.E ) Open Microsoft Edge to Test IIS
+<ins>Testing IIS on Microsoft Edge</ins>:
 
 - Type: `127.0.0.1` into the browser
 
   - If you do not see the image displayed below then try uninstalling and reinstalling IIS
 
-  - The `How To Uninstall and Reinstall Instructions` are directly underneath the image below
+*The `How To Uninstall and Reinstall Instructions` are directly underneath the image below.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c2dae78-f8bb-40ba-9f73-b24d60b25c91"><br>
 
->**To Uninstall and Reinstall IIS do the following:**
+*<ins>To Uninstall and Reinstall IIS do the following</ins>:*
 
->**Right-Click: `Start` > Click: `Run` >**
+- *Right-Click: `Start` > Click: `Run`*
 
->**Type In: `Control` > Click: `Programs` >**
+- *Type In: `Control` > Click: `Programs`*
 
->**Click: `Turn Windows on or off` >**
+- *Click: `Turn Windows on or off`*
 
->***Uncheck:* `IIS` > *Uncheck:* `World Wide Web Services` >**
+- *Uncheck: `IIS` > *Uncheck:* `World Wide Web Services`*
 
->***Uncheck:* `Application Development Features` (Inside World Wide Web Services) >**
+- *Uncheck: `Application Development Features` (Inside World Wide Web Services)*
 
->***Uncheck:* `CGI` (Application Development Features) >**
+- *Uncheck: `CGI` (Application Development Features)*
 
->***Uncheck:* `Common HTTP Feautures` (Inside World Wide Web Services) >**
+- *Uncheck: `Common HTTP Feautures` (Inside World Wide Web Services)*
 
->***Uncheck:* `HTTP Redirection` (Inside Common HTTP Feautures) >**
+- *Uncheck: `HTTP Redirection` (Inside Common HTTP Feautures)*
 
->***Uncheck:* `WebDAV Publishing` (Inside Common HTTP Feautures)**
+- *Uncheck: `WebDAV Publishing` (Inside Common HTTP Feautures)*
 
-***
+<br>
+<br>
+<br>
 
-### 18.A ) Download PHP Manager for IIS
+### 6. ) Download PHP Manager for IIS
 
 - Open: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
@@ -367,7 +339,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c65e858-f02e-4a8f-91e3-961c718d1956"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 18.B ) Download PHP Manager for IIS
 
@@ -388,7 +362,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e55e776c-9ea1-491a-9d10-3cd0bc79db5e"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 18.C ) Download PHP Manager for IIS
 
@@ -397,7 +373,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d259bf88-439b-42cc-9375-166f003d8808"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 18.D ) Download PHP Manager for IIS
 
@@ -408,7 +386,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9199a0ea-972d-455c-9408-5365677ed221"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 18.E ) Download PHP Manager for IIS
 
@@ -417,7 +397,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ac09a285-6c4a-4ae0-8c33-2098d337d6f6"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 19.A ) Download Rewrite Module
 
@@ -432,7 +414,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3cc3863b-44d7-4b20-b781-71830ae56f1d"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 19.B ) Download Rewrite Module
 
@@ -441,7 +425,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f8035ed7-c04b-4425-9044-8a20529b8a89"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 20.A ) Create Directory C:\PHP
 
@@ -450,7 +436,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/42973b96-7bf7-4e37-b824-6c46ee8d7bdf"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 20.B ) Create Directory C:\PHP
 
@@ -463,7 +451,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a45390d8-3afe-4c32-b5a6-2a9e939e322f"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 20.C ) Create Directory C:\PHP
 
@@ -474,7 +464,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/99f82c56-1dd3-4162-b83d-c50aea410ef9"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 21.A ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
@@ -483,7 +475,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/447917dd-3b9c-454c-9c18-67e56cb418f2"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 21.B ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
@@ -492,7 +486,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/99d3d799-3810-41ba-a13a-546836651291"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 21.C ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
@@ -503,7 +499,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/95210981-7d56-4657-9d4f-9fe10429d6d4"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 21.D ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
@@ -514,7 +512,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fa92591b-55db-4434-a0fc-4cc8823763c8"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 21.E ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
@@ -523,7 +523,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f688b04-f510-4f57-9749-f8bae9e0a3f3"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 21.F ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
@@ -532,7 +534,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fad328b2-3d4e-4668-ad14-920de414b310"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 21.G ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
@@ -541,7 +545,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f673ed81-b6f4-4a26-910c-17726df34ec2"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 21.H ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
@@ -550,7 +556,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/514000ee-6a7c-4575-b7c6-591381562314"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 22.A ) Check to see the php-7.3.8 made it into the PHP Directory
 
@@ -561,7 +569,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/020501bb-8112-464b-b9ef-7ecb823913f4"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 22.C ) Check to see the php 7.3.8 made it into the PHP Directory
 
@@ -570,8 +580,8 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6511b61-033a-46ff-9714-50b664e19c73"><br>
 
-***
-
+<br>
+<br>
 <br>
 
 ### 23.A ) Download VC_redist.x86.exe
@@ -587,8 +597,8 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/170a61c1-fe3c-419f-8059-269bf6a5455c"><br>
 
-***
-
+<br>
+<br>
 <br>
 
 ### 23.B ) Download VC_redist.x86.exe
@@ -598,7 +608,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/57eb8907-d6da-4abc-b39b-5d945d62c55f"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.A ) Download MySQL 5.5.62
 
@@ -611,7 +623,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/44a36637-43cc-4fcb-9d9b-6eb64c4315a4"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.B ) Download MySQL 5.5.62
 
@@ -624,7 +638,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1a768122-511d-44ef-a428-8a4dce09c2f9"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.C ) Download MySQL 5.5.62
 
@@ -635,7 +651,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/14c18df3-e9ee-4cf9-a0e7-d2631f3beedf"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.D ) Download MySQL 5.5.62
 
@@ -644,7 +662,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f09cc5cc-9262-4951-b2ef-82d39e43ab70"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.E ) Download MySQL 5.5.62
 
@@ -655,7 +675,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/110fd673-4225-4d28-968b-d4f0535e39b2"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.F ) Download MySQL 5.5.62
 
@@ -664,7 +686,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/61f88e18-96bf-4991-9ad1-1222abf6cd00"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.G ) Download MySQL 5.5.62
 
@@ -675,7 +699,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/16837f9b-9535-4306-8b45-93a1c984e611"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.H ) Download MySQL 5.5.62
 
@@ -686,7 +712,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bcf52378-fb29-4fe8-8d2a-7ce1657bf457"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.I ) Download MySQL 5.5.62
 
@@ -697,7 +725,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/cec6d46c-46d7-4db1-a897-deee162df7c8"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 24.J ) Download MySQL 5.5.62
 
@@ -706,7 +736,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bccc6a00-de77-4266-a7f3-e5c12eb30c1b"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 25.A )  Open IIS as an Administrator and Register PHP from within IIS
 
@@ -719,7 +751,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a4190c4b-6bfe-4185-91f8-a141afcc24f5"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 25.B )  Open IIS as an Administrator and Register PHP from within IIS
 
@@ -728,7 +762,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/44aefc87-57e7-4c5a-8087-b0d5548c57d1"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 25.C )  Open IIS as an Administrator and Register PHP from within IIS
 
@@ -739,7 +775,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f81cb4e5-7a83-49a9-9cb0-ae2a04fa0252"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 25.D )  Open IIS as an Administrator and Register PHP from within IIS
 
@@ -748,7 +786,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9e6fcda6-cd42-4adf-95af-5d7dd0ead097"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 25.E )  Open IIS as an Administrator and Register PHP from within IIS
 
@@ -757,7 +797,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a21252a1-3b62-4a60-8aa3-3003cf90d008"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 26.A )  Go To: `Home` screen of <ins>PHP Manager</ins> and Restart IIS
 
@@ -766,7 +808,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e67ba80d-1305-4150-9d14-71c8bcadcb3e"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 26.B )  Go To: `Home` screen of IIS Manager and Restart IIS
 
@@ -774,8 +818,6 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1b9c61a7-b681-4d8f-b8ae-72192c231efa"><br>
-
-***
 
 </details>
 
