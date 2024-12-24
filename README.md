@@ -202,9 +202,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Install and Enable IIS in Windows Virtual Machine</ins>:
                               
-  - Enable and Open: `Internet Information Services (IIS)`
+  - Enable and Expand: `Internet Information Services (IIS)`
  
-  - Enable and Open: `World Wide Web Services`
+  - Enable and Expand: `World Wide Web Services`
 
     - Check: `All Boxes` within this feature's folder
 
@@ -219,7 +219,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 *While still inside the World Wide Web Service folder:*
 
-  - Open: `Application Development Features` folder
+  - Expand: `Application Development Features` folder
 
   - Enable: `CGI`
 
@@ -238,16 +238,14 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 *Back inside the World Wide Web Service folder:*
 
-  - Enable: Common HTTP Features
-
-<ins>Within the Common HTTP Fetures feature folder</ins>:
+  - Enable and Expand: Common HTTP Features
 
   - Check: `All Boxes` within this feature's folder
  
   - Click: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4a756f64-9ba3-45fb-a690-0ddf5bd5b4bd"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/914c53a4-0fc9-45a5-9c9c-663e210b4828">
 
 <br>
 <br>
