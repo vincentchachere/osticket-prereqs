@@ -129,7 +129,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 4. ) Connect your Virtual Machine to Remote Desktop
+<ins>Connect your Virtual Machine to Remote Desktop</ins>:
 
 - Uncheck: `All Boxes`
 
@@ -148,53 +148,59 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 </summary>
 
-### 16.A ) Install/Enable IIS in Windows
+### 4. ) Install and Enable IIS in Windows Virtual Machine
 
-<ins>Once connected and inside your Virtual Machine we'll need to install IIS by doing the following</ins>:
+<ins>Once inside your Virtual Machine we'll need to Install and Enable IIS by doing the following</ins>:
 
-  - Right-Click: `Start` in the bottom left of your screen
+  - Right-Click: `Start` in the bottom left corner of your screen
 
   - Select: `Run`
+
+*Or you could just type `run` inside the search bar and press `Enter`*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6f279019-c2f3-4446-b4f1-76e5cf798e2b"><br>
 
-***
+<br>
+<br>
+<br>
 
-### 16.B ) Install/Enable IIS in Windows
+<ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
 - Type In: `Control Panel`
-
-- Press: `Enter`
-
-  or..
 
 - Click: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/87a7e808-6441-42db-859b-aa78c565d8a1"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/789188b7-01d1-45b8-a805-bbd6ff0594aa"><br>
 
-***
+<br>
+<br>
+<br>
 
-### 16.C ) Install/Enable IIS in Windows
+<ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
-  - Click: `Programs`
+  - Select: `Programs`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/897bb69f-f091-4f03-8c55-3547cf3ad1f1"><br>
 
-***
+<br>
+<br>
+<br>
 
-### 16.D ) Install/Enable IIS in Windows
+<ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
   - Click: `Turn Windows Features On or Off`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9beb774-2bc5-4f35-bf61-aaf2e8c52dea"><br>
 
-***
+<br>
+<br>
+<br>
 
-### 16.E ) Install/Enable IIS in Windows
+<ins>Install and Enable IIS in Windows Virtual Machine</ins>:
                               
   - Enable: `Internet Information Services (IIS)`
  
@@ -204,11 +210,13 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/89eb3345-1c42-416f-9ea3-6fb101a9c499"><br>
 
-***
+<br>
+<br>
+<br>
 
-### 16.F ) Install/Enable IIS in Windows
+<ins>Install and Enable IIS in Windows Virtual Machine</ins>
 
-<ins>While still inside the World wide Web Service folder</ins>:
+While still inside the World wide Web Service folder:
 
   - Open: `Application Development Features` folder
 
@@ -219,9 +227,11 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4a86fcb4-b2e3-4247-89fa-725b7c4d7583"><br>
 
-***
+<br>
+<br>
+<br>
 
-### 16.G ) Install/Enable IIS in Windows
+<ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
   - Enable: Common HTTP Features
 
@@ -234,18 +244,22 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4a756f64-9ba3-45fb-a690-0ddf5bd5b4bd"><br>
 
-***
+<br>
+<br>
+<br>
 
-### 16.H ) Install/Enable IIS in Windows
+<ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
 - Wait for it to load...
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/81b5957a-ab51-4c47-8e46-91a8d3b3f961"><br>
 
-***
+<br>
+<br>
+<br>
 
-### 16.I ) Install/Enable IIS in Windows
+<ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
 <ins>When that's done loading<ins>:
 
@@ -254,8 +268,8 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/904c8fec-b77a-4efa-81fa-a62e801dc3fa"><br>
 
-***
-
+<br>
+<br>
 <br>
 
 ### 17.A ) Open Microsoft Edge to Test IIS
