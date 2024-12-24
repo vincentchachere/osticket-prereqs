@@ -790,7 +790,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Install osTicket</ins>:
 
-- Right-Click: `upload` (*the `upload` that is in the new File Explorer you just opened*)
+- Right-Click: `upload` (*the **upload** that is in the new File Explorer you just opened*)
 
 - Click: `Rename`
 
@@ -807,7 +807,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 - Press: `Enter`
 
-  - Spell it exactly like this: `osTicket` (with a capital `T` and lowercase everything else)
+*Spell the folder name exactly as **osTicket** (capital **T**, everything else lowercase) to avoid breaking hardcoded paths, file references, and configuration dependencies that are in the core PHP files, configuration files (`ost-config.php`), and web server settings.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f19fba0-01d9-413c-97b3-8fc1b71c78f2">
@@ -832,7 +832,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Restart`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0bc5bda8-62d2-47d7-8db4-2de5b7be4513">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7c0012c9-4c31-42a0-bfc2-4911bc46dae3">
 
 <br>
 <br>
@@ -840,10 +840,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Refresh the osTicket site in your browser and observe the changes</ins>:
 
-- Go to: `Sites` > `Default Web Site` > `osTicket`
+- Inside PHP Manager Go to: `Sites` > `Default Web Site` > `osTicket`
 
-- <ins>On the Right side of your IIS Manager</ins>:
-  - Click: `Browse*: 80`
+- Click: `Browse*: 80`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fbad175e-01b3-4c3a-a8fb-8b2db19db2f6">
@@ -854,7 +853,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 15. ) Enable Extensions for osTicket
 
-- Go to: `Sites` > `Default Web Site` > `osTicket`
+- Inside PHP Manager Go to: `Sites` > `Default Web Site` > `osTicket`
 
 - Double-Click: `PHP Manager`
 
