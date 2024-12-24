@@ -515,11 +515,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 10. ) Download VC_redist.x86.exe
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and Download: `VC_redist.x86.exe`
+- Download and Open: `VC_redist.x86.exe`
 
-  - *I will let you do the <ins>downloading</ins> steps on your own now, so that you can learn. Refer to previous steps for guidance.*
-
-- Check: The `I agree to the license terms and conditions` Box
+- Check: the `I agree to the license terms and conditions` Box
 
 - Click: `Install`
 
@@ -532,7 +530,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Download VC_redist.x86.exe for IIS</ins>:
 
-- Click: `Close` when it is done installing
+*When it is done installing..*
+
+- Click: `Close`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/57eb8907-d6da-4abc-b39b-5d945d62c55f"><br>
@@ -541,11 +541,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-<ins>Download VC_redist.x86.exe for IIS</ins>:
+### 11. ) Download MySQL 5.5.62
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) and Download: `MySQL 5.5.62`
-
-- <ins>When the pop-up below shows up</ins>:
+- Download and Open: `MySQL 5.5.62`
 
   - Click: `Next`
 
@@ -556,13 +554,11 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 11. ) Download MySQL 5.5.62
+<ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- <ins>When the pop-up below shows up</ins>:
+- Check: the `I accept the terms in the License Agreement` box
 
-  - Check: The `I accept the terms in the License Agreement` Box
-
-  - Click: `Next`
+- Click: `Next`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1a768122-511d-44ef-a428-8a4dce09c2f9"><br>
@@ -597,7 +593,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- Check: The `Lanuch the MySQL Instance Configuration Wizard` Box
+- Check: the `Launch the MySQL Instance Configuration Wizard` box
 
 - Click: `Finish`
 
@@ -659,6 +655,8 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
+
+*When it's done configuring..*
 
 - Click : `Finish`
 
