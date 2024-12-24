@@ -764,10 +764,10 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 - Download: `osTicket`
 
-- Open File Explorer Go To: `This PC` > `Downloads` > `osTicket--v1.15.8`
+- Open File Explorer and Go To: `This PC` > `Downloads` > `osTicket--v1.15.8`
 
 <p align="center">
-<img width="800" alt="isolated" src=""><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/52102f4a-e0da-449e-844e-0117394c61a7">
 
 <br>
 <br>
@@ -775,25 +775,14 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Install osTicket</ins>:
 
-- <ins>Open a second `File Explorer` by</ins>:
+- Open: A Second `File Explorer`
 
-  - Right-Click: `File Explorer` Icon
- 
-  - Select: `File Explorer`
+- In The Second File Explorer Go To: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
 
-
-<ins>Install osTicket</ins>:
-
-- When you open the second File Explorer:
-
- - Go To: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
-
-- <ins>Drag and Drop `upload` into</ins>:
-
-  - `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
+- Drag and Drop: `upload` from the first File Explorer into the `wwwroot` that's inside the second File Explorer
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/54aa0527-e724-48f3-898c-0c1797462f43"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/54aa0527-e724-48f3-898c-0c1797462f43">
 
 <br>
 <br>
@@ -806,7 +795,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Rename`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a92db299-809a-40c2-b194-9ba4b6f01f6b"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a92db299-809a-40c2-b194-9ba4b6f01f6b">
 
 <br>
 <br>
@@ -821,7 +810,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
   - Spell it exactly like this: `osTicket` (with a capital `T` and lowercase everything else)
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f19fba0-01d9-413c-97b3-8fc1b71c78f2"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f19fba0-01d9-413c-97b3-8fc1b71c78f2">
 
 <br>
 <br>
@@ -832,7 +821,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Open: `IIS` <ins>as an Administrator</ins>
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c9e6f828-a8e4-4087-be9a-c257ac61efbf"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c9e6f828-a8e4-4087-be9a-c257ac61efbf">
 
 <br>
 <br>
@@ -843,7 +832,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Restart`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0bc5bda8-62d2-47d7-8db4-2de5b7be4513"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0bc5bda8-62d2-47d7-8db4-2de5b7be4513">
 
 <br>
 <br>
@@ -857,7 +846,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
   - Click: `Browse*: 80`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fbad175e-01b3-4c3a-a8fb-8b2db19db2f6"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fbad175e-01b3-4c3a-a8fb-8b2db19db2f6">
 
 <br>
 <br>
@@ -870,7 +859,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Double-Click: `PHP Manager`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d8d229e0-b240-4d9e-a330-752da0a27c6e"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d8d229e0-b240-4d9e-a330-752da0a27c6e">
 
 <br>
 <br>
@@ -881,7 +870,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Enable or Disable Extensions`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6217973d-367a-4007-8e7d-3b09419794d0"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6217973d-367a-4007-8e7d-3b09419794d0">
 
 <br>
 <br>
@@ -894,7 +883,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Enable`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fb7ac977-81e9-41b7-a397-34b53643734c"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fb7ac977-81e9-41b7-a397-34b53643734c">
 
 <br>
 <br>
@@ -907,7 +896,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Enable`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fc6242b4-4676-4d9a-8432-8b7b728dcda4"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fc6242b4-4676-4d9a-8432-8b7b728dcda4">
 
 <br>
 <br>
@@ -920,7 +909,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Enable`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/063d7e76-b27c-454f-b2ff-eed9ed49343d"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/063d7e76-b27c-454f-b2ff-eed9ed49343d">
 
 <ins>Enable Extensions for osTicket</ins>:
 
@@ -937,7 +926,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: The `osTicket` folder to the left in your 'Connections' section.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/48fe9a8f-2512-4ed9-b094-b3e2244352b5"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/48fe9a8f-2512-4ed9-b094-b3e2244352b5">
 
 <br>
 <br>
@@ -954,7 +943,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - *Observe the changes*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2efefb03-ac37-4cbd-85e4-08d88787e3de"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2efefb03-ac37-4cbd-85e4-08d88787e3de">
 
 <br>
 <br>
@@ -969,7 +958,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Double-Click: `osTicket`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b38819f3-c9e7-4c11-a6e0-f39d3de4f4ee"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b38819f3-c9e7-4c11-a6e0-f39d3de4f4ee">
 
 <br>
 <br>
@@ -980,7 +969,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Double-Click: `include`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3f8b1c3c-01c9-46a2-a23e-5336a441bfd3"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3f8b1c3c-01c9-46a2-a23e-5336a441bfd3">
 
 <br>
 <br>
@@ -1014,7 +1003,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Properties`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1acd9457-2365-4163-9fcc-c273ae85a833"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1acd9457-2365-4163-9fcc-c273ae85a833">
 
 <br>
 <br>
@@ -1031,7 +1020,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Remove all inherited permissions from this object`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b0a950c8-51f1-48b2-b757-d0edeebfc9ab"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b0a950c8-51f1-48b2-b757-d0edeebfc9ab">
 
 <br>
 <br>
@@ -1046,7 +1035,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/63e662f4-ada6-417a-81c2-d5668c39065d"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/63e662f4-ada6-417a-81c2-d5668c39065d">
 
 <br>
 <br>
@@ -1061,7 +1050,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c932691e-0f52-4cb3-9f75-069499a2a54b"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c932691e-0f52-4cb3-9f75-069499a2a54b">
 
 ***
 
@@ -1072,7 +1061,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Continue` 
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db18a130-c73e-41f6-b15e-3acd07c1f4bf"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db18a130-c73e-41f6-b15e-3acd07c1f4bf">
 
 ***
 
