@@ -585,7 +585,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Install`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f09cc5cc-9262-4951-b2ef-82d39e43ab70"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f09cc5cc-9262-4951-b2ef-82d39e43ab70">
 
 <br>
 <br>
@@ -598,7 +598,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Finish`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/110fd673-4225-4d28-968b-d4f0535e39b2"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/110fd673-4225-4d28-968b-d4f0535e39b2">
 
 <br>
 <br>
@@ -609,7 +609,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Next`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/61f88e18-96bf-4991-9ad1-1222abf6cd00"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/61f88e18-96bf-4991-9ad1-1222abf6cd00">
 
 <br>
 <br>
@@ -622,7 +622,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Next`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/16837f9b-9535-4306-8b45-93a1c984e611"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/16837f9b-9535-4306-8b45-93a1c984e611">
 
 <br>
 <br>
@@ -635,7 +635,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Next`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bcf52378-fb29-4fe8-8d2a-7ce1657bf457"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bcf52378-fb29-4fe8-8d2a-7ce1657bf457">
 
 <br>
 <br>
@@ -648,7 +648,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
   - Click: `Next`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/cec6d46c-46d7-4db1-a897-deee162df7c8"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/cec6d46c-46d7-4db1-a897-deee162df7c8">
 
 <br>
 <br>
@@ -661,7 +661,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click : `Finish`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bccc6a00-de77-4266-a7f3-e5c12eb30c1b"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bccc6a00-de77-4266-a7f3-e5c12eb30c1b">
 
 <br>
 <br>
@@ -669,82 +669,86 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 12. ) Open IIS as an Administrator and Register PHP from within IIS
 
-- Type: `IIS` into search bar at bottom left of your screen
+- Search: `IIS`
 
 - Right-Click: `IIS`
 
 - Select: `Run as Administrator`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a4190c4b-6bfe-4185-91f8-a141afcc24f5"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a4190c4b-6bfe-4185-91f8-a141afcc24f5">
 
 <br>
 <br>
 <br>
 
-### 25.B )  Open IIS as an Administrator and Register PHP from within IIS
+<ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
 - Double-Click: `PHP Manager`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/44aefc87-57e7-4c5a-8087-b0d5548c57d1"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/44aefc87-57e7-4c5a-8087-b0d5548c57d1">
 
 <br>
 <br>
 <br>
 
-### 25.C )  Open IIS as an Administrator and Register PHP from within IIS
+<ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
 - Click: `Register vew PHP version`
 
-- Click: the `'...' Box` (three dots box) that is next to the search bar
+- Click: the `...` box
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f81cb4e5-7a83-49a9-9cb0-ae2a04fa0252"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c9cc72d0-35ac-478c-8378-073a0378b976">
 
 <br>
 <br>
 <br>
 
-### 25.D )  Open IIS as an Administrator and Register PHP from within IIS
+<ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
-- Go To: `This PC` > `Windows (C:)` > `PHP` > `php-cgi` > `Open`
+- Follow this path: `This PC` > `Windows (C:)` > `PHP`
+
+- Select: `php-cgi`
+
+- Click: `Open`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9e6fcda6-cd42-4adf-95af-5d7dd0ead097"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/12b3b793-20da-4d32-bd71-8fbb3798019a">
 
 <br>
 <br>
 <br>
 
-### 25.E )  Open IIS as an Administrator and Register PHP from within IIS
+<ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
 - Click: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a21252a1-3b62-4a60-8aa3-3003cf90d008"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/bf4becfe-54d8-40e7-9f36-195476f484ee">
 
 <br>
 <br>
 <br>
 
-### 26.A )  Go To: `Home` screen of <ins>PHP Manager</ins> and Restart IIS
+<ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
-- Click: The `Home` icon in the upper right corner of IIS Window
+- Click: the `Home` icon in the upper right corner of IIS Window
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e67ba80d-1305-4150-9d14-71c8bcadcb3e"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ae80d892-4d1d-4665-83d0-6e4605a2a7c4">
 
 <br>
 <br>
 <br>
 
-### 26.B )  Go To: `Home` screen of IIS Manager and Restart IIS
+<ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
 - Click: `Restart`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1b9c61a7-b681-4d8f-b8ae-72192c231efa"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7c0012c9-4c31-42a0-bfc2-4911bc46dae3">
 
 </details>
 
