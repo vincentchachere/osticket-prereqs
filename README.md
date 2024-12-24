@@ -293,7 +293,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
   - If you do not see the image displayed below then try uninstalling and reinstalling IIS
 
-*The `How To Uninstall and Reinstall Instructions` are directly underneath the image below.*
+*The **How To Uninstall and Reinstall Instructions** are directly underneath the image below.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c2dae78-f8bb-40ba-9f73-b24d60b25c91">
@@ -347,7 +347,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 - Click: `Download anyway`
 
-*You can either wait for it to pop up when its done loading or click the `...` Dots in the upper right corner of your screen then click `Downloads`. As well, you can go to `File Eplorer`, navigate to your `Downloads`, then select `PHP Manager`.*
+*You can either wait for it to pop up when its done loading or click the **...** Dots in the upper right corner of your screen then click **Downloads**. As well, you can go to **File Eplorer**, navigate to your **Downloads**, then select **PHP Manager**.*
 
 *Sometimes the file doesn’t pop up after downloading, so I’m showing you both methods to access it.*
 
@@ -504,18 +504,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 - Go Back To: `This PC` > `Windows (C:)` > `PHP`
 
-- Double-Click: `PHP`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/020501bb-8112-464b-b9ef-7ecb823913f4">
-
-<br>
-<br>
-<br>
-
-<ins>Verify the php-7.3.8 made it into the PHP Directory</ins>:
-
-- Now you will see the php.7.3.8 file inside the PHP directory, as seen in the image below.
+*You will now see the **php.7.3.8** file inside the PHP directory, as shown in the image below.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6511b61-033a-46ff-9714-50b664e19c73"><br>
