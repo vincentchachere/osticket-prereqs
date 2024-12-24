@@ -328,11 +328,11 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 - Open: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-  - Double-Click: `PHP ManagerForIIS_v1.5.0.msi`
+- Double-Click: `PHP ManagerForIIS_v1.5.0.msi`
 
-  - Click: The `...` Dots in the upper right of your screen next to the 'Share' button
+- Click: The `...` Dots in the upper right of your screen next to the 'Share' button
 
-  - Click: `Open in new window`
+- Click: `Open in new window`
 
 *I've found that this method is the quickest and most reliable way to ensure a successful download on the first attempt, avoiding multiple tries.* 
 
@@ -450,47 +450,16 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 9. ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- Double-Click: `PHP 7.3.8`
+- Download: `php-7.3.8-nts-Win32-VC15-x86.zip`
+
+- Go To: `File Explorer` > `This PC` > `Downloads`
+
+- Righ-Click: `php-7.3.8-nts-Win32-VC15-x86.zip`
+
+- Select: `Extract All`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/447917dd-3b9c-454c-9c18-67e56cb418f2">
-
-<br>
-<br>
-<br>
-
-<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
-
-- Click : The `Download (&darr;) Arrow` in the upper right corner
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/99d3d799-3810-41ba-a13a-546836651291">
-
-<br>
-<br>
-<br>
-
-<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
-
-- Click: `Download anyway`
-
-- Open: `php.7.3.8`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/95210981-7d56-4657-9d4f-9fe10429d6d4">
-
-<br>
-<br>
-<br>
-
-<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
-
-- Right-Click: `php.7.3.8`
-
-- Click: `Extract All`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fa92591b-55db-4434-a0fc-4cc8823763c8">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/f850a7c2-2107-4113-9934-099ddeb63a12">
 
 <br>
 <br>
@@ -501,7 +470,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Browse`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f688b04-f510-4f57-9749-f8bae9e0a3f3">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/557f2ee5-5215-4f94-ab3e-4b1e64f625a0">
 
 <br>
 <br>
@@ -511,19 +480,10 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 - Go To: `This PC` > `Windows (C:)` > `PHP`
 
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fad328b2-3d4e-4668-ad14-920de414b310">
-
-<br>
-<br>
-<br>
-
-<ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
-
-- Click: `Select Folder` (*PHP*)
+- - Click: `Select Folder`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f673ed81-b6f4-4a26-910c-17726df34ec2">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3b00bffe-4b2b-4a8d-9777-7dfcff1a4fd9">
 
 <br>
 <br>
@@ -534,7 +494,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Extract`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/514000ee-6a7c-4575-b7c6-591381562314">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/bd6f48c3-9c8c-45bf-a96a-b01e47f70184">
 
 <br>
 <br>
