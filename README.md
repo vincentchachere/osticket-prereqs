@@ -844,8 +844,10 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 - Click: `Browse*: 80`
 
+*Observe the features currently enabled and disabled within the osTicket browser. After enabling additional extensions in the next step, you’ll notice a few more features marked as enabled.*
+
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fbad175e-01b3-4c3a-a8fb-8b2db19db2f6">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b3e46f6b-749d-4fec-a936-3231950c0228">
 
 <br>
 <br>
@@ -869,7 +871,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Enable or Disable Extensions`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6217973d-367a-4007-8e7d-3b09419794d0">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3b9e68b0-bc9c-4c13-b91e-337c98b91844">
 
 <br>
 <br>
@@ -925,7 +927,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: The `osTicket` folder to the left in your 'Connections' section.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/48fe9a8f-2512-4ed9-b094-b3e2244352b5">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d07178ce-15be-4b69-af43-f9c5107d5bb7">
 
 <br>
 <br>
