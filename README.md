@@ -59,7 +59,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 *Double-check spelling when creating resources (e.g., resource groups, virtual machines). Names, regions, and similar inputs cannot be edited after creation. Errors may require deleting and restarting your work.*
 
 <p align="center">
-<img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4829d10a-d483-4c28-93a1-64034a6e0cf3"><br>
+<img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4829d10a-d483-4c28-93a1-64034a6e0cf3">
 
 </details>
 
@@ -98,9 +98,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Create`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4081f85f-969f-44ba-b922-173a14e9ac78"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4081f85f-969f-44ba-b922-173a14e9ac78">
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d2ce647d-88fe-440a-9a34-387d4cc3b56d"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d2ce647d-88fe-440a-9a34-387d4cc3b56d">
 
 </details>
 
@@ -123,7 +123,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Continue`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ccaac932-e865-4110-a96e-96d18b5b3cd0"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ccaac932-e865-4110-a96e-96d18b5b3cd0">
 
 <br>
 <br>
@@ -136,7 +136,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Accept`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9">
 
 </details>
 
@@ -159,7 +159,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 *Or you could just type `run` inside the search bar and press `Enter`*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6f279019-c2f3-4446-b4f1-76e5cf798e2b"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6f279019-c2f3-4446-b4f1-76e5cf798e2b">
 
 <br>
 <br>
@@ -172,7 +172,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/789188b7-01d1-45b8-a805-bbd6ff0594aa"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/789188b7-01d1-45b8-a805-bbd6ff0594aa">
 
 <br>
 <br>
@@ -183,7 +183,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
   - Select: `Programs`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/897bb69f-f091-4f03-8c55-3547cf3ad1f1"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3c279675-4075-4b70-9702-f319b73c7131">
 
 <br>
 <br>
@@ -191,10 +191,10 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
-  - Click: `Turn Windows Features On or Off`
+  - Select: `Turn Windows Features On or Off`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9beb774-2bc5-4f35-bf61-aaf2e8c52dea"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3ef2747d-3665-48a8-9796-a482fd275039">
 
 <br>
 <br>
@@ -202,13 +202,14 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Install and Enable IIS in Windows Virtual Machine</ins>:
                               
-  - Enable: `Internet Information Services (IIS)`
+  - Enable and Open: `Internet Information Services (IIS)`
  
-  - Open & Enable: `World Wide Web Services`
-    - `Check All Boxes` within this feature's folder
+  - Enable and Open: `World Wide Web Services`
+
+    - Check: `All Boxes` within this feature's folder
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/89eb3345-1c42-416f-9ea3-6fb101a9c499"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ece03bc2-ec8a-4392-b658-b98b771be30b">
 
 <br>
 <br>
@@ -216,7 +217,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Install and Enable IIS in Windows Virtual Machine</ins>
 
-While still inside the World wide Web Service folder:
+*While still inside the World Wide Web Service folder:*
 
   - Open: `Application Development Features` folder
 
@@ -224,14 +225,18 @@ While still inside the World wide Web Service folder:
 
   - Collapse: `Application Development Features` folder
 
+  - Go Back Inside: `World Wide Web Service` folder
+
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4a86fcb4-b2e3-4247-89fa-725b7c4d7583"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7e2097ad-9abe-4db1-8f70-80c60d46548f">
 
 <br>
 <br>
 <br>
 
 <ins>Install and Enable IIS in Windows Virtual Machine</ins>:
+
+*Back inside the World Wide Web Service folder:*
 
   - Enable: Common HTTP Features
 
