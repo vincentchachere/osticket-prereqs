@@ -1056,32 +1056,29 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Continue` 
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db18a130-c73e-41f6-b15e-3acd07c1f4bf">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/1132dfa8-668a-4180-a0bf-a78108e571ff">
 
 <br>
 <br>
 <br>
 
-### 34. ) Continue Setting up osTicket in the browser
-
-- <ins>Insert the following information</ins>:
+<ins>Continue Setting up osTicket in the browser</ins>:
 
   - Helpdesk Name: `Helpdesk`
 
-  - Default Email: `yourfirstname@helper.com`
+  - Default Email: `firstname@helper.com`
 
-  - First Name: *AnythingYouWant* *(just remember it)*
+  - First Name: *AnythingYouWant* (*just remember it*)
 
-  - Last Name: *AnythingYouWant* *(just remember it)*
+  - Last Name: *AnythingYouWant* (*just remember it*)
 
-  - Email Address: `yourfirstname@gmail.com`
-  - *AnythingYouWant* *(just remember it)*
+  - Email Address: `firstname@gmail.com`
 
-  - Username: *AnythingYouWant* *(just remember it)*
+  - Username: *AnythingYouWant* (*just remember it*)
 
-  - Password: *AnythingYouWant* *(just remember it)*
+  - Password: *AnythingYouWant* (*just remember it*)
 
-- *Before finishing the setup we need to dwnload HiediSQL first, so go to the next step (35.A). We'll come right back to this after.*
+*Before finishing the setup you need to download HiediSQL first, so go to the next. We'll come back to this after, leave it as is.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/25255d72-3702-4528-9c1a-180bd627eac6"><br>
@@ -1090,17 +1087,17 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 35.A ) Download and Install HeidiSQL
+### 19. ) Download and Install HeidiSQL
 
-- Go To: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-
-- Download and Install: `HiediSQL`
+- Download: `HiediSQL`
 
 - Open: `HiediSQL`
 
-- Select: The `I accept the agreement` Circle
+- Select: the `I accept the agreement`
 
-- Click: `Next`
+- Click: `Next` until you reach the **Ready to Install**
+
+- 
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9122a6b-f4c2-4055-95f8-86951eab4e8b"><br>
@@ -1109,42 +1106,13 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 35.B ) Download and Install HeidiSQL
-
-- Click: `Next`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9c392d33-b538-4fe4-99a8-52d60a64cd8c"><br>
-
-<br>
-<br>
-<br>
-
-### 35.C ) Download and Install HeidiSQL
-
-- Click: `Next`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/316b780e-beeb-438d-9ca6-26dbc2296972"><br>
-
-<br>
-<br>
-<br>
-
-### 35.D ) Download and Install HeidiSQL
-
-- Click: `Next`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/75b5fe1c-9bb3-4fff-b073-e261d51953d1"><br>
-
-<br>
-<br>
-<br>
-
-### 35.E ) Download and Install HeidiSQL
+<ins>Installing HeidiSQL</ins>:
 
 - Click: `Install`
+
+- Click: `Finish` then..
+
+- Click: `Skip`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0411ef50-139c-47df-8316-a93dbe99e028"><br>
@@ -1153,33 +1121,11 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 35.F ) Download and Install HeidiSQL
-
-- Click: `Finish`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db333d2d-2f51-4fb9-91a2-fd693a47e50b"><br>
-
-<br>
-<br>
-<br>
-
-### 35.G ) Download and Install HeidiSQL
-
-- Click: `Skip`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/901c0dfa-d425-4c6e-b9d4-0876d34c131e"><br>
-
-<br>
-<br>
-<br>
-
-### 35.H ) Download and Install HeidiSQL
+<ins>Installing HeidiSQL</ins>:
 
 - User: `root`
 
-- Password: `The one you created at Step 34.A`
+- Password: `The one you created earlier`
 
 - Click: `Open` to connect to session
 
@@ -1190,7 +1136,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 35.I ) Create a Database for osTicket called `osTicket`
+### 20. ) Create a Database for osTicket called `osTicket`
 
 - Right-Click: `Unamed`
 
