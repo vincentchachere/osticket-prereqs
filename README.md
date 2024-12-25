@@ -1151,11 +1151,11 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 35.J ) Create a Database for osTicket called `osTicket`
+<ins>Create a Database for osTicket called **osTicket**</ins>:
 
-- Type In: `osTicket`
+- Type In: `osTicket` be sure to type it in exactly like that (*capital **T** lowercase everything else*)
 
-- Click: `Ok`
+- Click: `OK`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c806266-acbb-492c-a24b-e33bee43957f"><br>
@@ -1164,15 +1164,15 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 36.A ) Continue Setting up osTicket in the browser
+### 21. ) Continue Setting up osTicket in the browser
 
 - MySQL Database: `osTicket`
 
 - MySQL Username: `root`
 
-- MySQL Password: *`The one you created at Step 34.A and the one you used at Step 35.H`*
+- MySQL Password: `The one you created earlier`
 
-- Click: `Install`
+- Click: `Install Now`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6fe660ac-3e26-4c95-aa79-ef671d26c8fe"><br>
@@ -1181,9 +1181,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 36.B ) Congratulations! Hopefully it is installed with no errors, but we are not finished just yet!
+#### Congratulations! Hopefully it is installed with no errors, but we are not finished just yet!
 
-<ins>Scroll down to `Part G: Clean Up Resources` for further instructions on comlpleteing this lab.</ins>
+*Go to the next part to finish this lab*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4988fb-ea09-4432-b689-dedfe5b96449"><br>
