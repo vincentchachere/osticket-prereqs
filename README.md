@@ -1081,7 +1081,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 *Before finishing the setup you need to download HiediSQL first, so go to the next. We'll come back to this after, leave it as is.*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/25255d72-3702-4528-9c1a-180bd627eac6"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/25255d72-3702-4528-9c1a-180bd627eac6">
 
 <br>
 <br>
@@ -1100,7 +1100,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - 
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9122a6b-f4c2-4055-95f8-86951eab4e8b"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9122a6b-f4c2-4055-95f8-86951eab4e8b">
 
 <br>
 <br>
@@ -1115,7 +1115,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Skip`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0411ef50-139c-47df-8316-a93dbe99e028"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0411ef50-139c-47df-8316-a93dbe99e028">
 
 <br>
 <br>
@@ -1130,7 +1130,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Open` to connect to session
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/51779cfc-4be7-4a12-8a82-944298bc67bd"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/51779cfc-4be7-4a12-8a82-944298bc67bd">
 
 <br>
 <br>
@@ -1145,7 +1145,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Database`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ff3b586-e13e-43e6-9bf4-35e5bc921f57"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ff3b586-e13e-43e6-9bf4-35e5bc921f57">
 
 <br>
 <br>
@@ -1158,7 +1158,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c806266-acbb-492c-a24b-e33bee43957f"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c806266-acbb-492c-a24b-e33bee43957f">
 
 <br>
 <br>
@@ -1175,7 +1175,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Install Now`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6fe660ac-3e26-4c95-aa79-ef671d26c8fe"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6fe660ac-3e26-4c95-aa79-ef671d26c8fe">
 
 <br>
 <br>
@@ -1186,7 +1186,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 *Go to the next part to continue finishing this lab*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4988fb-ea09-4432-b689-dedfe5b96449"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4988fb-ea09-4432-b689-dedfe5b96449">
 
 </details>
 
@@ -1215,7 +1215,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <ins>Scroll down to `Step 37.B` for further instruction</ins>
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94a00827-144e-435d-abaa-f2b052d6cb74"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94a00827-144e-435d-abaa-f2b052d6cb74">
 
 <br>
 <br>
@@ -1230,7 +1230,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 *Go To: `Part H: Change File Permissions` for the 2nd Thing*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1fcc1edd-c8da-406e-aaee-495acdd2ab82"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1fcc1edd-c8da-406e-aaee-495acdd2ab82">
 
 </details>
 
@@ -1251,26 +1251,26 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
     - Select: `Properties`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a532e9ec-56e1-44a6-a8e1-7e02bf41ef61"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a532e9ec-56e1-44a6-a8e1-7e02bf41ef61">
 
 <br>
 <br>
 <br>
 
-### 38.A ) Change File Permissions
+### 23. ) Change File Permissions
 
 <ins>2nd Thing Set Permissions to `Read` only for `ost-config.php`</ins>:
 
 - Go To: `Security` > `Advanced` > `Edit`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/251d87d6-5fec-4133-a470-113d61ee3905"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/251d87d6-5fec-4133-a470-113d61ee3905">
 
 <br>
 <br>
 <br>
 
-### 38.B ) Change File Permissions
+<ins>Change File Permissions</ins>:
 
 <ins>2nd Thing: Set Permissions to `Read` only for `ost-config.php`</ins>:
 
@@ -1289,37 +1289,41 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Ok`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bd4424a4-45d3-4b57-8190-7c900d90c374"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bd4424a4-45d3-4b57-8190-7c900d90c374">
 
-***
+<br>
+<br>
+<br>
 
-### 39.A ) Login To: http://localhost/osTicket/scp/login.php
+### 24. ) Login To: http://localhost/osTicket/scp/login.php
 
 - Username: *`The one you created at Step 34.A and the one you used at Step 35.H`*
 
 - Password: *`The one you created at Step 34.A and the one you used at Step 35.H`*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1b7c8e91-5375-40d9-90c2-45c2fcf7aef1"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1b7c8e91-5375-40d9-90c2-45c2fcf7aef1">
 
-***
+<br>
+<br>
+<br>
 
-### 39.B ) Now you are successfully inside osTicket! Congrats!
+#### Now you are successfully inside osTicket!
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ef1ee657-b978-4494-acb7-7a4e3585acca"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ef1ee657-b978-4494-acb7-7a4e3585acca">
 
-***
+<br>
+<br>
+<br>
 
-### 40. ) End Users osTicket URL:
+### 25. ) End Users osTicket URL:
 
 - http://localhost/osTicket/ 
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e5bb86f6-de48-47f3-bcb5-97cbb620e6d8"><br>
-
-***
-
-☎️ For any questions, or just to connect, you can message me at: www.linkedin.com/in/vincentchachere
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/e5bb86f6-de48-47f3-bcb5-97cbb620e6d8">
 
 </details>
+
+☎️ For any questions or just to connect you can reach me at: www.linkedin.com/in/vincentchachere
