@@ -1181,9 +1181,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-#### Congratulations! Hopefully it is installed with no errors, but we are not finished just yet!
+#### Congratulations! Hopefully osTicket is installed with no errors, but we are not finished just yet!
 
-*Go to the next part to finish this lab*
+*Go to the next part to continue finishing this lab*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4988fb-ea09-4432-b689-dedfe5b96449"><br>
@@ -1198,7 +1198,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 </summary>
 
-### 37.A ) Clean Up Resources
+### 22. ) Clean Up Resources
 
 - Browse to your help desk login page: `http://localhost/osTicket/scp/login.php`
 
@@ -1221,15 +1221,13 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 37.B ) Clean Up Resources
-
-<ins>1st Thing</ins>:
+<ins>Clean Up Resources</ins>:
   
-  - Delete: c:\inept\wwwroot\osTicket\\`setup`
+  - Delete: c:\inept\wwwroot\osTicket\`setup`
 
     - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
 
-<ins>Scroll down `Part H: Change File Permissions` for the 2nd Thing</ins>
+*Go To: `Part H: Change File Permissions` for the 2nd Thing*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1fcc1edd-c8da-406e-aaee-495acdd2ab82"><br>
