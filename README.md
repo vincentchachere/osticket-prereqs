@@ -933,14 +933,14 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <ins>Enable Extensions for osTicket</ins>:
 
-<ins>Restart the osTicket in your browser and observe the changes</ins>
+- Refresh: the `osTicket in your browser` and observe the changes
 
-- Click: `Refresh` that is in your `IIS Manager`
+- Refresh: `IIS Manager`
 
 - Click: `Browse*:80 (http)`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2efefb03-ac37-4cbd-85e4-08d88787e3de">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/bc60f3d9-52eb-40db-931b-4de82d184253">
 
 <br>
 <br>
@@ -948,9 +948,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 16. ) Rename: ost-config.php
 
-- Open: `File Explorer`
-
-- Go To: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
+- Open File Explorer and Go To: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
 
 - Double-Click: `osTicket`
 
@@ -961,7 +959,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 31.B ) Rename: ost-config.php
+<ins>Rename: ost-config.php</ins>:
+
+*Scroll all the way down within the **include** folder*
 
 - Double-Click: `include`
 
@@ -972,9 +972,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 31.C ) Rename: ost-config.php
-
-- *Scroll all the way down*
+<ins>Rename: ost-config.php</ins>:
 
 - Right-Click: `ost-sampleconfig.php`
 
@@ -993,20 +991,20 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 32.A ) Assign Permissions To: ost-config.php
+17. ) Assign Permissions To: ost-config.php
 
 - Right-Click: `ost-config.php`
 
 - Click: `Properties`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1acd9457-2365-4163-9fcc-c273ae85a833">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/94df787f-4506-47ae-bc96-4bcc1d8bd9a0">
 
 <br>
 <br>
 <br>
 
-### 32.B ) Assign Permissions To: ost-config.php
+<ins>Assign Permissions To: ost-config.php</ins>:
 
 - Click: `Security`
 
@@ -1017,41 +1015,41 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Remove all inherited permissions from this object`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b0a950c8-51f1-48b2-b757-d0edeebfc9ab">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b80a7030-5965-471d-a583-09df1697d833">
 
 <br>
 <br>
 <br>
 
-### 32.C ) Assign Permissions To: ost-config.php
+<ins>Assign Permissions To: ost-config.php</ins>:
 
-- Click: `Add` > `Select a principal` > Type In: `Everyone` > Click: `Check Names`
-
-  - *It should be underlined after you click 'Check Names'*
+- Click: `Add` > `Select a principal` > Enter the Object Name: `Everyone` > Click: `Check Names`
 
 - Click: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/63e662f4-ada6-417a-81c2-d5668c39065d">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/415292b6-fd23-4f4c-a781-1f45c2d4727f">
 
 <br>
 <br>
 <br>
 
-### 32.D ) Assign Permissions To: ost-config.php
+<ins>Assign Permissions To: ost-config.php</ins>:
 
 - Select: `Full Control` *(make sure all boxes are checked as seen in the image below)*
 
 - Click: `OK`
 
-- Click: `OK`
+- Click: `OK` again
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c932691e-0f52-4cb3-9f75-069499a2a54b">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/164a3e42-9c4a-4363-9742-0fd445f68d93">
 
-***
+<br>
+<br>
+<br>
 
-### 33. ) Restart IIS Manager and Continue Setting Up osTicket in the Browser
+### 18. ) Restart IIS Manager and Continue Setting Up osTicket in the Browser
 
 - Click: `Restart`
 
@@ -1060,7 +1058,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db18a130-c73e-41f6-b15e-3acd07c1f4bf">
 
-***
+<br>
+<br>
+<br>
 
 ### 34. ) Continue Setting up osTicket in the browser
 
@@ -1086,7 +1086,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/25255d72-3702-4528-9c1a-180bd627eac6"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.A ) Download and Install HeidiSQL
 
@@ -1103,7 +1105,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9122a6b-f4c2-4055-95f8-86951eab4e8b"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.B ) Download and Install HeidiSQL
 
@@ -1112,7 +1116,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9c392d33-b538-4fe4-99a8-52d60a64cd8c"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.C ) Download and Install HeidiSQL
 
@@ -1121,7 +1127,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/316b780e-beeb-438d-9ca6-26dbc2296972"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.D ) Download and Install HeidiSQL
 
@@ -1130,7 +1138,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/75b5fe1c-9bb3-4fff-b073-e261d51953d1"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.E ) Download and Install HeidiSQL
 
@@ -1139,7 +1149,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0411ef50-139c-47df-8316-a93dbe99e028"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.F ) Download and Install HeidiSQL
 
@@ -1148,7 +1160,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/db333d2d-2f51-4fb9-91a2-fd693a47e50b"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.G ) Download and Install HeidiSQL
 
@@ -1157,7 +1171,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/901c0dfa-d425-4c6e-b9d4-0876d34c131e"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.H ) Download and Install HeidiSQL
 
@@ -1170,7 +1186,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/51779cfc-4be7-4a12-8a82-944298bc67bd"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.I ) Create a Database for osTicket called `osTicket`
 
@@ -1183,7 +1201,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ff3b586-e13e-43e6-9bf4-35e5bc921f57"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 35.J ) Create a Database for osTicket called `osTicket`
 
@@ -1194,7 +1214,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c806266-acbb-492c-a24b-e33bee43957f"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 36.A ) Continue Setting up osTicket in the browser
 
@@ -1209,7 +1231,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6fe660ac-3e26-4c95-aa79-ef671d26c8fe"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 36.B ) Congratulations! Hopefully it is installed with no errors, but we are not finished just yet!
 
@@ -1217,8 +1241,6 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4988fb-ea09-4432-b689-dedfe5b96449"><br>
-
-***
 
 </details>
 
@@ -1249,7 +1271,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94a00827-144e-435d-abaa-f2b052d6cb74"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 37.B ) Clean Up Resources
 
@@ -1263,8 +1287,6 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1fcc1edd-c8da-406e-aaee-495acdd2ab82"><br>
-
-***
 
 </details>
 
@@ -1287,7 +1309,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a532e9ec-56e1-44a6-a8e1-7e02bf41ef61"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 38.A ) Change File Permissions
 
@@ -1298,7 +1322,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/251d87d6-5fec-4133-a470-113d61ee3905"><br>
 
-***
+<br>
+<br>
+<br>
 
 ### 38.B ) Change File Permissions
 
