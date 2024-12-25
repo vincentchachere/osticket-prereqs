@@ -1200,55 +1200,47 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 22. ) Clean Up Resources
 
-- Browse to your help desk login page: `http://localhost/osTicket/scp/login.php`
+*Browse to your help desk login page:* `http://localhost/osTicket/scp/login.php`
 
 <ins>Before logging in we need to do 2 Things</ins>:
 
-- Clean Up Resources
+- 1st Thing: Delete **setup** folder inside osTicket folder
 
-  - 1st Thing - Delete: c:\inept\wwwroot\osTicket\\*`setup`*
+- 2nd Thing: Change File Permissions for **ost-config.php** by Setting it's Permissions to `Read only`
 
-- Change File Permissions
-
-  - 2nd Thing - Set Permissions to `Read` <ins>only</ins> for: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
-
-<ins>Scroll down to `Step 37.B` for further instruction</ins>
+  - Go To: This PC > inetpub > wwwroot > osTicket > include > `ost-config.php`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/94a00827-144e-435d-abaa-f2b052d6cb74">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b9d87a44-1ed6-4cab-aa7f-bc5d1cac736f">
 
 <br>
 <br>
 <br>
 
-<ins>Clean Up Resources</ins>:
+<ins>Cleaning Up Resources: Deleting **setup** folder inside osTicket</ins>:
   
-  - Delete: c:\inept\wwwroot\osTicket\`setup`
+- Go To: This PC > inetpub > wwwroot > `osTicket`
 
-    - ONLY DELETE THE `setup` PART - NOT THE WHOLE THING
+- Delete: `setup` folder
 
-*Go To: `Part H: Change File Permissions` for the 2nd Thing*
+*ONLY DELETE THE `setup` PART - NOT THE WHOLE THING*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1fcc1edd-c8da-406e-aaee-495acdd2ab82">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/6698c705-e677-4ab2-a88c-5bc268dd3ec3">
 
-</details>
+<br>
+<br>
+<br>
 
-<details>
+<ins>Change File Permissions for **ost-config.php** to **Read Only**</ins>:
 
-<summary>
+- Go To: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
 
-## ⚙️ Part H: Change File Permissions
+*Scroll all the way down*
 
-</summary>
-
-<ins>2nd Thing: Set Permissions to `Read` only for `ost-config.php`</ins>:
-
-  - File Explorer: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
-
-    - Right-Click: *`ost-config.php`*
+- Right-Click: `ost-config.php`
  
-    - Select: `Properties`
+- Select: `Properties`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a532e9ec-56e1-44a6-a8e1-7e02bf41ef61">
@@ -1257,22 +1249,18 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 23. ) Change File Permissions
-
-<ins>2nd Thing Set Permissions to `Read` only for `ost-config.php`</ins>:
+<ins>Change File Permissions for **ost-config.php** to **Read Only**</ins>:
 
 - Go To: `Security` > `Advanced` > `Edit`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/251d87d6-5fec-4133-a470-113d61ee3905">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/2a6d1252-bbe4-40e9-ad8d-f95e948e9d53">
 
 <br>
 <br>
 <br>
 
-<ins>Change File Permissions</ins>:
-
-<ins>2nd Thing: Set Permissions to `Read` only for `ost-config.php`</ins>:
+<ins>Change File Permissions for **ost-config.php** to **Read Only**</ins>:
 
 - Only Check: `Read` and `Read & execute` 
 
@@ -1289,17 +1277,17 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Click: `Ok`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bd4424a4-45d3-4b57-8190-7c900d90c374">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c3e6a61a-383a-48e1-a867-795dce74c678">
 
 <br>
 <br>
 <br>
 
-### 24. ) Login To: http://localhost/osTicket/scp/login.php
+### 23. ) Login To: http://localhost/osTicket/scp/login.php
 
-- Username: *`The one you created at Step 34.A and the one you used at Step 35.H`*
+- Username: *`The one you created at Part E: Step 21`*
 
-- Password: *`The one you created at Step 34.A and the one you used at Step 35.H`*
+- Password: *`The one you created at Part E: Step 21`*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1b7c8e91-5375-40d9-90c2-45c2fcf7aef1">
@@ -1308,7 +1296,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-#### Now you are successfully inside osTicket!
+### Now you are successfully inside osTicket!
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ef1ee657-b978-4494-acb7-7a4e3585acca">
@@ -1317,7 +1305,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 <br>
 <br>
 
-### 25. ) End Users osTicket URL:
+### Here is the End Users osTicket URL for the next lab that builds off this one:
 
 - http://localhost/osTicket/ 
 
