@@ -42,11 +42,9 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 1. ) Create a Resurce Group
 
-*For help with creating Virtual Machines and Resource Groups, refer to my lab [here](https://github.com/vincentchachere/virtual-machine).*
-
 Create a resource group named "RG-osTicket" in the "(US) West 3" region, then select **Review + Create** and click **Create**.
 
-*Double-check spelling when creating resources, virtual machines, regions, and similar inputs. Errors may require deletion and re-creation.*
+*Double-check spelling when creating resources, virtual machines, regions, and similar inputs. Errors may require deletion and re-creation. For help with creating Virtual Machines and Resource Groups, refer to [my other lab](https://github.com/vincentchachere/virtual-machine).*
 
 <p align="center">
 <img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4829d10a-d483-4c28-93a1-64034a6e0cf3">
@@ -80,15 +78,11 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 
 </summary>
 
-### 3. ) Connect your Virtual Machine to Remote Desktop
+### 3. ) Connect your Virtual Machine to Remote Desktop (RDP)
 
-*For assistance on connecting Virtual Machines to Remote Desktop go to Step 5 on [this lab](https://github.com/vincentchachere/virtual-machine)*
+Use the username and password you created earlier to connect via RDP.
 
-- Username: `vincentchachere` (whatever you created in Part B: Step 2)
-
-- Password: `Your Password` (whatever you created in Part B: Step 2)
-
-- Click: `Continue`
+*For help connecting Virtual Machines to Remote Desktop, refer to Step 5 in [my other lab](https://github.com/vincentchachere/virtual-machine)*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ccaac932-e865-4110-a96e-96d18b5b3cd0">
@@ -99,9 +93,7 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 
 <ins>Connect your Virtual Machine to Remote Desktop</ins>:
 
-- Uncheck: `All Boxes`
-
-- Click: `Accept`
+Uncheck all the boxes and click accept.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9">
@@ -118,16 +110,10 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 
 ### 4. ) Install and Enable IIS in Windows Virtual Machine
 
-<ins>Once inside your Virtual Machine we'll need to Install and Enable IIS by doing the following</ins>:
-
-  - Right-Click: `Start` in the bottom left corner of your screen
-
-  - Select: `Run`
-
-*Or you could just type `run` inside the search bar and press `Enter`*
+To install and enable IIS, right-click **Start** at the bottom-left corner, select **Run**, press **Enter**,**control panel**, and click **OK**.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/6f279019-c2f3-4446-b4f1-76e5cf798e2b">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/8e9cc9b1-c20b-409d-867e-22b51ebc421b">
 
 <br>
 <br>
@@ -135,20 +121,7 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 
 <ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
-- Type In: `Control Panel`
-
-- Click: `OK`
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/789188b7-01d1-45b8-a805-bbd6ff0594aa">
-
-<br>
-<br>
-<br>
-
-<ins>Install and Enable IIS in Windows Virtual Machine</ins>:
-
-  - Select: `Programs`
+Select **Programs**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3c279675-4075-4b70-9702-f319b73c7131">
@@ -159,7 +132,7 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 
 <ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
-  - Select: `Turn Windows Features On or Off`
+Select **Turn Windows Features On or Off**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3ef2747d-3665-48a8-9796-a482fd275039">
@@ -169,12 +142,8 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 <br>
 
 <ins>Install and Enable IIS in Windows Virtual Machine</ins>:
-                              
-  - Enable and Expand: `Internet Information Services (IIS)`
- 
-  - Enable and Expand: `World Wide Web Services`
 
-    - Check: `All Boxes` within this feature's folder
+Enable and Expand the **Internet Information Services (IIS)** and **World Wide Web Services** folders then check **all the Boxes** within this feature's folder.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ece03bc2-ec8a-4392-b658-b98b771be30b">
@@ -187,13 +156,7 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 
 *While still inside the World Wide Web Service folder:*
 
-  - Expand: `Application Development Features` folder
-
-  - Enable: `CGI`
-
-  - Collapse: `Application Development Features` folder
-
-  - Go Back Inside: `World Wide Web Service` folder
+Expand the **Application Development Features** folder and enable **CGI**. Collapse the **Application Development Features** folder and go back inside the **World Wide Web Service** folder.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7e2097ad-9abe-4db1-8f70-80c60d46548f">
@@ -206,11 +169,7 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 
 *Back inside the World Wide Web Service folder:*
 
-  - Enable and Expand: Common HTTP Features
-
-  - Check: `All Boxes` within this feature's folder
- 
-  - Click: `OK`
+Enable and expand the **Common HTTP Features** folder and check **All Boxes** within this feature's folder, then click **OK** when done.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/914c53a4-0fc9-45a5-9c9c-663e210b4828">
@@ -221,11 +180,7 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 
 <ins>Install and Enable IIS in Windows Virtual Machine</ins>:
 
-- Wait for it to load...
-
-- When that's done loading..
-
-- Click: `Close`
+When it's done enabling you can close it out.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c42e5f4f-43d5-4ef7-812a-d6cced5d7741"><br>
