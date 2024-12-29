@@ -590,7 +590,7 @@ Download **osTicket** then open file explorer and follow the path: **This PC** >
 
 <ins>Install osTicket</ins>:
 
-Open a second file explorer and follow the path: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
+Open a second file explorer and follow the path: **This PC** > **Windows (C:)** > **inetpub** > **wwwroot**
 
 Drag and drop the **upload** folder from the first file explorer into the **wwwroot** that's inside the second file explorer.
 
@@ -603,9 +603,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 <ins>Install osTicket</ins>:
 
-- Right-Click: `upload` (*the **upload** that is in the new File Explorer you just opened*)
-
-- Click: `Rename`
+Right-click the **upload** folder you put in the second file explorer and rename it to **osTicket**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a92db299-809a-40c2-b194-9ba4b6f01f6b">
@@ -616,11 +614,9 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 <ins>Install osTicket</ins>:
 
-- Type In: `osTicket`
+Spell the folder name exactly as **osTicket** (capital **T**, everything else lowercase) to avoid breaking hardcoded paths, file references, and configuration dependencies that are in the core PHP files, configuration files (`ost-config.php`), and web server settings.
 
-- Press: `Enter`
-
-*Spell the folder name exactly as **osTicket** (capital **T**, everything else lowercase) to avoid breaking hardcoded paths, file references, and configuration dependencies that are in the core PHP files, configuration files (`ost-config.php`), and web server settings.*
+*If osTicket isn't spelled correctly it will not work when we go to use.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/2f19fba0-01d9-413c-97b3-8fc1b71c78f2">
@@ -631,7 +627,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 ### 14. ) Refresh the osTicket site in your browser and observe the changes
 
-- Open: `IIS` <ins>as an Administrator</ins>
+Open **IIS as an administrator**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c9e6f828-a8e4-4087-be9a-c257ac61efbf">
@@ -642,7 +638,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 <ins>Refresh the osTicket site in your browser and observe the changes</ins>:
 
-- Click: `Restart`
+Click **Restart** so the changes you made can update.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7c0012c9-4c31-42a0-bfc2-4911bc46dae3">
@@ -653,9 +649,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 <ins>Refresh the osTicket site in your browser and observe the changes</ins>:
 
-- Inside PHP Manager Go to: `Sites` > `Default Web Site` > `osTicket`
-
-- Click: `Browse*: 80`
+Inside PHP Manager go to **Sites** > **Default Web Site** > **osTicket** and click **Browse: 80 (http)**
 
 *Observe the features currently enabled and disabled within the osTicket browser. After enabling additional extensions in the next step, you’ll notice a few more features marked as enabled.*
 
@@ -668,9 +662,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 ### 15. ) Enable Extensions for osTicket
 
-- Inside PHP Manager Go to: `Sites` > `Default Web Site` > `osTicket`
-
-- Double-Click: `PHP Manager`
+Inside PHP Manager go to **Sites** > **Default Web Site** > **osTicket** and double-click **PHP Manager**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d8d229e0-b240-4d9e-a330-752da0a27c6e">
@@ -681,7 +673,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 <ins>Enable Extensions for osTicket</ins>:
 
-- Click: `Enable or Disable Extensions`
+Click **Enable or Disable Extensions**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3b9e68b0-bc9c-4c13-b91e-337c98b91844">
@@ -692,9 +684,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 <ins>Enable Extensions for osTicket</ins>:
 
-- Right-Click: `php_imap.dll`
-
-- Click: `Enable`
+Right-click **php_imap.dll** and **Enable** the extension.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fb7ac977-81e9-41b7-a397-34b53643734c">
@@ -705,9 +695,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 <ins>Enable Extensions for osTicket</ins>:
 
-- Right-Click: `php_intl.dll`
-
-- Click: `Enable`
+Right-click **php_intl.dll** and **Enable** the extension.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/fc6242b4-4676-4d9a-8432-8b7b728dcda4">
@@ -718,18 +706,14 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 <ins>Enable Extensions for osTicket</ins>:
 
-- Right-Click: `php_opache.dll`
-
-- Click: `Enable`
+Right-click **php_opache.dll** and **Enable** the extension.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/063d7e76-b27c-454f-b2ff-eed9ed49343d">
 
 <ins>Enable Extensions for osTicket</ins>:
 
-*Verify all your extensions were enabled*
-
-- You should see the 3 following extensions in the `enabled` section:
+Verify all your extensions were enabled. You should see the 3 extensions you enabled in the enabled section of PHP extensions.
 
   - php_imap.dll
  
@@ -746,11 +730,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 <ins>Enable Extensions for osTicket</ins>:
 
-- Refresh: the `osTicket in your browser` and observe the changes
-
-- Refresh: `IIS Manager`
-
-- Click: `Browse*:80 (http)`
+Refresh the **osTicket in your browser** and observe the changes. Refresh **IIS Manager** and click **Browse:80 (http)**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/bc60f3d9-52eb-40db-931b-4de82d184253">
@@ -761,9 +741,7 @@ Drag and drop the **upload** folder from the first file explorer into the **wwwr
 
 ### 16. ) Rename: ost-config.php
 
-- Open File Explorer and Go To: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
-
-- Double-Click: `osTicket`
+Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetpub** > **wwwroot** then double click **osTicket**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b38819f3-c9e7-4c11-a6e0-f39d3de4f4ee">
