@@ -21,14 +21,15 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Create a Resource Group
 - Create a Virtual Machine inside the Resource Group
 - Connect Virtual Machine with Remote Desktop
-- Download & Install [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- Download & Install osTicket
+  - [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
   - Install/Enable IIS in Windows
   - Enable Extensions for osTicket
-  - Rename: ost-config.php
-  - Assign Permissions To: ost-config.php
-  - Create a database for 'osTicket'
+  - Rename: **ost-sampleconfig.php**
+  - Assign Permissions To: **ost-config.php**
+  - Create a database for osTicket
 - Clean Up Resources
-- Change File Permissions
+- Change: **ost-config.php** File Permissions
 
 ## Configuration Steps
 
