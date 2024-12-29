@@ -191,55 +191,19 @@ When it's done enabling you can close it out.
 
 ### 5. ) Open Microsoft Edge to Test IIS
 
-*Skip all the prompts it gives you when opening Microsoft edge*
-
-- Open: `Microsoft Edge` Internet Browser
-
-- Click: `Start without your data`
-
-- *Uncheck the Box*
-
-- Clcik :`Conirm and Continue`
-
-- Click: `Continue without this data`
-
-- Uncheck: `the Box`
-
-- Click: `Confirm and start browsing`
+Skip and uncheck any prompts Microsoft edge gives you when opening.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1e5c7aa4-97dd-4c8d-a09d-c9cafddda685"><br>
 
 <ins>Testing IIS on Microsoft Edge</ins>:
 
-- Type: `127.0.0.1` into the browser
+Browse to **127.0.0.1**. If you don't see the image displayed below then try uninstalling and reinstalling IIS
 
-  - If you do not see the image displayed below then try uninstalling and reinstalling IIS
-
-*The **How To Uninstall and Reinstall Instructions** are directly underneath the image below.*
+***To Uninstall and Reinstall IIS** simply uncheck and disable everything you did when opening the IIS folder.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7c2dae78-f8bb-40ba-9f73-b24d60b25c91">
-
-*<ins>To Uninstall and Reinstall IIS do the following</ins>:*
-
-- *Right-Click: `Start` > Click: `Run`*
-
-- *Type In: `Control` > Click: `Programs`*
-
-- *Click: `Turn Windows on or off`*
-
-- *Uncheck: `IIS` > *Uncheck:* `World Wide Web Services`*
-
-- *Uncheck: `Application Development Features` (Inside World Wide Web Services)*
-
-- *Uncheck: `CGI` (Application Development Features)*
-
-- *Uncheck: `Common HTTP Feautures` (Inside World Wide Web Services)*
-
-- *Uncheck: `HTTP Redirection` (Inside Common HTTP Feautures)*
-
-- *Uncheck: `WebDAV Publishing` (Inside Common HTTP Feautures)*
 
 <br>
 <br>
@@ -247,17 +211,9 @@ When it's done enabling you can close it out.
 
 ### 6. ) Download PHP Manager for IIS
 
-*Open the installation files in a separate tab and set up a split screen as shown below for easy access throughout the lab.*
+Open [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) in a separate tab and set up a split screen as shown below for easy access throughout the lab. Double-click **PHP ManagerForIIS_v1.5.0.msi** and click the **...** Dots in the upper right of your screen next to the 'Share' button, then select **Open in new window**.
 
-- Open: [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
-
-- Double-Click: `PHP ManagerForIIS_v1.5.0.msi`
-
-- Click: The `...` Dots in the upper right of your screen next to the 'Share' button
-
-- Click: `Open in new window`
-
-*I've found that this method is the quickest and most reliable way to ensure a successful download on the first attempt, avoiding multiple tries.* 
+*I've found this method to be the quickest and most reliable way to ensure a successful download on the first attempt, avoiding multiple tries.* 
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ced7d37b-baf3-4cb4-b165-a35a7185937a">
@@ -268,11 +224,9 @@ When it's done enabling you can close it out.
 
 <ins>Downloading PHP Manager for IIS</ins>:
 
-- Click: `Download anyway`
+Click **Download anyway**
 
-*You can either wait for it to pop up when its done loading or click the **...** Dots in the upper right corner of your screen then click **Downloads**. As well, you can go to **File Eplorer**, navigate to your **Downloads**, then select **PHP Manager**.*
-
-*Sometimes the file doesn’t pop up after downloading, so I’m showing you both methods to access it.*
+*You can either wait for it to pop up when its done loading or click the **...** Dots in the upper right corner of your screen then click **Downloads**. As well, you can go to **File Eplorer**, navigate to your **Downloads**, then select **PHP Manager**. Sometimes the file doesn’t pop up after downloading, so I’m showing you both methods to access it.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/a5b48037-ee60-470d-99bb-c08ce2027c9c">
@@ -283,9 +237,7 @@ When it's done enabling you can close it out.
 
 <ins>Downloading PHP Manager for IIS</ins>:
 
-- Open: the `PHP Manager` download
-
-- Click: `Next`
+Open the **PHP Manager** download and click **Next**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/d259bf88-439b-42cc-9375-166f003d8808">
@@ -296,9 +248,7 @@ When it's done enabling you can close it out.
 
 <ins>Downloading PHP Manager for IIS</ins>:
 
-- Select: `I Agree`
-
-- Click: `Next`
+Select **I Agree** and click **Next**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/9199a0ea-972d-455c-9408-5365677ed221">
@@ -309,7 +259,7 @@ When it's done enabling you can close it out.
 
 <ins>Downloading PHP Manager for IIS</ins>:
 
-- Click: `Close`
+Click **Close**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ac09a285-6c4a-4ae0-8c33-2098d337d6f6">
@@ -320,17 +270,9 @@ When it's done enabling you can close it out.
 
 ### 7. ) Download Rewrite Module
 
+Double-click **rewrite_amd64_en-US.msi** and open the download. Check the **I accept the terms in the License Agreement* box, click **Install**, then **Finish**.
+
 *Download Rewrite Module the same way you did for PHP Manager*
-
-- Double-Click: `rewrite_amd64_en-US.msi`
-
-- Open: the `rewrite_amd64_en-US.msi` download
-
-- Check: the `I accept the terms in the License Agreement` box
-
-- Click: `Install`
-
-- Click: `Finish`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4dc65b4d-1b9e-455d-9045-f52b74fad6bd">
@@ -341,17 +283,9 @@ When it's done enabling you can close it out.
 
 ### 8. ) Create Directory C:\PHP
 
-- Go To: `File Explorer` > `This PC` > `Windows (C:)`
+Now we will create the PHP directory inside File Explorer so that the ticketing system's PHP files can be stored and executed correctly.
 
-- Right-Click: The `empty space under the files`
-
-- Go To: `New`
-
-- Click: `Folder`
-
-- Type In: `PHP`
-
-- Press: `Enter`
+Open **File Explorer** > **This PC** > **Windows (C:)**. Right-click the **empty space under the files** and click **New** then select **Folder**. Name the folder **PHP** and press **Enter**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d22ce8c2-06e5-4c52-b4c4-e6a0209efbc9">
@@ -362,7 +296,7 @@ When it's done enabling you can close it out.
 
 <ins>Creating PHP Directory</ins>:
 
-*You should see your new PHP Directory inside your Windows (c:) Drive when your done.*
+You should see your new **PHP Directory** inside your **Windows (c:) Drive** when your done.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/1b5f5158-5e53-4950-8907-a23d7bd42c05">
@@ -373,13 +307,7 @@ When it's done enabling you can close it out.
 
 ### 9. ) Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created
 
-- Download: `php-7.3.8-nts-Win32-VC15-x86.zip`
-
-- Go To: `File Explorer` > `This PC` > `Downloads`
-
-- Righ-Click: `php-7.3.8-nts-Win32-VC15-x86.zip`
-
-- Select: `Extract All`
+Download **php-7.3.8-nts-Win32-VC15-x86.zip** and go to **File Explorer** > **This PC** > **Downloads**. Right-click **php-7.3.8-nts-Win32-VC15-x86.zip** and select **Extract All**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/f850a7c2-2107-4113-9934-099ddeb63a12">
@@ -390,7 +318,7 @@ When it's done enabling you can close it out.
 
 <ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
-- Click: `Browse`
+Click **Browse**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/557f2ee5-5215-4f94-ab3e-4b1e64f625a0">
@@ -401,9 +329,7 @@ When it's done enabling you can close it out.
 
 <ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
-- Go To: `This PC` > `Windows (C:)` > `PHP`
-
-- - Click: `Select Folder`
+Go to **This PC** > **Windows (C:)** > **PHP** and click **Select Folder**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3b00bffe-4b2b-4a8d-9777-7dfcff1a4fd9">
@@ -414,7 +340,7 @@ When it's done enabling you can close it out.
 
 <ins>Download php-7.3.8 and Unzip it into the Directory (C:\PHP) you just created</ins>:
 
-- Click: `Extract`
+Click **Extract**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/bd6f48c3-9c8c-45bf-a96a-b01e47f70184">
@@ -425,9 +351,9 @@ When it's done enabling you can close it out.
 
 <ins>Verify the php-7.3.8 made it into the PHP Directory</ins>:
 
-- Go Back To: `This PC` > `Windows (C:)` > `PHP`
+Go back to **This PC** > **Windows (C:)** > **PHP**
 
-*You will now see the **php.7.3.8** file inside the PHP directory, as shown in the image below.*
+*The **php.7.3.8** file is now inside the **PHP directory**.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c6511b61-033a-46ff-9714-50b664e19c73"><br>
@@ -438,11 +364,7 @@ When it's done enabling you can close it out.
 
 ### 10. ) Download VC_redist.x86.exe
 
-- Download and Open: `VC_redist.x86.exe`
-
-- Check: the `I agree to the license terms and conditions` Box
-
-- Click: `Install`
+Download and open **VC_redist.x86.exe** then check the **I agree to the license terms and conditions** box and click **Install**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/170a61c1-fe3c-419f-8059-269bf6a5455c"><br>
@@ -453,9 +375,7 @@ When it's done enabling you can close it out.
 
 <ins>Download VC_redist.x86.exe for IIS</ins>:
 
-*When it is done installing..*
-
-- Click: `Close`
+When it is done installing you can **Close** it.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/57eb8907-d6da-4abc-b39b-5d945d62c55f"><br>
@@ -466,9 +386,7 @@ When it's done enabling you can close it out.
 
 ### 11. ) Download MySQL 5.5.62
 
-- Download and Open: `MySQL 5.5.62`
-
-  - Click: `Next`
+Download and open **MySQL 5.5.62** and click **Next**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/44a36637-43cc-4fcb-9d9b-6eb64c4315a4"><br>
@@ -479,9 +397,7 @@ When it's done enabling you can close it out.
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- Check: the `I accept the terms in the License Agreement` box
-
-- Click: `Next`
+Check the **I accept the terms in the License Agreement** box and click **Next**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1a768122-511d-44ef-a428-8a4dce09c2f9"><br>
@@ -492,9 +408,7 @@ When it's done enabling you can close it out.
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- Select: `Typical Setup`
-
-- Click: `Next`
+Select **Typical Setup** and click **Next**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/14c18df3-e9ee-4cf9-a0e7-d2631f3beedf"><br>
@@ -505,7 +419,7 @@ When it's done enabling you can close it out.
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- Click: `Install`
+Click **Install**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f09cc5cc-9262-4951-b2ef-82d39e43ab70">
@@ -516,9 +430,7 @@ When it's done enabling you can close it out.
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- Check: the `Launch the MySQL Instance Configuration Wizard` box
-
-- Click: `Finish`
+Check the **Launch the MySQL Instance Configuration Wizard** box and click **Finish**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/110fd673-4225-4d28-968b-d4f0535e39b2">
@@ -529,7 +441,7 @@ When it's done enabling you can close it out.
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- Click: `Next`
+Click **Next**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/61f88e18-96bf-4991-9ad1-1222abf6cd00">
@@ -540,9 +452,7 @@ When it's done enabling you can close it out.
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- Select: `Standard Confirguration`
-
-- Click: `Next`
+Select **Standard Confirguration** and click **Next**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/16837f9b-9535-4306-8b45-93a1c984e611">
@@ -553,9 +463,7 @@ When it's done enabling you can close it out.
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- Make sure your screen matches the image below and once you verify that it does..&darr;
-
-- Click: `Next`
+Match your screen with the image below and click **Next**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bcf52378-fb29-4fe8-8d2a-7ce1657bf457">
@@ -566,9 +474,7 @@ When it's done enabling you can close it out.
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-- Type In: `The password you used to log into remote desktop.`
-
-  - Click: `Next`
+Type **the password you used to log into remote desktop** and click **Next**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/cec6d46c-46d7-4db1-a897-deee162df7c8">
@@ -579,9 +485,7 @@ When it's done enabling you can close it out.
 
 <ins>Download MySQL 5.5.62 for IIS</ins>:
 
-*When it's done configuring..*
-
-- Click : `Finish`
+When it's done configuring click **Finish**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/bccc6a00-de77-4266-a7f3-e5c12eb30c1b">
@@ -592,11 +496,7 @@ When it's done enabling you can close it out.
 
 ### 12. ) Open IIS as an Administrator and Register PHP from within IIS
 
-- Search: `IIS`
-
-- Right-Click: `IIS`
-
-- Select: `Run as Administrator`
+**Run IIS as an administrator**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a4190c4b-6bfe-4185-91f8-a141afcc24f5">
@@ -607,7 +507,7 @@ When it's done enabling you can close it out.
 
 <ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
-- Double-Click: `PHP Manager`
+Open **PHP Manager**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/44aefc87-57e7-4c5a-8087-b0d5548c57d1">
@@ -618,9 +518,7 @@ When it's done enabling you can close it out.
 
 <ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
-- Click: `Register vew PHP version`
-
-- Click: the `...` box
+Select **Register new PHP version** and click the box with the **three dots**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c9cc72d0-35ac-478c-8378-073a0378b976">
@@ -631,11 +529,7 @@ When it's done enabling you can close it out.
 
 <ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
-- Follow this path: `This PC` > `Windows (C:)` > `PHP`
-
-- Select: `php-cgi`
-
-- Click: `Open`
+Follow the path **This PC** > **Windows (C:)** > **PHP** and select **php-cgi** then click **Open**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/12b3b793-20da-4d32-bd71-8fbb3798019a">
@@ -646,7 +540,7 @@ When it's done enabling you can close it out.
 
 <ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
-- Click: `OK`
+Click **OK**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/bf4becfe-54d8-40e7-9f36-195476f484ee">
@@ -657,7 +551,7 @@ When it's done enabling you can close it out.
 
 <ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
-- Click: the `Home` icon in the upper right corner of IIS Window
+Click the **Home icon** in the upper right corner of IIS Window.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ae80d892-4d1d-4665-83d0-6e4605a2a7c4">
@@ -668,7 +562,7 @@ When it's done enabling you can close it out.
 
 <ins>Open IIS as an Administrator and Register PHP from within IIS</ins>:
 
-- Click: `Restart`
+**Restart IIS** to register the new PHP version.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7c0012c9-4c31-42a0-bfc2-4911bc46dae3">
@@ -685,9 +579,7 @@ When it's done enabling you can close it out.
 
 ### 13. ) Install osTicket v1.15.8
 
-- Download: `osTicket`
-
-- Open File Explorer and Go To: `This PC` > `Downloads` > `osTicket--v1.15.8`
+Download **osTicket** then open file explorer and follow the path: **This PC** > **Downloads** > **osTicket--v1.15.8**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/52102f4a-e0da-449e-844e-0117394c61a7">
@@ -698,11 +590,9 @@ When it's done enabling you can close it out.
 
 <ins>Install osTicket</ins>:
 
-- Open: A Second `File Explorer`
+Open a second file explorer and follow the path: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
 
-- In The Second File Explorer Go To: `This PC` > `Windows (C:)` > `inetpub` > `wwwroot`
-
-- Drag and Drop: `upload` from the first File Explorer into the `wwwroot` that's inside the second File Explorer
+Drag and drop the **upload** folder from the first file explorer into the **wwwroot** that's inside the second file explorer.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/54aa0527-e724-48f3-898c-0c1797462f43">
