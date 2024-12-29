@@ -741,7 +741,7 @@ Refresh the **osTicket in your browser** and observe the changes. Refresh **IIS 
 
 ### 16. ) Rename: ost-config.php
 
-Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetpub** > **wwwroot** then double click **osTicket**.
+Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetpub** > **wwwroot** and open **osTicket**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b38819f3-c9e7-4c11-a6e0-f39d3de4f4ee">
@@ -752,9 +752,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 <ins>Rename: ost-config.php</ins>:
 
-*Scroll all the way down within the **include** folder*
-
-- Double-Click: `include`
+Scroll all the way down in the **include** folder and open the **include** folder.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/3f8b1c3c-01c9-46a2-a23e-5336a441bfd3">
@@ -765,15 +763,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 <ins>Rename: ost-config.php</ins>:
 
-- Right-Click: `ost-sampleconfig.php`
-
-  - Click: `Rename`
-
-  - Rename: `ost-sampleconfig.php`
- 
-  - To: `ost-config.php`
- 
-  - Press: `Enter` when done typing in the name
+Rename **ost-sampleconfig.php** to **ost-config.php**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/c0e4ab41-43ce-4591-8454-4eae38bec613">
@@ -784,9 +774,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 17. ) Assign Permissions To: ost-config.php
 
-- Right-Click: `ost-config.php`
-
-- Click: `Properties`
+Go to the **ost-config.php** PHP file **Properties**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/94df787f-4506-47ae-bc96-4bcc1d8bd9a0">
@@ -797,13 +785,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 <ins>Assign Permissions To: ost-config.php</ins>:
 
-- Click: `Security`
-
-- Click: `Advanced`
-
-- Select: `Disable Inheritance`
-
-- Click: `Remove all inherited permissions from this object`
+Go to the **Security** tab, select **Advanced**, **Disable Inheritance**, and **Remove all inherited permissions from this object**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b80a7030-5965-471d-a583-09df1697d833">
@@ -814,9 +796,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 <ins>Assign Permissions To: ost-config.php</ins>:
 
-- Click: `Add` > `Select a principal` > Enter the Object Name: `Everyone` > Click: `Check Names`
-
-- Click: `OK`
+In the Permission Entry window for ost-config.php: **Add** > **Select a principal** > Add: **Everyone** > **Check Names** > **OK**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/415292b6-fd23-4f4c-a781-1f45c2d4727f">
@@ -827,11 +807,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 <ins>Assign Permissions To: ost-config.php</ins>:
 
-- Select: `Full Control` *(make sure all boxes are checked as seen in the image below)*
-
-- Click: `OK`
-
-- Click: `OK` again
+Select **Full Control** *(make sure all boxes are checked as seen in the image below)* > **OK** > **OK** again
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/164a3e42-9c4a-4363-9742-0fd445f68d93">
@@ -842,9 +818,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 ### 18. ) Restart IIS Manager and Continue Setting Up osTicket in the Browser
 
-- Click: `Restart`
-
-- Click: `Continue` 
+Click **Restart** then **Continue**. 
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/1132dfa8-668a-4180-a0bf-a78108e571ff">
@@ -859,15 +833,15 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
   - Default Email: `firstname@helper.com`
 
-  - First Name: *AnythingYouWant* (*just remember it*)
+  - First Name: *AnythingYouWantJustRememberIt*
 
-  - Last Name: *AnythingYouWant* (*just remember it*)
+  - Last Name: *AnythingYouWantJustRememberIt*
 
   - Email Address: `firstname@gmail.com`
 
-  - Username: *AnythingYouWant* (*just remember it*)
+  - Username: *AnythingYouWantJustRememberIt*
 
-  - Password: *AnythingYouWant* (*just remember it*)
+  - Password: *AnythingYouWantJustRememberIt*
 
 *Before finishing the setup you need to download HiediSQL first, so go to the next. We'll come back to this after, leave it as is.*
 
@@ -880,15 +854,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 ### 19. ) Download and Install HeidiSQL
 
-- Download: `HiediSQL`
-
-- Open: `HiediSQL`
-
-- Select: the `I accept the agreement`
-
-- Click: `Next` until you reach the **Ready to Install**
-
-- 
+Download and open **HiediSQL**, select **I accept the agreement**, and click **Next** until you reach the **Ready to Install** window.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/b9122a6b-f4c2-4055-95f8-86951eab4e8b">
@@ -899,11 +865,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 <ins>Installing HeidiSQL</ins>:
 
-- Click: `Install`
-
-- Click: `Finish` then..
-
-- Click: `Skip`
+Select **Install** > **Finish** > **Skip**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/0411ef50-139c-47df-8316-a93dbe99e028">
@@ -918,7 +880,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 - Password: `The one you created earlier`
 
-- Click: `Open` to connect to session
+Click **Open** to connect to the session.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/51779cfc-4be7-4a12-8a82-944298bc67bd">
@@ -929,11 +891,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 ### 20. ) Create a Database for osTicket called `osTicket`
 
-- Right-Click: `Unamed`
-
-- Click: `Create new`
-
-- Click: `Database`
+Right-click: **Unnamed** > Select: **Create new** > Select: **Database**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1ff3b586-e13e-43e6-9bf4-35e5bc921f57">
@@ -944,9 +902,9 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 
 <ins>Create a Database for osTicket called **osTicket**</ins>:
 
-- Type In: `osTicket` be sure to type it in exactly like that (*capital **T** lowercase everything else*)
+Name of Database: **osTicket** (*Spell check before continuing - capital **T** lowercase everything else*)
 
-- Click: `OK`
+Click **OK** when finished.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/8c806266-acbb-492c-a24b-e33bee43957f">
@@ -955,7 +913,7 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 <br>
 <br>
 
-### 21. ) Continue Setting up osTicket in the browser
+### 21. ) Finish Setting up osTicket in the browser
 
 - MySQL Database: `osTicket`
 
@@ -972,9 +930,9 @@ Open file explorer and follow the path: **This PC** > **Windows (C:)** > **inetp
 <br>
 <br>
 
-#### Congratulations! Hopefully osTicket is installed with no errors, but we are not finished just yet!
+### Congragulations! osTicket is officially installed.. but we're not finished yet!
 
-*Go to the next part to continue finishing this lab*
+*Continue to the next part to finish this lab*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4988fb-ea09-4432-b689-dedfe5b96449">
