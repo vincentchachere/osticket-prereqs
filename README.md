@@ -4,7 +4,7 @@
 
 # osTicket - Prerequisites and Installation
 
-In this lab, we set up the osTicket helpdesk system by completing its prerequisites and installation. Using tools like Microsoft Azure, IIS, and Remote Desktop, we prepare a virtual environment, configure necessary components, and install osTicket step-by-step.
+In this lab, we set up the osTicket helpdesk ticketing system by completing the prerequisites and installation process. Using tools such as Microsoft Azure, IIS, and Remote Desktop, we prepare a virtual environment, configure essential components like the web server and database, and guide you through a step-by-step installation of osTicket, ensuring all dependencies are properly addressed for a functional setup.
 
 ## Environments and Technologies Used
 
@@ -1044,9 +1044,9 @@ Check the **Read** and **Read & execute** permissions. Uncheck **Full Control**,
 
 <h2 align="center">Final Thoughts</h2>
 
-In conclusion, this lab walked you through the prerequisites and installation process of the osTicket helpdesk system, leveraging tools such as Microsoft Azure, IIS, and Remote Desktop to set up a virtual environment. By completing each step, from configuring the virtual machine to installing and enabling necessary components, we successfully deployed osTicket. With the installation complete, the environment is now ready for use, and the ticketing system is poised to streamline support workflows.
+This lab demonstrated the prerequisites and installation process of the osTicket helpdesk ticketing system, leveraging tools such as Microsoft Azure, IIS, and Remote Desktop to set up a virtual environment. By completing each step, from configuring the virtual machine to installing and enabling necessary components, we successfully deployed osTicket. With the installation complete, we can now focus on configuring osTicket to ensure it is tailored to our organization’s needs. This involves setting up roles, departments, teams, agents, and users, as well as defining Service Level Agreements (SLAs). These configurations are crucial for streamlining ticket management, ensuring efficient workflows, and enabling the system to properly route and track support requests.
 
-To continue exploring osTicket, proceed to the next lab on [practicing the ticket lifecycle](https://github.com/vincentchachere/Ticket-Lifecycle).
+To continue the osTicket tutorial series, proceed to the next lab on [post-installation and configuration for osTicket](https://github.com/vincentchachere/Ticket-Lifecycle).
 
 Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated.
 
