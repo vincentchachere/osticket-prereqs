@@ -30,9 +30,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 - Clean Up Resources
 - Change File Permissions
 
-## Installation Files
-
-- https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+## Configuration Steps
 
 <details>
 
@@ -44,19 +42,11 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 1. ) Create a Resurce Group
 
-*For assistance on creating Virtual Machines and Resource Groups go to my other lab [here](https://github.com/vincentchachere/virtual-machine)
+*For help with creating Virtual Machines and Resource Groups, refer to my lab [here](https://github.com/vincentchachere/virtual-machine).*
 
-<ins>Input the following Information</ins>:
+Create a resource group named "RG-osTicket" in the "(US) West 3" region, then select **Review + Create** and click **Create**.
 
-- Resource Group Name: `RG-osTicket`
-
-- Region: `(US) West US 3`
-
-- Click: `Review + Create`
-
-- Click: `Create`
-
-*Double-check spelling when creating resources (e.g., resource groups, virtual machines). Names, regions, and similar inputs cannot be edited after creation. Errors may require deleting and restarting your work.*
+*Double-check spelling when creating resources, virtual machines, regions, and similar inputs. Errors may require deletion and re-creation.*
 
 <p align="center">
 <img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4829d10a-d483-4c28-93a1-64034a6e0cf3">
@@ -73,29 +63,7 @@ In this lab, we set up the osTicket helpdesk system by completing its prerequisi
 
 ### 2. ) Create a Virtual Machine inside the Resource Group
 
-<ins>Input the following Information</ins>:
-
-*Fill in everything displayed in the image below.*
-
-- Select Resource Group Name: `RG-osTicket` (The one you created in Part A: Step 1)
-
-- Virtual Machine Name: `vm-osticket` (all lowercase)
-
-- Region: `(US) West 3`
-
-- Image: `Windows 10 Pro, version 22H2 - ×64 Gen2`
-
-- Size: `Standard_D45_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
-
-- Username: `vincentchachere` (this can be whatever you want - just remember it)
-
-- Password: `whatever-you-want` (just remember it)
-
-- Check: The `Licensing` Box
-
-- Select: `Review and Create`
-
-- Click: `Create`
+Use the same resource group and region you created earlier (RG-osTicket and US West 3). Name the virtual machine **vm-osticket**, select the imaging **Windows 10 Pro, version 22H2 - ×64 Gen2**, and set the size to **Standard_D45_v3 - 4 vcpus, 16 GiB memory**. Create a username and password you can easily remember (for the simplicity of the lab) and be sure to check the **licensing box** at the bottom. Review your information and proceed to create your virtual machine.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4081f85f-969f-44ba-b922-173a14e9ac78">
