@@ -930,9 +930,9 @@ Click **OK** when finished.
 <br>
 <br>
 
-### Congragulations! osTicket is officially installed.. but we're not finished yet!
+<h2 align="center">Congragulations! osTicket is officially installed.. but we're not finished yet!</h2>
 
-*Continue to the next part to finish this lab*
+<h4 align="center">Continue to the next part to finish this lab</h4>
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/7f4988fb-ea09-4432-b689-dedfe5b96449">
@@ -951,13 +951,7 @@ Click **OK** when finished.
 
 *Browse to your help desk login page:* `http://localhost/osTicket/scp/login.php`
 
-<ins>Before logging in we need to do 2 Things</ins>:
-
-- 1st Thing: Delete **setup** folder inside osTicket folder
-
-- 2nd Thing: Change File Permissions for **ost-config.php** by Setting it's Permissions to `Read only`
-
-  - Go To: This PC > inetpub > wwwroot > osTicket > include > `ost-config.php`
+Before logging in we need to do 2 Things: Delete the **setup** folder inside the osTicket folder and change file permissions for **ost-config.php** by setting it's permissions to **Read only**.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b9d87a44-1ed6-4cab-aa7f-bc5d1cac736f">
@@ -967,12 +961,12 @@ Click **OK** when finished.
 <br>
 
 <ins>Cleaning Up Resources: Deleting **setup** folder inside osTicket</ins>:
-  
-- Go To: This PC > inetpub > wwwroot > `osTicket`
 
-- Delete: `setup` folder
+First, delete the **setup** file folder inside the osTicket folder.
 
-*ONLY DELETE THE `setup` PART - NOT THE WHOLE THING*
+Follow the path: **This PC** > **Windows (C:)** > **inetpub** > **wwwroot** > **osTicket**
+
+*ONLY DELETE THE **setup** FILE FOLDER - NOT THE WHOLE THING*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/6698c705-e677-4ab2-a88c-5bc268dd3ec3">
@@ -983,13 +977,9 @@ Click **OK** when finished.
 
 <ins>Change File Permissions for **ost-config.php** to **Read Only**</ins>:
 
-- Go To: This PC > inetpub > wwwroot > osTicket > include > *`ost-config.php`*
+Follow the path: **This PC** > **Windows (C:)** > **inetpub** > **wwwroot** > **osTicket** > **include** > **ost-config.php**
 
-*Scroll all the way down*
-
-- Right-Click: `ost-config.php`
- 
-- Select: `Properties`
+Scroll all the way down and go to the **ost-config.php** PHP file properties.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/a532e9ec-56e1-44a6-a8e1-7e02bf41ef61">
@@ -1000,7 +990,7 @@ Click **OK** when finished.
 
 <ins>Change File Permissions for **ost-config.php** to **Read Only**</ins>:
 
-- Go To: `Security` > `Advanced` > `Edit`
+To change the file permissions for **ost-config.php** to **Read-Only**** follow the path: **Security** > **Advanced** > **Edit**
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/2a6d1252-bbe4-40e9-ad8d-f95e948e9d53">
@@ -1011,19 +1001,7 @@ Click **OK** when finished.
 
 <ins>Change File Permissions for **ost-config.php** to **Read Only**</ins>:
 
-- Only Check: `Read` and `Read & execute` 
-
-  - Uncheck: `Full Control`
-
-  - Uncheck: `Modify`
-
-  - Uncheck: `Write`
-
-- Click: `Apply`
-
-- Click: `Ok`
-
-- Click: `Ok`
+Check the **Read** and **Read & execute** permissions. Uncheck **Full Control**, **Modify**, and **Write** permissions then click **Apply**, **OK**, **OK** again.
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c3e6a61a-383a-48e1-a867-795dce74c678">
@@ -1034,9 +1012,9 @@ Click **OK** when finished.
 
 ### 23. ) Login To: http://localhost/osTicket/scp/login.php
 
-- Username: *`The one you created at Part E: Step 21`*
+- Username: *`The one you used in Part E: Step 21`*
 
-- Password: *`The one you created at Part E: Step 21`*
+- Password: *`The one you used in Part E: Step 21`*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/1b7c8e91-5375-40d9-90c2-45c2fcf7aef1">
@@ -1045,7 +1023,7 @@ Click **OK** when finished.
 <br>
 <br>
 
-### Now you are successfully inside osTicket!
+<h2 align="center">Now you are successfully inside osTicket!</h2>
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/ef1ee657-b978-4494-acb7-7a4e3585acca">
