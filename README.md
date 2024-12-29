@@ -1041,4 +1041,10 @@ Check the **Read** and **Read & execute** permissions. Uncheck **Full Control**,
 
 </details>
 
-☎️ For any questions or just to connect you can reach me at: www.linkedin.com/in/vincentchachere
+<h2 align="center">Final Thoughts</h2>
+
+In conclusion, this lab walked you through the prerequisites and installation process of the osTicket helpdesk system, leveraging tools such as Microsoft Azure, IIS, and Remote Desktop to set up a virtual environment. By completing each step, from configuring the virtual machine to installing and enabling necessary components, we successfully deployed osTicket. With the installation complete, the environment is now ready for use, and the ticketing system is poised to streamline support workflows.
+
+To continue exploring osTicket, proceed to the next lab on [practicing the ticket lifecycle](https://github.com/vincentchachere/Ticket-Lifecycle).
+
+☎️ For questions or to connect you can reach me at: www.linkedin.com/in/vincentchachere
