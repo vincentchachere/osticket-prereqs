@@ -1048,4 +1048,6 @@ In conclusion, this lab walked you through the prerequisites and installation pr
 
 To continue exploring osTicket, proceed to the next lab on [practicing the ticket lifecycle](https://github.com/vincentchachere/Ticket-Lifecycle).
 
+Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated.
+
 ☎️ For questions or to connect you can reach me at: www.linkedin.com/in/vincentchachere
